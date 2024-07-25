@@ -16583,8 +16583,6 @@ http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8$LR•IPV4『线路4
 http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="黑莓电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑莓电影.png" group-title="数字频道",黑莓电影
 http://39.135.32.236:6610/PLTV/77777777/224/3221225740/index.m3u8?$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="1" tvg-name="纬来电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来电影.png" group-title="数字频道",纬来电影
-http://extraott.com:80/live/7921751389/6097373662/5493.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="爱上4K" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱上4K.png" group-title="数字频道",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="爱上4K" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/爱上4K.png" group-title="数字频道",爱上4K
