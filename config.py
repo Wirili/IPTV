@@ -15,6 +15,7 @@ source_urls = [
     # "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     # "https://v.nxog.top/m/tv/1/",
     "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
+    "https://gitee.com/ds360/ds/raw/master/ZB/lunbo.jpg",
     # "http://home.jundie.top:81/Cat/tv/live.txt",
     # "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
     # "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
