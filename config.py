@@ -41,7 +41,9 @@ url_blacklist = [
     "111.230.30.193",
     "148.135.93.213:81",
     "live.goodiptv.club",
-    "iptv.luas.edu.cn"
+    "iptv.luas.edu.cn",
+    "p3p://",
+    "p2p://"
 ]
 
 announcements = [
