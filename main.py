@@ -45,9 +45,6 @@ def fetch_channels(url):
                     if match:
                         current_category = match.group(1).strip()
                         channel_name = match.group(2).strip()
-                        channel_name = channel_name.split(" ")[0]
-                        if(channel_name.endswith("高清") or channel_name.endswith("HD")):
-                            channel_name = channel_name.replace("高清","").replace("HD","")
                         if current_category not in channels:
                             channels[current_category] = []
                 elif line and not line.startswith("#"):
@@ -65,9 +62,6 @@ def fetch_channels(url):
                     if match:
                         channel_name = match.group(1).strip()
                         channel_url = match.group(2).strip()
-                        channel_name = channel_name.split(" ")[0]
-                        if(channel_name.endswith("高清") or channel_name.endswith("HD")):
-                            channel_name = channel_name.replace("高清","").replace("HD","")
                         channels[current_category].append((channel_name, channel_url))
                     elif line:
                         channels[current_category].append((line, ''))
@@ -85,10 +79,16 @@ def match_channels(template_channels, all_channels):
     for category, channel_list in template_channels.items():
         matched_channels[category] = OrderedDict()
         for channel_name in channel_list:
+            cur_channel_name = channel_name
+            cur_list = [channel_name]
+            if "|" in channel_name:
+                cur_list = channel_name.split("|")
+                cur_channel_name = cur_list[0]
             for online_category, online_channel_list in all_channels.items():
                 for online_channel_name, online_channel_url in online_channel_list:
-                    if channel_name == online_channel_name:
-                        matched_channels[category].setdefault(channel_name, []).append(online_channel_url)
+                    for item in cur_list:
+                        if item == online_channel_name:
+                            matched_channels[category].setdefault(cur_channel_name, []).append(online_channel_url)
 
     return matched_channels
 
@@ -136,6 +136,7 @@ def updateChannelUrlsM3U(channels, template_channels):
                 f_txt.write(f"{category},#genre#\n")
                 if category in channels:
                     for channel_name in channel_list:
+                        channel_name = channel_name.split("|")[0]
                         if channel_name in channels[category]:
                             sorted_urls = sorted(channels[category][channel_name], key=lambda url: not is_ipv6(url) if config.ip_version_priority == "ipv6" else is_ipv6(url))
                             # sorted_urls = channels[category][channel_name]
