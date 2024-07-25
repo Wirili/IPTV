@@ -12277,16 +12277,122 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$LR•IPV4『线路
 http://ddns.cyruslee.top:8888/udp/239.77.1.99:5146$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="延边卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/延边卫视.png" group-title="卫视频道",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="1" tvg-name="CETV-1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV-1.png" group-title="卫视频道",CETV-1
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$LR•IPV6
-#EXTINF:-1 tvg-id="1" tvg-name="CETV-2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV-2.png" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-id="1" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$LR•IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://119.129.173.13:8081/hls/67/index.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://122.235.133.90:9999/udp/233.50.201.75:5140$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://183.141.217.186:9999/udp/233.50.201.75:5140$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://115.193.156.153:10000/udp/233.50.201.75:5140$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://125.112.17.38:9999/udp/233.50.201.75:5140$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://218.71.45.167:9999/udp/233.50.201.75:5140$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://115.201.170.144:9999/udp/233.50.201.75:5140$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://125.113.164.85:8888/udp/233.50.201.75:5140$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://115.203.17.130:9999/udp/233.50.201.75:5140$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://27.19.159.235:8989/rtp/239.69.1.110:10298$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://121.60.90.161:8000/rtp/239.69.1.110:10298$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://59.172.144.204:10000/rtp/239.69.1.110:10298$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://59.172.87.154:8888/rtp/239.69.1.110:10298$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://59.174.211.58:4022/rtp/239.69.1.110:10298$LR•IPV4『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://27.19.207.230:4022/rtp/239.69.1.110:10298$LR•IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://121.60.89.12:8989/rtp/239.69.1.110:10298$LR•IPV4『线路17』
+#EXTINF:-1 tvg-id="18" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://114.243.98.40:8821/rtp/239.3.1.57:8152$LR•IPV4『线路18』
+#EXTINF:-1 tvg-id="19" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://123.113.103.254:4022/rtp/239.3.1.57:8152$LR•IPV4『线路19』
+#EXTINF:-1 tvg-id="20" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://114.243.107.211:8821/rtp/239.3.1.57:8152$LR•IPV4『线路20』
+#EXTINF:-1 tvg-id="21" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://115.171.80.16:8888/udp/225.1.8.32:8152$LR•IPV4『线路21』
+#EXTINF:-1 tvg-id="22" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://115.171.80.16:8888/udp/225.1.8.169:4120$LR•IPV4『线路22』
+#EXTINF:-1 tvg-id="23" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://123.118.12.57:4022/rtp/239.3.1.57:8152$LR•IPV4『线路23』
+#EXTINF:-1 tvg-id="24" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://124.65.2.103:20000/rtp/239.3.1.57:8152$LR•IPV4『线路24』
+#EXTINF:-1 tvg-id="25" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://123.117.236.35:8680/rtp/239.3.1.57:8152$LR•IPV4『线路25』
+#EXTINF:-1 tvg-id="26" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://1.192.5.29:8800/rtp/239.16.20.78:10780$LR•IPV4『线路26』
+#EXTINF:-1 tvg-id="27" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://1.192.5.29:8800/rtp/239.16.10.12:2000$LR•IPV4『线路27』
+#EXTINF:-1 tvg-id="28" tvg-name="CETV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV1.png" group-title="卫视频道",CETV1
+http://61.157.32.218:8888/udp/239.93.1.111:5140$LR•IPV4『线路28』
+#EXTINF:-1 tvg-id="1" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$LR•IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CETV-2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV-2.png" group-title="卫视频道",CETV-2
-http://ddns.cyruslee.top:8888/udp/239.77.0.28:5146$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CETV-2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV-2.png" group-title="卫视频道",CETV-2
-http://ddns.cyruslee.top:8888/udp/239.77.1.69:5146$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="CETV-4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV-4.png" group-title="卫视频道",CETV-4
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$LR•IPV6
+#EXTINF:-1 tvg-id="2" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://114.243.98.40:8821/rtp/239.3.1.54:4120$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://123.113.103.254:4022/rtp/239.3.1.54:4120$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://114.243.107.211:8821/rtp/239.3.1.54:4120$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://115.171.80.16:8888/udp/225.1.8.193:4120$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://123.118.12.57:4022/rtp/239.3.1.54:4120$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://124.65.2.103:20000/rtp/239.3.1.54:4120$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://123.117.236.35:8680/rtp/239.3.1.54:4120$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://61.157.32.218:8888/udp/239.93.0.113:5140$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://qnap.yjnhome.com:4000/rtp/239.3.1.54:4120$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://ddns.cyruslee.top:8888/udp/239.77.0.28:5146$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="CETV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV2.png" group-title="卫视频道",CETV2
+http://ddns.cyruslee.top:8888/udp/239.77.1.69:5146$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="1" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$LR•IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://122.235.133.90:9999/udp/233.50.200.162:5140$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://183.141.217.186:9999/udp/233.50.200.162:5140$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://115.193.156.153:10000/udp/233.50.200.162:5140$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://125.112.17.38:9999/udp/233.50.200.162:5140$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://218.71.45.167:9999/udp/233.50.200.162:5140$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://115.201.170.144:9999/udp/233.50.200.162:5140$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://125.113.164.85:8888/udp/233.50.200.162:5140$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://115.203.17.130:9999/udp/233.50.200.162:5140$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://114.243.98.40:8821/rtp/239.3.1.56:4120$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://123.113.103.254:4022/rtp/239.3.1.56:4120$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://114.243.107.211:8821/rtp/239.3.1.56:4120$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://115.171.80.16:8888/udp/225.1.8.195:4120$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://123.118.12.57:4022/rtp/239.3.1.56:4120$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://124.65.2.103:20000/rtp/239.3.1.56:4120$LR•IPV4『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://123.117.236.35:8680/rtp/239.3.1.56:4120$LR•IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://61.157.32.218:8888/udp/239.93.0.50:5140$LR•IPV4『线路17』
+#EXTINF:-1 tvg-id="18" tvg-name="CETV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CETV4.png" group-title="卫视频道",CETV4
+http://qnap.yjnhome.com:4000/rtp/239.3.1.56:4120$LR•IPV4『线路18』
 #EXTINF:-1 tvg-id="1" tvg-name="汕头新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
 http://113.65.252.158:7777/udp/239.253.43.30:5146$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="汕头新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
