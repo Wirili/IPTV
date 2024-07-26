@@ -15,6 +15,6 @@ jobs:
         uses: Mattraks/delete-workflow-runs@v2
         with:
           token: ${{ secrets.WORK_TOKEN }}
-          repository: git@github.com:Wirili/IPTV.git
+          repository: https://github.com/Wirili/IPTV.git
           retain_days: 0
           keep_minimum_runs: 1
