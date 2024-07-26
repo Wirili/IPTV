@@ -16,5 +16,5 @@ jobs:
         with:
           token: ${{ secrets.WORK_TOKEN }}
           repository: git@github.com:Wirili/IPTV.git
-          retain_days: 0
+          retain_days: 1
           keep_minimum_runs: 1
