@@ -4,6 +4,7 @@ import logging
 from collections import OrderedDict
 from datetime import datetime
 import config
+from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[logging.FileHandler("function.log", "w", encoding="utf-8"), logging.StreamHandler()])
 
@@ -28,10 +29,14 @@ def fetch_channels(url):
     channels = OrderedDict()
 
     try:
-        response = requests.get(url)
-        response.raise_for_status()
-        response.encoding = 'utf-8'
-        lines = response.text.split("\n")
+        lines = ""
+        if url=="酒店组播":
+            lines = getHotel()
+        else:
+            response = requests.get(url)
+            response.raise_for_status()
+            response.encoding = 'utf-8'
+            lines = response.text.split("\n")
         current_category = None
         is_m3u = any("#EXTINF" in line for line in lines[:15])
         source_type = "m3u" if is_m3u else "txt"
@@ -164,6 +169,48 @@ def updateChannelUrlsM3U(channels, template_channels):
                                 f_txt.write(f"{channel_name},{new_url}\n")
 
             f_txt.write("\n")
+
+def getHotel():
+    hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
+
+    rsp = requests.post(
+        url = hotel,
+        data={
+            "saerch": "广东电信",
+            "Submit": "",
+            "names": "Tom",
+            "city": "HeZhou",
+            "address": "Ca94122",
+        },
+        headers={
+            "Host": "www.foodieguide.com",
+            "Origin": "http://www.foodieguide.com",
+            "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
+        },
+    )
+    rsp.encoding = "utf-8"
+    root = BeautifulSoup(rsp.text, "lxml")
+    els = root.select('div[style="color:limegreen; "]')
+    ips = []
+    lines =[]
+    lines.append("酒店组播,#genre#")
+    for item in els:
+        ips.append(item.parent.parent.a.get_text().strip())
+    for item in ips:
+        url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=false".format(item)
+        rsp = requests.get(
+            url,
+            headers={"Host": "www.foodieguide.com", "Referer": url},
+        )
+        if rsp.status_code == 200:
+            root = BeautifulSoup(rsp.text, "lxml")
+            els = root.select('div.m3u8')
+            for i in els:
+                name = i.parent.select(".channel")[0].get_text().strip()
+                ip = i.get_text().strip()
+                if "高清" in name:
+                    lines.append("{0},{1}".format(name.replace("高清",""),ip))
+    return lines
 
 if __name__ == "__main__":
     template_file = "demo.txt"
