@@ -13261,10 +13261,14 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="哒啵电竞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哒啵电竞.png" group-title="数字频道",哒啵电竞
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IAShttpSessionId=OTT19019320240419154124000281$LR•IPV6『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="乐游频道" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/乐游频道.png" group-title="数字频道",乐游频道
+#EXTINF:-1 tvg-id="1" tvg-name="乐游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/乐游.png" group-title="数字频道",乐游
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="乐游频道" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/乐游频道.png" group-title="数字频道",乐游频道
+#EXTINF:-1 tvg-id="2" tvg-name="乐游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/乐游.png" group-title="数字频道",乐游
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IAS,httpSessionId=OTT19019320240419154124000281$LR•IPV6『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="乐游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/乐游.png" group-title="数字频道",乐游
+http://118.79.139.154:6000/rtp/226.0.2.77:8528$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="乐游" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/乐游.png" group-title="数字频道",乐游
+http://1.30.18.218:20080/hls/120/index.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2$LR•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/快乐垂钓.png" group-title="数字频道",快乐垂钓
