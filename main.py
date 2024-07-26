@@ -72,7 +72,7 @@ def fetch_channels(url):
                         channels[current_category].append((line, ''))
         if channels:
             categories = ", ".join(channels.keys())
-            logging.info(f"url: {url} 爬取成功✅，包含频道数：{lines.count} 包含频道分类: {categories}")
+            logging.info(f"url: {url} 爬取成功✅，包含频道数：{len(lines)} 包含频道分类: {categories}")
     except requests.RequestException as e:
         logging.error(f"url: {url} 爬取失败❌, Error: {e}")
 
