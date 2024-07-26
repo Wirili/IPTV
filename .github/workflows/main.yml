@@ -20,6 +20,12 @@ jobs:
       with:
         python-version: '3.10'
 
+    - name: Install BeautifulSoup4
+      run: pip install BeautifulSoup4
+
+    - name: Install lxml
+      run: pip install lxml
+
     - name: Cache dependencies
       uses: actions/cache@v2
       with:
