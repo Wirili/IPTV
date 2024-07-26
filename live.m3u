@@ -12878,21 +12878,29 @@ http://115.203.17.130:9999/udp/233.50.201.74:5140$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
 http://125.112.17.38:9999/udp/233.50.201.74:5140$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225689/10000100000000060000000000146068_0.smil/index.m3u8$LR•IPV4『线路6』
+http://118.114.188.3:8686/udp/239.93.0.173:5140$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://58.35.229.94:9988/udp/239.45.1.55:5140$LR•IPV4『线路7』
+http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225689/10000100000000060000000000146068_0.smil/index.m3u8$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://116.234.40.68:10001/udp/239.45.1.55:5140$LR•IPV4『线路8』
+http://110.184.114.148:4000/udp/239.93.0.173:5140$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://58.41.2.190:4022/udp/239.45.1.55:5140$LR•IPV4『线路9』
+http://58.35.229.94:9988/udp/239.45.1.55:5140$LR•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://ddns.cyruslee.top:8888/udp/239.77.0.81:5146$LR•IPV4『线路10』
+http://116.234.40.68:10001/udp/239.45.1.55:5140$LR•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://ddns.cyruslee.top:8888/udp/239.77.1.139:5146$LR•IPV4『线路11』
+http://58.41.2.190:4022/udp/239.45.1.55:5140$LR•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://175.8.213.198:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路12』
+http://ddns.cyruslee.top:8888/udp/239.77.0.81:5146$LR•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$LR•IPV4『线路13』
+http://ddns.cyruslee.top:8888/udp/239.77.1.139:5146$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://175.8.213.198:8081/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$LR•IPV4『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://123.189.36.39:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://123.189.36.4:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路17』
 #EXTINF:-1 tvg-id="1" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 http://113.67.99.211:9999/udp/239.77.0.179:5146$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
