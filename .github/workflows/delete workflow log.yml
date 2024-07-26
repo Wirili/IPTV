@@ -1,0 +1,21 @@
+name: Delete old workflow runs
+on:
+# Run weekly, at 00:00 on sunday.
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  del_runs:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - name: Delete workflow runs for current repo
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.WORK_TOKEN }}
+          repository: git@github.com:Wirili/IPTV.git
+          retain_days: 7
+          keep_minimum_runs: 1
