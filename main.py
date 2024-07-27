@@ -5,6 +5,8 @@ from collections import OrderedDict
 from datetime import datetime
 import config
 from bs4 import BeautifulSoup
+import time
+import random
 
 logging.basicConfig(
     level=logging.INFO,
@@ -240,15 +242,9 @@ def getHotel():
         ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
     for item in ips:
-        url = "http://tonkiang.us/hotellist.html?s={0}&&Submit=+".format(item)
-        rsp = requests.post(
-            url,
-            headers={
-                "Host": "tonkiang.us",
-            },
-        )
+        time.sleep(random.uniform(5, 10))
         url = "http://tonkiang.us/alllist.php?s={0}&c=false".format(item)
-        rsp = requests.post(
+        rsp = requests.get(
             url,
             headers={
                 "Host": "tonkiang.us",
