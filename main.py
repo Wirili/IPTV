@@ -242,13 +242,22 @@ def getHotel():
         ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
     for item in ips:
+        s = requests.Session()
+        s.cookies.update(
+            {
+                "ckip1": "110.7.129.246%7C112.114.137.111%7C111.61.236.247%7C113.90.239.108%7C118.81.54.64%7C47.108.221.227%7C58.57.40.22%7C183.236.194.115",
+                "ckip2": "144.52.146.226%7C1.83.124.179%7C123.113.237.36%7C117.32.84.33%7C60.189.35.225%7C60.189.35.225%7Ckms.erfiy.com%7C95.181.85.13",
+                "REFERER": "Gameover",
+            },
+        )
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=false".format(item)
-        rsp = requests.get(
+        rsp = s.get(
             url,
             headers={
                 "Host": "www.foodieguide.com",
                 "Referer": url,
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
+                "X-Requested-With": "XMLHttpRequest",
             },
         )
         logging.info(url)
