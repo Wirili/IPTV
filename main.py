@@ -244,6 +244,17 @@ def getHotel():
 
     for item in ips:
         item = item.replace(":","%3A")
+        url = "http://www.foodieguide.com/iptvsearch/testgo.php?s={0}".format(item)
+        rsp = requests.post(
+            url,
+            headers={
+                "Host": "www.foodieguide.com",
+                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(
+                    item
+                ),
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+            },
+        )
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}".format(item)
         rsp = requests.post(
             url,
