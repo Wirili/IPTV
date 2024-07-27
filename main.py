@@ -198,16 +198,10 @@ def getHotel():
         ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
     for item in ips:
-        url = "http://tonkiang.us/hotellist.html?s={0}&Submit=+".format(item)
-        rsp1 = requests.get(
-            url,
-            headers={"Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item)},
-        )
         url = "http://tonkiang.us/alllist.php?s={0}&c=false".format(item)
         rsp = requests.get(
             url,
-            headers={"Host": "tonkiang.us", "Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item)},
-            cookies=rsp1.cookies
+            headers={"Host": "tonkiang.us", "Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item),"X-Requested-With":"XMLHttpRequest"}
         )
         logging.info(url)
         if rsp.status_code == 200:
