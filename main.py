@@ -267,7 +267,7 @@ def getHotel():
         )
         logging.info(url)
         if rsp.status_code == 200:
-            logging.info(rsp.text)
+            # logging.info(rsp.text)
             root = BeautifulSoup(rsp.text, "lxml")
             els = root.select("div.m3u8")
             for i in els:
