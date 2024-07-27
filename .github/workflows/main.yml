@@ -6,19 +6,15 @@ on:
   workflow_dispatch:
     branches:
       - main
+env:
+  TZ: Asia/Shanghai
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Set timezone to Asia/Shanghai
-      uses: szenius/set-timezone@v2.0
-      with:
-        timezoneLinux: "Asia/Singapore"
-        timezoneMacos: "Asia/Singapore"
-        timezoneWindows: "Singapore Standard Time"
-        
+
     - name: Checkout repository
       uses: actions/checkout@v2
 
