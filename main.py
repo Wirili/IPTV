@@ -5,8 +5,6 @@ from collections import OrderedDict
 from datetime import datetime
 import config
 from bs4 import BeautifulSoup
-import time
-import random
 
 logging.basicConfig(
     level=logging.INFO,
@@ -236,11 +234,12 @@ def getHotel():
     rsp.encoding = "utf-8"
     root = BeautifulSoup(rsp.text, "lxml")
     els = root.select('div[style="color:limegreen; "]')
-    ips = []
+    ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
     lines = []
     lines.append("酒店组播,#genre#")
     for item in els:
-        ips.append(item.parent.parent.a.get_text().strip())
+        if item.parent.parent.a.get_text().strip() not in lines:
+            ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
 
     for item in ips:
