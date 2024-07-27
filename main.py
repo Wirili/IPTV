@@ -246,9 +246,7 @@ def getHotel():
         url = "http://www.foodieguide.com/iptvsearch/alllist.php"
         rsp = requests.get(
             url,
-            params={
-                "s": item
-            },
+            params={"s": item, "y": False},
             headers={
                 "Host": "www.foodieguide.com",
                 "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(
