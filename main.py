@@ -6,7 +6,12 @@ from datetime import datetime
 import config
 from bs4 import BeautifulSoup
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[logging.FileHandler("function.log", "w", encoding="utf-8"), logging.StreamHandler()])
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[logging.FileHandler("function.log", "w", encoding="utf-8"), logging.StreamHandler()],
+)
+
 
 def parse_template(template_file):
     template_channels = OrderedDict()
@@ -25,17 +30,18 @@ def parse_template(template_file):
 
     return template_channels
 
+
 def fetch_channels(url):
     channels = OrderedDict()
 
     try:
         lines = ""
-        if url=="酒店组播":
+        if url == "酒店组播":
             lines = getHotel()
         else:
             response = requests.get(url)
             response.raise_for_status()
-            response.encoding = 'utf-8'
+            response.encoding = "utf-8"
             lines = response.text.split("\n")
         current_category = None
         is_m3u = any("#EXTINF" in line for line in lines[:15])
@@ -69,14 +75,17 @@ def fetch_channels(url):
                         channel_url = match.group(2).strip()
                         channels[current_category].append((channel_name, channel_url))
                     elif line:
-                        channels[current_category].append((line, ''))
+                        channels[current_category].append((line, ""))
         if channels:
             categories = ", ".join(channels.keys())
-            logging.info(f"url: {url} 爬取成功✅，包含频道数：{len(lines)} 包含频道分类: {categories}")
+            logging.info(
+                f"url: {url} 爬取成功✅，包含频道数：{len(lines)} 包含频道分类: {categories}"
+            )
     except requests.RequestException as e:
         logging.error(f"url: {url} 爬取失败❌, Error: {e}")
 
     return channels
+
 
 def match_channels(template_channels, all_channels):
     matched_channels = OrderedDict()
@@ -93,9 +102,12 @@ def match_channels(template_channels, all_channels):
                 for online_channel_name, online_channel_url in online_channel_list:
                     for item in cur_list:
                         if item == online_channel_name:
-                            matched_channels[category].setdefault(cur_channel_name, []).append(online_channel_url)
+                            matched_channels[category].setdefault(cur_channel_name, []).append(
+                                online_channel_url
+                            )
 
     return matched_channels
+
 
 def filter_source_urls(template_file):
     template_channels = parse_template(template_file)
@@ -114,26 +126,32 @@ def filter_source_urls(template_file):
 
     return matched_channels, template_channels
 
+
 def is_ipv6(url):
-    return re.match(r'^http:\/\/\[[0-9a-fA-F:]+\]', url) is not None
+    return re.match(r"^http:\/\/\[[0-9a-fA-F:]+\]", url) is not None
+
 
 def updateChannelUrlsM3U(channels, template_channels):
     written_urls = set()
 
     current_date = datetime.now().strftime("%Y-%m-%d")
     for group in config.announcements:
-        for announcement in group['entries']:
-            if announcement['name'] is None:
-                announcement['name'] = current_date
+        for announcement in group["entries"]:
+            if announcement["name"] is None:
+                announcement["name"] = current_date
 
     with open("live.m3u", "w", encoding="utf-8") as f_m3u:
-        f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
+        f_m3u.write(
+            f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n"""
+        )
 
         with open("live.txt", "w", encoding="utf-8") as f_txt:
             for group in config.announcements:
                 f_txt.write(f"{group['channel']},#genre#\n")
-                for announcement in group['entries']:
-                    f_m3u.write(f"""#EXTINF:-1 tvg-id="1" tvg-name="{announcement['name']}" tvg-logo="{announcement['logo']}" group-title="{group['channel']}",{announcement['name']}\n""")
+                for announcement in group["entries"]:
+                    f_m3u.write(
+                        f"""#EXTINF:-1 tvg-id="1" tvg-name="{announcement['name']}" tvg-logo="{announcement['logo']}" group-title="{group['channel']}",{announcement['name']}\n"""
+                    )
                     f_m3u.write(f"{announcement['url']}\n")
                     f_txt.write(f"{announcement['name']},{announcement['url']}\n")
 
@@ -143,38 +161,62 @@ def updateChannelUrlsM3U(channels, template_channels):
                     for channel_name in channel_list:
                         channel_name = channel_name.split("|")[0]
                         if channel_name in channels[category]:
-                            sorted_urls = sorted(channels[category][channel_name], key=lambda url: not is_ipv6(url) if config.ip_version_priority == "ipv6" else is_ipv6(url))
+                            sorted_urls = sorted(
+                                channels[category][channel_name],
+                                key=lambda url: (
+                                    not is_ipv6(url)
+                                    if config.ip_version_priority == "ipv6"
+                                    else is_ipv6(url)
+                                ),
+                            )
                             # sorted_urls = channels[category][channel_name]
                             filtered_urls = []
                             for url in sorted_urls:
-                                if url and url not in written_urls and not any(blacklist in url for blacklist in config.url_blacklist):
+                                if (
+                                    url
+                                    and url not in written_urls
+                                    and not any(
+                                        blacklist in url for blacklist in config.url_blacklist
+                                    )
+                                ):
                                     filtered_urls.append(url)
                                     written_urls.add(url)
 
                             total_urls = len(filtered_urls)
                             for index, url in enumerate(filtered_urls, start=1):
                                 if is_ipv6(url):
-                                    url_suffix = f"$LR•IPV6" if total_urls == 1 else f"$LR•IPV6『线路{index}』"
+                                    url_suffix = (
+                                        f"$LR•IPV6"
+                                        if total_urls == 1
+                                        else f"$LR•IPV6『线路{index}』"
+                                    )
                                 else:
-                                    url_suffix = f"$LR•IPV4" if total_urls == 1 else f"$LR•IPV4『线路{index}』"
-                                if '$' in url:
-                                    base_url = url.split('$', 1)[0]
+                                    url_suffix = (
+                                        f"$LR•IPV4"
+                                        if total_urls == 1
+                                        else f"$LR•IPV4『线路{index}』"
+                                    )
+                                if "$" in url:
+                                    base_url = url.split("$", 1)[0]
                                 else:
                                     base_url = url
 
                                 new_url = f"{base_url}{url_suffix}"
 
-                                f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
+                                f_m3u.write(
+                                    f'#EXTINF:-1 tvg-id="{index}" tvg-name="{channel_name}" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{channel_name}.png" group-title="{category}",{channel_name}\n'
+                                )
                                 f_m3u.write(new_url + "\n")
                                 f_txt.write(f"{channel_name},{new_url}\n")
 
             f_txt.write("\n")
 
+
 def getHotel():
     hotel = "http://tonkiang.us/hoteliptv.php"
 
     rsp = requests.post(
-        url = hotel,
+        url=hotel,
         data={
             "saerch": "广东电信",
             "Submit": "",
@@ -192,7 +234,7 @@ def getHotel():
     root = BeautifulSoup(rsp.text, "lxml")
     els = root.select('div[style="color:limegreen; "]')
     ips = []
-    lines =[]
+    lines = []
     lines.append("酒店组播,#genre#")
     for item in els:
         ips.append(item.parent.parent.a.get_text().strip())
@@ -201,24 +243,34 @@ def getHotel():
         url = "http://tonkiang.us/testgo.php?s={0}&c=false".format(item)
         rsp = requests.get(
             url,
-            headers={"Host": "tonkiang.us", "Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item),"X-Requested-With":"XMLHttpRequest"}
+            headers={
+                "Host": "tonkiang.us",
+                "Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item),
+                "X-Requested-With": "XMLHttpRequest",
+            },
         )
         url = "http://tonkiang.us/alllist.php?s={0}&c=false".format(item)
         rsp = requests.get(
             url,
-            headers={"Host": "tonkiang.us", "Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item),"X-Requested-With":"XMLHttpRequest"}
+            headers={
+                "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+                "Host": "tonkiang.us",
+                "Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item),
+                "X-Requested-With": "XMLHttpRequest",
+            },
         )
         logging.info(url)
         if rsp.status_code == 200:
             logging.info(rsp.text)
             root = BeautifulSoup(rsp.text, "lxml")
-            els = root.select('div.m3u8')
+            els = root.select("div.m3u8")
             for i in els:
                 name = i.parent.select(".channel")[0].get_text().strip()
                 ip = i.get_text().strip()
                 if "高清" in name:
-                    lines.append("{0},{1}".format(name.replace("高清",""),ip))
+                    lines.append("{0},{1}".format(name.replace("高清", ""), ip))
     return lines
+
 
 if __name__ == "__main__":
     template_file = "demo.txt"
