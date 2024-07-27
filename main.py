@@ -171,21 +171,21 @@ def updateChannelUrlsM3U(channels, template_channels):
             f_txt.write("\n")
 
 def getHotel():
-    hotel = "http://tonkiang.us/iptvsearch/hoteliptv.php"
+    hotel = "http://tonkiang.us/hoteliptv.php"
 
     rsp = requests.post(
         url = hotel,
         data={
             "saerch": "广东电信",
             "Submit": "",
-            "names": "Tom",
-            "city": "HeZhou",
-            "address": "Ca94122",
+            # "names": "Tom",
+            # "city": "HeZhou",
+            # "address": "Ca94122",
         },
         headers={
-            "Host": "www.foodieguide.com",
+            "Host": "tonkiang.us",
             "Origin": "http://tonkiang.us",
-            "Referer": "http://tonkiang.us/iptvsearch/hoteliptv.php",
+            "Referer": "http://tonkiang.us/hoteliptv.php",
         },
     )
     rsp.encoding = "utf-8"
@@ -198,11 +198,11 @@ def getHotel():
         ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
     for item in ips:
-        url = "http://tonkiang.us/iptvsearch/alllist.php?s={0}&y=false".format(item)
+        url = "http://tonkiang.us/alllist.php?s={0}&c=false".format(item)
         logging.info(url)
         rsp = requests.get(
             url,
-            headers={"Host": "www.foodieguide.com", "Referer": url},
+            headers={"Host": "tonkiang.us", "Referer": url},
         )
         if rsp.status_code == 200:
             logging.info(rsp.text)
