@@ -238,7 +238,7 @@ def getHotel():
     lines = []
     lines.append("酒店组播,#genre#")
     for item in els:
-        if item.parent.parent.a.get_text().strip() not in lines:
+        if item.parent.parent.a.get_text().strip() not in ips:
             ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
 
