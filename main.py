@@ -241,7 +241,7 @@ def getHotel():
     logging.info(",".join(ips))
     for item in ips:
         url = "http://tonkiang.us/alllist.php?s={0}".format(item)
-        rsp = requests.get(
+        rsp = requests.post(
             url,
             headers={
                 "Host": "tonkiang.us",
