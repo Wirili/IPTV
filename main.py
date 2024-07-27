@@ -234,7 +234,8 @@ def getHotel():
     rsp.encoding = "utf-8"
     root = BeautifulSoup(rsp.text, "lxml")
     els = root.select('div[style="color:limegreen; "]')
-    ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
+    # ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
+    ips = []
     lines = []
     lines.append("酒店组播,#genre#")
     for item in els:
