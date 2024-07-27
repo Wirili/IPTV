@@ -1,47 +1,396 @@
-2024-07-27 12:45:08,355 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
-2024-07-27 12:45:08,356 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道数：274 包含频道分类: 央视频道, 卫视频道, 数字频道, 上海频道, 浙江频道, 内蒙频道
-2024-07-27 12:45:10,922 - INFO - 14.154.195.131:4022,125.89.163.44:8888,jt.zorua.cn:8787,183.48.127.174:9988
-2024-07-27 12:45:11,422 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=14.154.195.131:4022
-2024-07-27 12:45:11,422 - INFO - 
-<div class="tables" >
-				<div class="result">
-					<div class="channel" style="float: none;">
-					<b>请在搜索框输入IP验证！</b>
-					</div></div></div>
-2024-07-27 12:45:11,933 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=125.89.163.44:8888
-2024-07-27 12:45:11,933 - INFO - 
-<div class="tables" >
-				<div class="result">
-					<div class="channel" style="float: none;">
-					<b>请在搜索框输入IP验证！</b>
-					</div></div></div>
-2024-07-27 12:45:12,398 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=jt.zorua.cn:8787
-2024-07-27 12:45:12,398 - INFO - 
-<div class="tables" >
-				<div class="result">
-					<div class="channel" style="float: none;">
-					<b>请在搜索框输入IP验证！</b>
-					</div></div></div>
-2024-07-27 12:45:12,863 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=183.48.127.174:9988
-2024-07-27 12:45:12,863 - INFO - 
-<div class="tables" >
-				<div class="result">
-					<div class="channel" style="float: none;">
-					<b>请在搜索框输入IP验证！</b>
-					</div></div></div>
-2024-07-27 12:45:12,864 - INFO - url: 酒店组播 获取成功，判断为txt格式
-2024-07-27 12:45:12,864 - INFO - url: 酒店组播 爬取成功✅，包含频道数：1 包含频道分类: 酒店组播
-2024-07-27 12:45:15,243 - INFO - url: http://175.178.251.183:6689/channel.txt 获取成功，判断为txt格式
-2024-07-27 12:45:15,263 - INFO - url: http://175.178.251.183:6689/channel.txt 爬取成功✅，包含频道数：10462 包含频道分类: 测试组播
-2024-07-27 12:45:17,102 - INFO - url: http://120.79.4.185/new/mdlive.txt 获取成功，判断为txt格式
-2024-07-27 12:45:17,122 - INFO - url: http://120.79.4.185/new/mdlive.txt 爬取成功✅，包含频道数：9696 包含频道分类: 公告信息, 央视频道, 卫视频道, 地方频道, 中国港澳, 央视频道IPV6, 全球频道全网, 湾湾频道全网, 咪咕视频全网, 北京组播联通, 天津组播联通, 北京长城8M, 河北组播电信, 山东烟台电信, 湖北频道全网, 卫视频道全网, 卫视频道IPV6, 广东频道全网, 咪咕体育移动, IHOT爱ipv6, 体育频道全网, 4K频道全网, 电影频道全网, 歪歪轮播全网, 虎牙轮播全网, 斗鱼轮播全网, 堆堆轮播全网, MTV视频全网, 收音广播全网, 景区直播全网, 电影频道, 歪歪轮播, 虎牙轮播, 斗鱼轮播, 堆堆轮播, 愉快观影, 电影轮播, 童年回忆, 少儿, 下列P3P和MITV, 央卫P3p晴天, 特区P3p晴天, 闽南P3p晴天, 新闻P3p晴天, 跑马P3p晴天, 体育P3p晴天, 电影P3p晴天, 儿童P3p晴天, 知识P3p晴天, 新坡P3p晴天, 马亚P3p晴天, 印度P3p晴天, 加大P3p晴天, 日本P3p晴天, 韩国P3p晴天, 印尼P3p晴天, 美国P3p晴天, 特区晴天P3p, 央卫晴天P3p, 闽南晴天P3p, 新闻晴天P3p, 电影晴天P3p, 新马晴天P3p, 日本晴天P3p, 韩国晴天P3p, 国际晴天P3p, 央卫P2p晴天, 特区P2p晴天, 闽南P2p晴天, 马亚P2p晴天, 新坡P2p晴天, 日本P2p晴天, 韩国P2p晴天, 泰国P2p晴天, 北美P2p晴天, 新闻P2p晴天, 音乐P2p晴天, 体育P2p晴天, 知识P2p晴天, 儿少P2p晴天, 电影P2p晴天, 戏剧P2p晴天, 测试P3p频道
-2024-07-27 12:45:17,207 - INFO - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt 获取成功，判断为txt格式
-2024-07-27 12:45:17,219 - INFO - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt 爬取成功✅，包含频道数：5916 包含频道分类: 👉扫码添加此微信👈, 👉以获取最新链接👈, 👉唯一微信号:Cxx114x👈, 👉定期更换新链接👈, 👉不加此微信无售后👈, 🏆2024奥运会🏆, 🐉独家线路🐯, 🐉电信专线「多线路」, 🐉联通专线「多线路」, 🐉移动专线「多线路」, 🐉央视付费频道, 🐉特色频道, 🐉4K-8K频道, 🐉国内体育, 🐉海外体育, 🐉咪咕视频-①🏆, 🐉咪咕视频-②🏆, 🐉香港频道「线路1」, 🐉香港频道「线路2」, 🐉湾湾频道「线路1」, 🐉湾湾频道「线路2」, 🐉日本频道🦮, 🐉韩国频道🦆, 🐉美国频道🦅, 🐉英国频道🦁, 🐉电影频道🎥, 🐉游戏赛事🐸, 🐉埋堆堆🙉, 🐉斗鱼轮播🦈, 🐉虎牙轮播🐯, 🐉YY轮播🦞, 🐉经典电影🎞, 🐉经典电视剧📺, 🐉少儿频道👶🏻, 🐉北京频道, 🐉上海频道, 🐉广东频道, 🐉湖南频道, 🐉各地方频道, 🐉HBO&iHOT频道, 🐉SITV频道, 🐉NewTV频道, 🐉全国景区直播, 🐉纪录片频道, 🐉广播剧场🎙
-2024-07-27 12:45:17,355 - INFO - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 获取成功，判断为txt格式
-2024-07-27 12:45:17,358 - INFO - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 爬取成功✅，包含频道数：1121 包含频道分类: 广东频道, 央视频道, 卫视频道, 港·澳·台
-2024-07-27 12:45:20,865 - INFO - url: https://gitee.com/ds360/ds/raw/master/ZB/lunbo.jpg 获取成功，判断为txt格式
-2024-07-27 12:45:20,868 - INFO - url: https://gitee.com/ds360/ds/raw/master/ZB/lunbo.jpg 爬取成功✅，包含频道数：1412 包含频道分类: 国军电影轮播, 虎牙电影轮播, 虎牙轮播备用, 虎牙精选轮播, 斗鱼电影轮播, 斗鱼精选轮播, 斗鱼& 一起看, 历届春晚合集
-2024-07-27 12:45:20,961 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 获取成功，判断为txt格式
-2024-07-27 12:45:20,961 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 爬取成功✅，包含频道数：165 包含频道分类: 央视频道, 卫视频道, 港澳台, 电影, 电视剧, 未来电视, SiTV
-2024-07-27 12:45:21,036 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
-2024-07-27 12:45:21,045 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道数：3685 包含频道分类: 更新时间, 上海频道, 央视频道, 卫视频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 解说频道, 综艺频道, 音乐频道, 游戏频道, 浙江频道, 江苏频道, 湖南频道, 湖北频道, 安徽频道, 广东频道, 海南频道, 内蒙频道, 辽宁频道, 陕西频道, 山西频道, 山东频道, 云南频道, 春晚, 收音机频道
+2024-07-27 13:07:30,244 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
+2024-07-27 13:07:30,250 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道数：274 包含频道分类: 央视频道, 卫视频道, 数字频道, 上海频道, 浙江频道, 内蒙频道
+2024-07-27 13:07:32,921 - INFO - 14.154.195.131:4022,jt.zorua.cn:8787,183.48.127.174:9988,113.92.165.182:60000
+2024-07-27 13:07:43,523 - INFO - <!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+		<meta name="description" content="éåºæºè·åå·¥å·ï¼éåºæºæ¶å½ç¥å¨ Search for public Hotel IPTV channels. Free and easy to use, online IPTV m3u8 live stream url search utility, IPTV m3u m3u8 links updated daily">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="format-detection" content="telephone=no">
+		<title>éåºæºç»æ­æºè·åç¥å¨ï½2024ææ°éåºæºç»æ­æºæ¯æ¥é¦å</title>
+		<link rel="stylesheet" href="css/pagination.css" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script src='js/jquery-2.2.3.min.js'></script>
+<script type="text/javascript" src="js/jquery.pagination.js"></script>    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8KY4MGK2FJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8KY4MGK2FJ');
+</script>
+</head>
+
+<style>
+	body {
+		font-family: sans-serif;
+		background-color: #ccc;
+		margin: 0;
+	}
+a {
+	text-decoration:none;
+	outline:none;
+    color: #000;
+}	
+#copyed {margin: auto; width: 120px; height: 28px; text-align: center;display: none; position: fixed; left: 50%;top: 50%; transform: translate(-50%,-50%); background-color: #000; border: 1px solid #555; font-size: 14px;line-height: 28px;color: #fff;}
+	
+.input[type="text"] {
+    width: 100%;
+    color: #000;
+    background: #fff;
+    outline: none;
+    font-size: 1em;
+    padding: 0.4em 1em;
+    margin-bottom: 1.1em;
+    border: solid 1px #fff;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-family: 'Helvetica', sans-serif;
+}	
+.box{//å¤é¨çdivçå­
+  display: flex;//åè®¾ç½®divéçåå®¹æ¾ç¤ºåä¸è¡
+  justify-content: flex-start;//å·¦å³å¸å±
+  flex-wrap: wrap;//æ¢è¡
+  align-content: flex-start;//ç´§ææå
+}	
+.sh {
+	display: inline-block;
+	border: 1px solid #24F1FB; 
+	border-radius: 5px; 
+	/*float: left; */
+	margin: 3px; 
+	padding: 2px 6px; 
+	font-size: 13px;
+	cursor:pointer; 
+	max-width: 200px;
+	text-overflow: ellipsis;
+	white-space: nowrap; 
+	word-break: break-all; 
+	overflow: hidden;
+	background-color: #1a73e8;
+	color: #fff;
+	}
+	.tables {
+		table-layout:fixed; width: 100%; overflow: hidden;
+		font-size: 14px;
+	}
+	.ad1 {
+		display: block;
+	}	
+	.ad2 {
+		display: none;
+	}
+	.fd {
+		margin: 0 auto; 
+		max-width: 533px; 
+		width: 100%; 
+		height: 300px;		
+	}
+	.ad0 {
+ 		width: 100%;
+		/*height: 0;
+		padding-bottom: 56.25%;*/
+		background: url(images/1.gif) no-repeat; 
+		text-align: center;
+		background-size: 100% 100%;
+		
+	}
+	.ad3 {
+		display: block;
+	}
+	.ad4 {
+		display: none;
+	}
+	.imgw {
+		width: 16px;
+	}	
+.nu {
+	width:10px; height: 10px;  
+	border-radius: 10px;  color: #fff;text-align: center;
+    font-size: 10px;
+	padding-top: 2px;
+	padding-left: 3px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	}		
+.arrow{
+            width: 0px;
+            height: 0px;
+            border-top: 4px solid transparent;
+            border-bottom: 4px solid transparent;
+      
+            border-left: 5px solid #fff;	
+			margin-left: 2px;
+}	
+	.tdheigh {
+		line-height: 16px;
+		height: 40px;
+	}	
+	.result {
+		font-size: 14px;
+		line-height: 22px;
+		color: var(--black4);
+		padding: 0.6rem 1.5rem;
+		margin: 5px 0;
+		border: 0 none;
+		background-color: #fff;
+			
+	}
+	.channel{
+		font-size: 18px;
+		line-height: 24px;
+		font-weight: var(--font-bold);
+	}
+	.m3u8 {
+		margin-top: 4px;
+	}	
+	@media (max-width: 800px) {
+	.nu {
+		margin-top: 5px;
+	}
+	.tables {
+		font-size: 12px;
+	}
+	.ad1 {
+		display: none;
+	}	
+	.ad2 {
+		display: block;
+	}
+	.ad0 {
+		background-size: 100% 86.25%;
+		height: 0;
+		padding-bottom: 66.25%;
+	}
+	.ad3 {
+		/*display: none;*/
+	}
+	.ad4 {
+		display: block;
+	}
+		.imgw {
+		width: 28px;
+	}
+}
+</style>
+<body style="background-color:#ddd; color:#000;" onload="cc()">
+	
+<div style="background-color: #131313; color:#fff; font-size: 30px; width: 100%; height: 50px; line-height: 50px;padding-left: 0px;">
+	<a href="hoteliptv.php" style="color: #fff;"><div style=" float: left; width: 85%">&nbsp;&nbsp;&nbsp;IPTV <span style="font-size: 14PX;">Link Search</span></div></a> 
+	<div style="float: right; margin-right: 20px;"> <a href="http://foodieguide.com/iptvsearch/"><img src="images/home.jpg" width="25"></a> </div>
+</div>
+<div style="clear: both;"></div>
+	
+<div style="margin: 0 auto; max-width: 950px; width: 100%;">
+	<div style="background-color: #fff;">
+<br />
+<br />
+<div class="fd">
+	<div class="ad0" id="ad0">
+	   <div class="ad3">
+		<style>
+		.vd { width: 533px; height: 300px; }
+		@media(max-width: 500px) { .vd { width: 99%; height: 213px; } }
+		</style>		   
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567038985601528"
+			 crossorigin="anonymous"></script>
+		   
+		<!-- æ¨ªåèªéåº -->
+		<ins class="adsbygoogle vd"
+			 style="display:block"
+			 data-ad-client="ca-pub-7567038985601528"
+			 data-ad-slot="3736897002"
+			 data-ad-format="auto"
+			 data-full-width-responsive="false"</ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	  </div>
+
+	</div>
+</div>
+<br />
+
+<p align="center">
+	<div style="font-size:28px; text-align: center">	
+		<!--<form id="form1" name="form1" method="post" action="/iptvsearch/">-->
+		<form id="form1" name="form1" method="get" action="">
+			<input style="border-radius: 8px;font-size: 18px;line-height: 30px;width:90%; max-width: 400px; padding: 6px;" name="s" id="search" type="text" value="" Î¿nfÎ¿cus= "cc()" />
+
+			<input type="submit" name="Submit" value=" " style='background-image: url("search-1.png"); height: 22px; width: 22px; margin-left: -40px; line-height: 30px; border: 0px; background-color: #fff;' />
+			<div style="font-size: 12px;">å¯è¾å¥IP:ç«¯å£å· æ£æµéåºæºæç»æ­æºæææ§</div>
+			<input type="hidden" name="y" value="y">
+		</form>
+    </div>
+</p>
+		<br><br>
+	</div>
+    <div id='content'>
+        <div style="background-color: #fff;" align="center">
+            <br>
+            <br>
+            <br>
+            <img src="images/load0.gif" width="100">
+            <br>
+            <br>
+            <br>
+        </div>    
+    </div>  
+    <div style="background-color: #fff">
+<div id="Pagination" class="pagination" style="text-align: center;padding-top: 20px;"><!-- è¿éæ¾ç¤ºåé¡µ --></div>
+	<div style="margin: 0 auto; width: 470px;" class="ad1">
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567038985601528"
+			 crossorigin="anonymous"></script>
+		<ins class="adsbygoogle"
+			 style="display:inline-block;width:468px;height:150px"
+			 data-ad-client="ca-pub-7567038985601528"
+			 data-ad-slot="7823451698"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+
+	</div>
+   
+    <br><br>
+
+    <br />
+    <br />
+    <br />
+    <div style="margin: 0 auto; max-width: 600px; width: 92%; padding: 15px 8px 8px 8px; border-radius: 10px; font-size: 10px; color: #ccc;font-style: italic; text-align: justify;">
+        * We only re-share free Iptv links (such as public IPTV channels, live stream url, m3u8, ts, flv, rtsp, rtmp, txt ect. ) which are already at public accessible websites. We DO NOT host or stream any videos on this website,  We urge all copyright owners, to recognize that links contained within this site are located somewhere else on the web. Please direct all copyright infringement issues to the companies that host these files.
+        <br><br><p align="center" style="font-size: 14px; color: #000; text-align: center;font-style: normal;">Copyright Â© <a href="testurl.php"> 2021</a>-2024 FoodieGuide.com</p><br><br>
+        </div>
+    </div>
+    <div id="copyed">copyed to clip</div>    
+    <div id="hiddenresult"></div>     
+</div>    
+</body>
+<script>
+ $(function(){   
+                    ip=geturl("s");
+	 				ip=ip.replace("%3A",":");
+	 				if (ip.indexOf(".")==-1 || ip.indexOf(":")==-1) {
+						window.location.href = "/iptvsearch/index.php?s="+ip;
+					}
+                    $('#search').val(ip);
+                    r=Math.round(Math.random()*13)+1;
+                    $('.ad0').css({"background":"url(images/"+r+".gif) no-repeat"});
+                    $.ajax({
+                        
+                        url:"testgo.php?s="+ip,
+                        
+                        success:function(data){
+                            console.log(data);
+                            if (data=='error') {
+                               
+                                window.location.href="http://taipandimsum.com";
+                            }
+                            
+                        }
+                    });      
+                    $.ajax({
+                        url:"alllist.php?s="+ip+"&y="+geturl("y"),
+                        success:function(data){
+                            //$('#content').html(data);
+                            $('#hiddenresult').html(data);
+                            
+                        }
+                    }); 
+});
+function geturl(variable)
+{
+    var query = window.location.search.substring(1);
+    var vars = query.split("&");
+    for (var i=0;i<vars.length;i++) {
+        var pair = vars[i].split("=");
+        if(pair[0] == variable){return pair[1];}
+    }
+    return(false);
+}   
+function  cc()
+{
+	var range, el = document.getElementById('search');
+	if (el.setSelectionRange) {
+	el.focus();
+	el.setSelectionRange(el.value.length, el.value.length)
+	} else {
+	range = el.createTextRange();
+	range.collapse(false);
+	range.select();
+	}
+}  
+function change(s){ 
+	document.getElementById("search").value=s;
+	document.getElementById('form1').submit();
+}
+function copyto(content){
+	put = document.createElement("input"); 
+          put.value = content; 
+          document.body.appendChild(put); 
+          put.select(); 
+          document.execCommand("Copy"); 
+          document.body.removeChild(put); 
+		k=Math.floor(Math.random()*14)+1;
+		document.getElementById("ad0").style.background="url(images/"+k+".gif) no-repeat";
+	$('#copyed').fadeIn(1500);
+	$('#copyed').fadeOut(2000);
+	//document.getElementById("copyed").style.display="block";
+}    
+</script>
+<script>
+
+	//æ­¤demoéè¿Ajaxå è½½åé¡µåç´ 
+function initPagination() {
+		var num_entries = $("#hiddenresult div.result").length;
+		// åå»ºåé¡µ
+		console.log(num_entries);
+		$("#Pagination").pagination(num_entries, {
+			num_edge_entries: 1, 
+			num_display_entries: 5, 
+			items_per_page: 20, 
+			callback: pageselectCallback,			
+			prev_text: " << ",
+			next_text: " >> "
+		});
+	 };
+	 
+	function pageselectCallback(page_index, jq){
+        var new_content = $("#hiddenresult div.result:eq(0)").clone();
+        $("#content").empty().append(new_content); 
+		var starpage=page_index*20;
+		console.log(starpage);
+		var new_content = $("#hiddenresult div.result:gt("+ (starpage) +"):lt(20)").clone();
+		$("#content").append(new_content); 
+		document.body.scrollTop = document.documentElement.scrollTop = 0;
+		return false;
+	}
+
+ var timer= setInterval(function(){
+	 if ($("#hiddenresult").html()!='') {
+         $('#hiddenresult').css({"display":"none"})
+		 initPagination();
+		 clearInterval(timer);
+	 }
+ },300);
+</script>  
+   <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4835840,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4835840&101" alt="stats count" border="0"></a></noscript>
+<!-- Histats.com  END  -->    
+</html>
+

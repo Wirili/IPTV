@@ -241,20 +241,22 @@ def getHotel():
     for item in els:
         ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
-    s = requests.session()
-    url = "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(item)
-    rsp = s.get(
-        url,
-        headers={
-            "Host": "www.foodieguide.com",
-            "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(
-                item
-            ),
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
-        },
-    )
-    logging.info(rsp.text)
+
     for item in ips:
+        s = requests.Session()
+        url = "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(item)
+        rsp = s.get(
+            url,
+            headers={
+                "Host": "www.foodieguide.com",
+                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(
+                    item
+                ),
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
+            },
+        )
+        logging.info(rsp.text)
+        item = item.replace(":","%3A")
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}".format(item)
         rsp = s.get(
             url,
