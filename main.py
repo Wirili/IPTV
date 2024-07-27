@@ -249,8 +249,7 @@ def getHotel():
             url,
             headers={
                 "Host": "www.foodieguide.com",
-                "Origin": "http://www.foodieguide.com",
-                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(
+                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(
                     item
                 ),
             },
