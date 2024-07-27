@@ -252,7 +252,7 @@ def getHotel():
                 "Host": "www.foodieguide.com",
                 "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(item),
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
-                "Cookie": "REFERER=Gameover",
+                "Cookie": "REFERER1=NzjbMrxaNbDckO0O0O;",
             },
         )
         logging.info(url)
