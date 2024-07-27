@@ -243,7 +243,6 @@ def getHotel():
     logging.info(",".join(ips))
 
     for item in ips:
-        item = item.replace(":", "%3A")
         url = "http://www.foodieguide.com/iptvsearch/testgo.php?s={0}".format(item)
         rsp = requests.get(
             url,
