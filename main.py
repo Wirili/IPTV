@@ -242,17 +242,27 @@ def getHotel():
         ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
     for item in ips:
-
-        url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}".format(item)
-        rsp = requests.get(
+        s = requests.session()
+        url = "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(item)
+        rsp = s.get(
             url,
             headers={
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
-                "Connection": "keep-alive",
                 "Host": "www.foodieguide.com",
-                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(item),
+                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(
+                    item
+                ),
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
-                "Cookie": "REFERER1=NzjbMrxaNbDckO0O0O;",
+            },
+        )
+        url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}".format(item)
+        rsp = s.get(
+            url,
+            headers={
+                "Host": "www.foodieguide.com",
+                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(
+                    item
+                ),
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
             },
         )
         logging.info(url)
