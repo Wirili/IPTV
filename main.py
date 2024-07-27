@@ -171,7 +171,7 @@ def updateChannelUrlsM3U(channels, template_channels):
             f_txt.write("\n")
 
 def getHotel():
-    hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
+    hotel = "http://tonkiang.us/iptvsearch/hoteliptv.php"
 
     rsp = requests.post(
         url = hotel,
@@ -184,8 +184,8 @@ def getHotel():
         },
         headers={
             "Host": "www.foodieguide.com",
-            "Origin": "http://www.foodieguide.com",
-            "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
+            "Origin": "http://tonkiang.us",
+            "Referer": "http://tonkiang.us/iptvsearch/hoteliptv.php",
         },
     )
     rsp.encoding = "utf-8"
@@ -198,7 +198,7 @@ def getHotel():
         ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
     for item in ips:
-        url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=false".format(item)
+        url = "http://tonkiang.us/iptvsearch/alllist.php?s={0}&y=false".format(item)
         logging.info(url)
         rsp = requests.get(
             url,
