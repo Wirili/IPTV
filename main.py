@@ -261,8 +261,7 @@ def getHotel():
                 "Host": "www.foodieguide.com",
                 "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&y=false".format(
                     item
-                ),
-                "Cookie": "REFERER2=OzDbkryaObDcgO0O0O; REFERER1=NzzbUrwaMbTcAO0O0O; ckip1=112.114.137.111%7C113.116.216.195%7C47.108.221.227%7C47.108.221.227%7C113.90.239.108%7C183.185.254.132%7C116.117.104.38%7C218.95.66.178; ckip2=27.11.62.158%7C1.199.243.136%7C117.13.250.38%7C61.134.205.85%7Cwww.lebaobei.top%7C115.193.154.26%7C37.194.160.101%7Cmtjkwdrive.zzmd.fun; REFERER=Gameover",
+                )
             },
         )
         logging.info(url)
