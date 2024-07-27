@@ -11,7 +11,7 @@ env:
 
 jobs:
   run_script:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
 
