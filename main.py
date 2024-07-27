@@ -215,9 +215,10 @@ def updateChannelUrlsM3U(channels, template_channels):
 
 
 def getHotel():
+    s = requests.Session()
     hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
-    rsp = requests.post(
+    rsp = s.post(
         url=hotel,
         data={
             "saerch": "广东电信",
@@ -244,7 +245,7 @@ def getHotel():
 
     for item in ips:
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}".format(item)
-        rsp = requests.get(
+        rsp = s.get(
             url,
             headers={
                 "Host": "www.foodieguide.com",
