@@ -199,6 +199,7 @@ def getHotel():
     logging.info(",".join(ips))
     for item in ips:
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=false".format(item)
+        logging.info(url)
         rsp = requests.get(
             url,
             headers={"Host": "www.foodieguide.com", "Referer": url},
