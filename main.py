@@ -215,6 +215,51 @@ def updateChannelUrlsM3U(channels, template_channels):
 
 
 def getHotel():
+    hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
+
+    rsp = requests.post(
+        url = hotel,
+        data={
+            "saerch": "广东电信",
+            "Submit": "",
+            "names": "Tom",
+            "city": "HeZhou",
+            "address": "Ca94122",
+        },
+        headers={
+            "Host": "www.foodieguide.com",
+            "Origin": "http://www.foodieguide.com",
+            "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
+        },
+    )
+    rsp.encoding = "utf-8"
+    root = BeautifulSoup(rsp.text, "lxml")
+    els = root.select('div[style="color:limegreen; "]')
+    ips = []
+    lines = []
+    lines.append("酒店组播,#genre#")
+    for item in els:
+        ips.append(item.parent.parent.a.get_text().strip())
+    logging.info(",".join(ips))
+    for item in ips:
+        url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=false".format(item)
+        rsp = requests.get(
+            url,
+            headers={"Host": "www.foodieguide.com", "Referer": url},
+        )
+        logging.info(url)
+        if rsp.status_code == 200:
+            logging.info(rsp.text)
+            root = BeautifulSoup(rsp.text, "lxml")
+            els = root.select("div.m3u8")
+            for i in els:
+                name = i.parent.select(".channel")[0].get_text().strip()
+                ip = i.get_text().strip()
+                if "高清" in name:
+                    lines.append("{0},{1}".format(name.replace("高清", ""), ip))
+    return lines
+
+def getHotel2():
     hotel = "http://tonkiang.us/hoteliptv.php"
 
     rsp = requests.post(
@@ -262,7 +307,6 @@ def getHotel():
                 if "高清" in name:
                     lines.append("{0},{1}".format(name.replace("高清", ""), ip))
     return lines
-
 
 if __name__ == "__main__":
     template_file = "demo.txt"
