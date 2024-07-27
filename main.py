@@ -251,7 +251,7 @@ def getHotel():
                 "Host": "www.foodieguide.com",
                 "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(
                     item
-                )
+                ),
             },
         )
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=y".format(item)
@@ -261,7 +261,7 @@ def getHotel():
                 "Host": "www.foodieguide.com",
                 "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&y=false".format(
                     item
-                )
+                ),
             },
         )
         logging.info(url)
@@ -274,6 +274,8 @@ def getHotel():
                 ip = i.get_text().strip()
                 if "高清" in name:
                     lines.append("{0},{1}".format(name.replace("高清", ""), ip))
+    with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+        f_txt.write(f"\n".join(lines))
     return lines
 
 
