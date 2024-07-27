@@ -243,10 +243,9 @@ def getHotel():
     logging.info(",".join(ips))
 
     for item in ips:
-        url = "http://www.foodieguide.com/iptvsearch/alllist.php"
+        url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}".format(item)
         rsp = requests.get(
             url,
-            params={"s": item, "y": False},
             headers={
                 "Host": "www.foodieguide.com",
                 "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(
@@ -254,7 +253,6 @@ def getHotel():
                 ),
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
                 "X-Requested-With": "XMLHttpRequest",
-                "Sec-Ch-Ua-Platform": "Windows",
             },
         )
         logging.info(url)
