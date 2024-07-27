@@ -189,7 +189,6 @@ def getHotel():
         },
     )
     rsp.encoding = "utf-8"
-    logging.info(rsp.text)
     root = BeautifulSoup(rsp.text, "lxml")
     els = root.select('div[style="color:limegreen; "]')
     ips = []
@@ -197,6 +196,7 @@ def getHotel():
     lines.append("酒店组播,#genre#")
     for item in els:
         ips.append(item.parent.parent.a.get_text().strip())
+    logging.info(",".join(ips))
     for item in ips:
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=false".format(item)
         rsp = requests.get(
@@ -204,6 +204,7 @@ def getHotel():
             headers={"Host": "www.foodieguide.com", "Referer": url},
         )
         if rsp.status_code == 200:
+            logging.info(rsp.text)
             root = BeautifulSoup(rsp.text, "lxml")
             els = root.select('div.m3u8')
             for i in els:
