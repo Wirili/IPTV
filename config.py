@@ -1,7 +1,8 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+    # "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "酒店组播",
     "http://175.178.251.183:6689/channel.txt",
     "http://120.79.4.185/new/mdlive.txt",
