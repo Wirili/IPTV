@@ -12,6 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v2
+
+    - name: Set timezone to Asia/Shanghai
+      uses: enriikke/setup-timezone@v1
+      with:
+        timezone: Asia/Shanghai
+
+    steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
