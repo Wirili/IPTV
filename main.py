@@ -189,6 +189,7 @@ def getHotel():
         },
     )
     rsp.encoding = "utf-8"
+    logging.info(rsp.text)
     root = BeautifulSoup(rsp.text, "lxml")
     els = root.select('div[style="color:limegreen; "]')
     ips = []
