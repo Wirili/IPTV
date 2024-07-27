@@ -218,7 +218,7 @@ def getHotel():
     hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
     rsp = requests.post(
-        url = hotel,
+        url=hotel,
         data={
             "saerch": "广东电信",
             "Submit": "",
@@ -245,7 +245,11 @@ def getHotel():
         url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=false".format(item)
         rsp = requests.get(
             url,
-            headers={"Host": "www.foodieguide.com", "Referer": url},
+            headers={
+                "Host": "www.foodieguide.com",
+                "Referer": url,
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
+            },
         )
         logging.info(url)
         if rsp.status_code == 200:
@@ -258,6 +262,7 @@ def getHotel():
                 if "高清" in name:
                     lines.append("{0},{1}".format(name.replace("高清", ""), ip))
     return lines
+
 
 def getHotel2():
     hotel = "http://tonkiang.us/hoteliptv.php"
@@ -307,6 +312,7 @@ def getHotel2():
                 if "高清" in name:
                     lines.append("{0},{1}".format(name.replace("高清", ""), ip))
     return lines
+
 
 if __name__ == "__main__":
     template_file = "demo.txt"
