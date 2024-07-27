@@ -247,10 +247,12 @@ def getHotel():
         rsp = requests.get(
             url,
             headers={
+                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+                "Connection": "keep-alive",
                 "Host": "www.foodieguide.com",
-                "Referer": url,
+                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+".format(item),
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
-                "Cookie":"REFERER=Gameover"
+                "Cookie": "REFERER=Gameover",
             },
         )
         logging.info(url)
