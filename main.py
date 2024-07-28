@@ -157,7 +157,7 @@ def updateChannelUrlsM3U(channels, template_channels):
                     )
                     f_m3u.write(f"{announcement['url']}\n")
                     f_txt.write(f"{announcement['name']},{announcement['url']}\n")
-
+            count = 0
             for category, channel_list in template_channels.items():
                 f_txt.write(f"{category},#genre#\n")
                 if category in channels:
@@ -211,8 +211,10 @@ def updateChannelUrlsM3U(channels, template_channels):
                                 )
                                 f_m3u.write(new_url + "\n")
                                 f_txt.write(f"{channel_name},{new_url}\n")
+                                count += 1
 
             f_txt.write("\n")
+            logging.info(f"爬取完成✅，共计频道数：{count}")
 
 
 def getHotel():
@@ -287,7 +289,9 @@ def getHotel():
     # return lines
 
     with ThreadPoolExecutor(max_workers=15) as executor:
-        future_to_channel = {executor.submit(download_speed_test, source): source for source in lines}
+        future_to_channel = {
+            executor.submit(download_speed_test, source): source for source in lines
+        }
         speed_test_results = []
         for future in as_completed(future_to_channel):
             channel = future_to_channel[future]
@@ -298,7 +302,7 @@ def getHotel():
                 logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
     sources = []
     with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-        speed_test_results = sorted(speed_test_results, key=lambda x: x[2],reverse=True)
+        speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
         for name, url, speed in speed_test_results:
             f_txt.write(f"{name},{url},{speed}\n")
             sources.append(f"{name},{url}")
@@ -317,6 +321,7 @@ def test_ip_port_connectivity(ip, port):
     except Exception as e:
         logging.info(f"连接 {ip}:{port} 失败: {e}")
         return False
+
 
 def download_speed_test(channel):
     """
@@ -347,6 +352,7 @@ def download_speed_test(channel):
         return name, url, 0
     print(f"频道：{name}, URL: {url}, {download_rate}")
     return name, url, download_rate
+
 
 if __name__ == "__main__":
     template_file = "demo.txt"
