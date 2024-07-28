@@ -247,7 +247,7 @@ def getHotel():
             ip, port = item.parent.parent.a.get_text().strip().split(":")
             if test_ip_port_connectivity(ip, int(port)):
                 ips.append(item.parent.parent.a.get_text().strip())
-    logging.info(",".join(ips))
+    logging.info(f"酒店组播IP：\n{"\n".join(ips)}")
 
     for item in ips:
         url = "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+&y=y".format(item)
