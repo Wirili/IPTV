@@ -1,10 +1,13 @@
 import re
+import time
 import requests
 import logging
 from collections import OrderedDict
 from datetime import datetime
 import config
 from bs4 import BeautifulSoup
+import socket
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 logging.basicConfig(
     level=logging.INFO,
@@ -237,10 +240,11 @@ def getHotel():
     # ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
     ips = []
     lines = []
-    lines.append("酒店组播,#genre#")
     for item in els:
         if item.parent.parent.a.get_text().strip() not in ips:
-            ips.append(item.parent.parent.a.get_text().strip())
+            ip, port = item.parent.parent.a.get_text().strip().split(":")
+            if test_ip_port_connectivity(ip, int(port)):
+                ips.append(item.parent.parent.a.get_text().strip())
     logging.info(",".join(ips))
 
     for item in ips:
@@ -274,68 +278,68 @@ def getHotel():
                 ip = i.get_text().strip()
                 if "高清" in name:
                     lines.append("{0},{1}".format(name.replace("高清", ""), ip))
+
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_channel = {executor.submit(download_speed_test, source): source for source in lines}
+        speed_test_results = []
+        for future in as_completed(future_to_channel):
+            channel = future_to_channel[future]
+            try:
+                result = future.result()
+                speed_test_results.append(result)
+            except Exception as exc:
+                logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
+    sources = []
     with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-        f_txt.write(f"\n".join(lines))
-    return lines
+        for name, url, speed in speed_test_results:
+            f_txt.write(f"{name},{url},{speed}\n")
+            if speed > 0.2: #筛选速度大于0.2的
+                sources.append(f"{name},{url}")
+
+    return ["酒店组播,#genre#"] + sorted(sources, key=lambda x: x[2],reverse=True)
 
 
-def getHotel2():
-    hotel = "http://tonkiang.us/hoteliptv.php"
+def test_ip_port_connectivity(ip, port):
+    """
+    测试指定 IP 和端口的连通性
+    """
+    try:
+        sock = socket.create_connection((ip, port), timeout=5)
+        sock.close()
+        return True
+    except Exception as e:
+        logging.info(f"连接 {ip}:{port} 失败: {e}")
+        return False
 
-    rsp = requests.post(
-        url=hotel,
-        data={
-            "saerch": "广东电信",
-            "Submit": "",
-            # "names": "Tom",
-            # "city": "HeZhou",
-            # "address": "Ca94122",
-        },
-        headers={
-            "Host": "tonkiang.us",
-            "Origin": "http://tonkiang.us",
-            "Referer": "http://tonkiang.us/hoteliptv.php",
-        },
-    )
-    rsp.encoding = "utf-8"
-    root = BeautifulSoup(rsp.text, "lxml")
-    els = root.select('div[style="color:limegreen; "]')
-    ips = []
-    lines = []
-    lines.append("酒店组播,#genre#")
-    for item in els:
-        ips.append(item.parent.parent.a.get_text().strip())
-    logging.info(",".join(ips))
-    for item in ips:
-        s = requests.Session()
-        s.cookies.update(
-            {
-                "ckip1": "110.7.129.246%7C112.114.137.111%7C111.61.236.247%7C113.90.239.108%7C118.81.54.64%7C47.108.221.227%7C58.57.40.22%7C183.236.194.115",
-                "ckip2": "144.52.146.226%7C1.83.124.179%7C123.113.237.36%7C117.32.84.33%7C60.189.35.225%7C60.189.35.225%7Ckms.erfiy.com%7C95.181.85.13",
-                "REFERER": "Gameover",
-            },
-        )
-        url = "http://tonkiang.us/alllist.php?s={0}".format(item)
-        rsp = s.get(
-            url,
-            headers={
-                "Host": "tonkiang.us",
-                "Referer": "http://tonkiang.us/hotellist.html?s={0}".format(item),
-                "X-Requested-With": "XMLHttpRequest",
-            },
-        )
-        logging.info(url)
-        if rsp.status_code == 200:
-            logging.info(rsp.text)
-            root = BeautifulSoup(rsp.text, "lxml")
-            els = root.select("div.m3u8")
-            for i in els:
-                name = i.parent.select(".channel")[0].get_text().strip()
-                ip = i.get_text().strip()
-                if "高清" in name:
-                    lines.append("{0},{1}".format(name.replace("高清", ""), ip))
-    return lines
-
+def download_speed_test(channel):
+    """
+    执行下载速度测试
+    """
+    session = requests.Session()
+    name, url = channel.split(",")
+    chaoshi = 4
+    for _ in range(2):
+        try:
+            start_time = time.time()
+            response = session.get(url, stream=True, timeout=chaoshi)
+            response.raise_for_status()
+            size = 0
+            for chunk in response.iter_content(chunk_size=1024):
+                size += len(chunk)
+                if time.time() - start_time >= chaoshi:
+                    break
+            else:
+                continue
+            download_time = time.time() - start_time
+            download_rate = round(size / download_time / 1024 / 1024, 4)
+            break
+        except requests.RequestException:
+            pass
+    else:
+        print(f"频道：{name}, URL: {url}, 0")
+        return name, url, 0
+    print(f"频道：{name}, URL: {url}, {download_rate}")
+    return name, url, download_rate
 
 if __name__ == "__main__":
     template_file = "demo.txt"
