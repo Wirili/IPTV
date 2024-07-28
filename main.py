@@ -298,7 +298,7 @@ def getHotel():
                 logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
     sources = []
     with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-        speed_test_results = sorted(sources, key=lambda x: x[2],reverse=True)
+        speed_test_results = sorted(speed_test_results, key=lambda x: x[2],reverse=True)
         for name, url, speed in speed_test_results:
             f_txt.write(f"{name},{url},{speed}\n")
             sources.append(f"{name},{url}")
