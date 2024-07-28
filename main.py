@@ -287,25 +287,32 @@ def getHotel():
     #         f_txt.write(f"{"\n".join(lines)}")
 
     # return lines
-
-    with ThreadPoolExecutor(max_workers=15) as executor:
-        future_to_channel = {
-            executor.submit(download_speed_test, source): source for source in lines
-        }
-        speed_test_results = []
-        for future in as_completed(future_to_channel):
-            channel = future_to_channel[future]
-            try:
-                result = future.result()
-                speed_test_results.append(result)
-            except Exception as exc:
-                logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
     sources = []
-    with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-        speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
-        for name, url, speed in speed_test_results:
-            f_txt.write(f"{name},{url},{speed}\n")
-            sources.append(f"{name},{url}")
+    if len(lines) > 0:
+        with ThreadPoolExecutor(max_workers=15) as executor:
+            future_to_channel = {
+                executor.submit(download_speed_test, source): source for source in lines
+            }
+            speed_test_results = []
+            for future in as_completed(future_to_channel):
+                channel = future_to_channel[future]
+                try:
+                    result = future.result()
+                    speed_test_results.append(result)
+                except Exception as exc:
+                    logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
+
+        with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+            speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
+            for name, url, speed in speed_test_results:
+                f_txt.write(f"{name},{url},{speed}\n")
+                sources.append(f"{name},{url}")
+    else:
+        logging.error(f"url: {url} 爬取酒店组播失败❌, 读取历史记录")
+        with open("hotel.txt", "r", encoding="utf-8") as f_txt:
+            for item in f_txt:
+                name, url, speed = item.split(",")
+                sources.append(f"{name},{url}")
 
     return ["酒店组播,#genre#"] + sources
 
