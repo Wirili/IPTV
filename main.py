@@ -279,6 +279,13 @@ def getHotel():
                 if "高清" in name:
                     lines.append("{0},{1}".format(name.replace("高清", ""), ip))
 
+    # lines = ["酒店组播,#genre#"] + lines
+
+    # with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+    #         f_txt.write(f"{"\n".join(lines)}")
+
+    # return lines
+
     with ThreadPoolExecutor(max_workers=10) as executor:
         future_to_channel = {executor.submit(download_speed_test, source): source for source in lines}
         speed_test_results = []
@@ -291,12 +298,12 @@ def getHotel():
                 logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
     sources = []
     with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+        speed_test_results = sorted(sources, key=lambda x: x[2],reverse=True)
         for name, url, speed in speed_test_results:
             f_txt.write(f"{name},{url},{speed}\n")
-            if speed > 0.2: #筛选速度大于0.2的
-                sources.append(f"{name},{url}")
+            sources.append(f"{name},{url}")
 
-    return ["酒店组播,#genre#"] + sorted(sources, key=lambda x: x[2],reverse=True)
+    return ["酒店组播,#genre#"] + sources
 
 
 def test_ip_port_connectivity(ip, port):
@@ -317,12 +324,12 @@ def download_speed_test(channel):
     """
     session = requests.Session()
     name, url = channel.split(",")
-    chaoshi = 4
+    chaoshi = 3
     for _ in range(2):
         try:
-            start_time = time.time()
-            response = session.get(url, stream=True, timeout=chaoshi)
+            response = session.get(url, stream=True, timeout=10)
             response.raise_for_status()
+            start_time = time.time()
             size = 0
             for chunk in response.iter_content(chunk_size=1024):
                 size += len(chunk)
