@@ -22,8 +22,8 @@ source_urls = [
     # "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
     # "https://fm1077.serv00.net/SmartTV.m3u",
     # "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    # "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
-    "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
     "https://gitee.com/ds360/ds/raw/master/ZB/lunbo.jpg",
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
