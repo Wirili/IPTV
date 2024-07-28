@@ -325,7 +325,7 @@ def download_speed_test(channel):
     session = requests.Session()
     name, url = channel.split(",")
     chaoshi = 3
-    for _ in range(2):
+    for _ in range(3):
         try:
             response = session.get(url, stream=True, timeout=15)
             response.raise_for_status()
