@@ -286,7 +286,7 @@ def getHotel():
 
     # return lines
 
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=15) as executor:
         future_to_channel = {executor.submit(download_speed_test, source): source for source in lines}
         speed_test_results = []
         for future in as_completed(future_to_channel):
@@ -327,7 +327,7 @@ def download_speed_test(channel):
     chaoshi = 3
     for _ in range(3):
         try:
-            response = session.get(url, stream=True, timeout=15)
+            response = session.get(url, stream=True, timeout=10)
             response.raise_for_status()
             start_time = time.time()
             size = 0
