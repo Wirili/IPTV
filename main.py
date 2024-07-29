@@ -338,7 +338,7 @@ def getHisHotel():
     logging.error(f"url: 酒店组播 爬取失败❌, 读取历史记录")
     with open("hotel.txt", "r", encoding="utf-8") as f_txt:
         for item in f_txt:
-            name, url, speed = item.split(",")
+            name, url = item.split(",")
             sources.append(f"{name},{url}")
     return sources
 
