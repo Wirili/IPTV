@@ -1,0 +1,19 @@
+2024-07-29 23:40:19,127 - ERROR - url: https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 爬取失败❌, Error: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /fanmingming/live/main/tv/m3u/ipv6.m3u (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CCE0DFC5F0>: Failed to resolve 'raw.githubusercontent.com' ([Errno 11004] getaddrinfo failed)"))
+2024-07-29 23:40:37,617 - INFO - 
+酒店组播IP：
+113.66.7.24:8000
+119.123.178.170:8000
+61.144.100.120:8090
+121.13.165.98:8000
+113.68.255.223:8848
+jt.zorua.cn:8787
+113.109.182.92:8888
+116.21.84.15:8888
+58.62.81.0:4014
+59.34.139.7:4000
+
+2024-07-29 23:41:35,042 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=113.66.7.24:8000&y=y
+2024-07-29 23:42:43,620 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=61.144.100.120:8090&y=y
+2024-07-29 23:43:08,000 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=121.13.165.98:8000&y=y
+2024-07-29 23:43:47,773 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=jt.zorua.cn:8787&y=y
+2024-07-29 23:44:08,527 - INFO - http://www.foodieguide.com/iptvsearch/alllist.php?s=113.109.182.92:8888&y=y

@@ -294,7 +294,7 @@ def getHotelSearch(key):
         logging.info(f"\n酒店组播IP：\n{"\n".join(ips)}\n")
 
         if "jt.zorua.cn:8787" not in ips:
-            ips = ips.append("jt.zorua.cn:8787")
+            ips.append("jt.zorua.cn:8787")
         return ips
     except:
         logging.info(f"url：酒店组播 搜索失败❌")
