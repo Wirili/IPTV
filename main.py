@@ -317,7 +317,7 @@ def getHotelList(ip):
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&y=false"
             },
         )
-        logging.info(url)
+
         if rsp.status_code == 200:
             root = BeautifulSoup(rsp.text, "lxml")
             els = root.select("div.m3u8")
@@ -326,6 +326,8 @@ def getHotelList(ip):
                 ip = i.get_text().strip()
                 if "高清" in name:
                     lines.append("{0},{1}".format(name.replace("高清", ""), ip))
+        if len(lines)>0:
+            logging.info(url)
         return lines
     except:
         logging.info(f"url：{url} 获取失败❌")
