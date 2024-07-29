@@ -225,25 +225,31 @@ def getHotel():
         for item in getHotelSearch("广东电信"):
             lines.extend(getHotelList(item))
 
-        if len(lines) > 0:
-            with ThreadPoolExecutor(max_workers=15) as executor:
-                future_to_channel = {
-                    executor.submit(download_speed_test, source): source for source in lines
-                }
-                speed_test_results = []
-                for future in as_completed(future_to_channel):
-                    channel = future_to_channel[future]
-                    try:
-                        result = future.result()
-                        speed_test_results.append(result)
-                    except Exception as exc:
-                        logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
+        # 测速
+        # if len(lines) > 0:
+        #     with ThreadPoolExecutor(max_workers=15) as executor:
+        #         future_to_channel = {
+        #             executor.submit(download_speed_test, source): source for source in lines
+        #         }
+        #         speed_test_results = []
+        #         for future in as_completed(future_to_channel):
+        #             channel = future_to_channel[future]
+        #             try:
+        #                 result = future.result()
+        #                 speed_test_results.append(result)
+        #             except Exception as exc:
+        #                 logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
 
-            with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-                speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
-                for name, url, speed in speed_test_results:
-                    f_txt.write(f"{name},{url},{speed}\n")
-                    sources.append(f"{name},{url}")
+        #     with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+        #         speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
+        #         for name, url, speed in speed_test_results:
+        #             f_txt.write(f"{name},{url},{speed}\n")
+        #             sources.append(f"{name},{url}")
+        # else:
+        #     sources = getHisHotel()
+
+        if len(lines)>0:
+            sources = lines
         else:
             sources = getHisHotel()
 
