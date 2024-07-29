@@ -220,38 +220,39 @@ def updateChannelUrlsM3U(channels, template_channels):
 
 def getHotel():
     sources = []
-    lines = []
+    lines = OrderedDict()
     try:
         for item in getHotelSearch("广东电信"):
-            lines.extend(getHotelList(item))
+            lines[item] = getHotelList(item)
 
         #
-        # 测速
+        # 测速15个频道，取最大值按IP排序
         #
-        # if len(lines) > 0:
-        #     with ThreadPoolExecutor(max_workers=15) as executor:
-        #         future_to_channel = {
-        #             executor.submit(download_speed_test, source): source for source in lines
-        #         }
-        #         speed_test_results = []
-        #         for future in as_completed(future_to_channel):
-        #             channel = future_to_channel[future]
-        #             try:
-        #                 result = future.result()
-        #                 speed_test_results.append(result)
-        #             except Exception as exc:
-        #                 logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
+        if len(lines) > 0:
+            speed_test_results = OrderedDict()
+            for ip,list in lines.items():
+                with ThreadPoolExecutor(max_workers=15) as executor:
+                    future_to_channel = {
+                        executor.submit(download_speed_test, ip, source): source for source in list[:15]
+                    }
+                    for future in as_completed(future_to_channel):
+                        channel = future_to_channel[future]
+                        try:
+                            ip,download_rate = future.result()
+                            if ip in speed_test_results:
+                                if speed_test_results[ip] < download_rate:
+                                    speed_test_results[ip] = download_rate
+                            else:
+                                speed_test_results[ip] = download_rate
+                        except Exception as exc:
+                            logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
 
-        #     with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-        #         speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
-        #         for name, url, speed in speed_test_results:
-        #             f_txt.write(f"{name},{url},{speed}\n")
-        #             sources.append(f"{name},{url}")
-        # else:
-        #     sources = getHisHotel()
+            speed_test_results = OrderedDict(sorted(speed_test_results.items(), key=lambda t: t[1], reverse=True))
+            for key,value in speed_test_results.items():
+                print(f"频道IP：{key}, 速度：{value}")
+                for url in lines[key]:
+                    sources.append(f"{url}")
 
-        if len(lines)>0:
-            sources = lines
             with open("hotel.txt", "w", encoding="utf-8") as f_txt:
                 f_txt.write(f"{"\n".join(sources)}")
         else:
@@ -365,7 +366,7 @@ def test_ip_port_connectivity(ip, port):
         return False
 
 
-def download_speed_test(channel):
+def download_speed_test(ip,channel):
     """
     执行下载速度测试
     """
@@ -391,9 +392,9 @@ def download_speed_test(channel):
             pass
     else:
         print(f"频道：{name}, URL: {url}, 0")
-        return name, url, 0
+        return ip, 0
     print(f"频道：{name}, URL: {url}, {download_rate}")
-    return name, url, download_rate
+    return ip, download_rate
 
 
 if __name__ == "__main__":
