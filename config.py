@@ -47,7 +47,8 @@ url_blacklist = [
     "iptv.luas.edu.cn",
     "p3p://",
     "p2p://",
-    "P2p://"
+    "P2p://",
+    "udp://"
 ]
 
 announcements = [
