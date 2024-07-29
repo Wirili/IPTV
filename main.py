@@ -340,7 +340,7 @@ def download_speed_test(channel):
     chaoshi = 3
     for _ in range(2):
         try:
-            response = session.get(url, stream=True, timeout=8)
+            response = session.get(url, stream=True, timeout=6)
             response.raise_for_status()
             start_time = time.time()
             size = 0
