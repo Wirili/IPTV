@@ -192,13 +192,13 @@ def updateChannelUrlsM3U(channels, template_channels):
                                     url_suffix = (
                                         f"$LR•IPV6"
                                         if total_urls == 1
-                                        else f"$LR•IPV6『线路{index}』"
+                                        else f"$LR•{total_urls}•IPV6『线路{index}』"
                                     )
                                 else:
                                     url_suffix = (
                                         f"$LR•IPV4"
                                         if total_urls == 1
-                                        else f"$LR•IPV4『线路{index}』"
+                                        else f"$LR•{total_urls}•IPV4『线路{index}』"
                                     )
                                 if "$" in url:
                                     base_url = url.split("$", 1)[0]
