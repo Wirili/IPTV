@@ -292,6 +292,9 @@ def getHotelSearch(key):
                 if test_ip_port_connectivity(ip, int(port)):
                     ips.append(item.parent.parent.a.get_text().strip())
         logging.info(f"\n酒店组播IP：\n{"\n".join(ips)}\n")
+
+        if "jt.zorua.cn:8787" not in ips:
+            ips = ips.append("jt.zorua.cn:8787")
         return ips
     except:
         logging.info(f"url：酒店组播 搜索失败❌")
@@ -337,9 +340,15 @@ def getHisHotel():
     sources = []
     logging.error(f"url: 酒店组播 爬取失败❌, 读取历史记录")
     with open("hotel.txt", "r", encoding="utf-8") as f_txt:
-        for item in f_txt:
-            name, url = item.split(",")
-            sources.append(f"{name},{url}")
+        #
+        # 测速
+        #
+        # for item in f_txt:
+        #     name, url, speed = item.split(",")
+        #     sources.append(f"{name},{url}")
+
+        sources = f_txt.read().split("\n")
+
     return sources
 
 def test_ip_port_connectivity(ip, port):
