@@ -291,10 +291,11 @@ def getHotelSearch(key):
                 ip, port = item.parent.parent.a.get_text().strip().split(":")
                 if test_ip_port_connectivity(ip, int(port)):
                     ips.append(item.parent.parent.a.get_text().strip())
-        logging.info(f"\n酒店组播IP：\n{"\n".join(ips)}\n")
 
         if "jt.zorua.cn:8787" not in ips:
             ips.append("jt.zorua.cn:8787")
+
+        logging.info(f"\n酒店组播IP：\n{"\n".join(ips)}\n")
         return ips
     except:
         logging.info(f"url：酒店组播 搜索失败❌")
