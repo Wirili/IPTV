@@ -225,7 +225,9 @@ def getHotel():
         for item in getHotelSearch("广东电信"):
             lines.extend(getHotelList(item))
 
+        #
         # 测速
+        #
         # if len(lines) > 0:
         #     with ThreadPoolExecutor(max_workers=15) as executor:
         #         future_to_channel = {
@@ -250,6 +252,8 @@ def getHotel():
 
         if len(lines)>0:
             sources = lines
+            with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+                f_txt.write(f"{"\n".join(sources)}")
         else:
             sources = getHisHotel()
 
