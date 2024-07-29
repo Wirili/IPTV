@@ -76,9 +76,10 @@ def fetch_channels(url):
                     if match:
                         channel_name = match.group(1).strip()
                         channel_url = match.group(2).strip()
-                        channels[current_category].append((channel_name, channel_url))
+                        for item in channel_url.split("#"):
+                            channels[current_category].append((channel_name, item))
                     elif line:
-                        channels[current_category].append((line, ""))
+                            channels[current_category].append((line, ""))
         if channels:
             categories = ", ".join(channels.keys())
             logging.info(
