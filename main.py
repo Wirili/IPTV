@@ -219,96 +219,99 @@ def updateChannelUrlsM3U(channels, template_channels):
 
 
 def getHotel():
-    s = requests.Session()
-    hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
-
-    rsp = s.post(
-        url=hotel,
-        data={
-            "saerch": "广东电信",
-            "Submit": "",
-            "names": "Tom",
-            "city": "HeZhou",
-            "address": "Ca94122",
-        },
-        headers={
-            "Host": "www.foodieguide.com",
-            "Origin": "http://www.foodieguide.com",
-            "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
-        },
-    )
-    rsp.encoding = "utf-8"
-    root = BeautifulSoup(rsp.text, "lxml")
-    els = root.select('div[style="color:limegreen; "]')
-    # ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
-    ips = []
-    lines = []
-    for item in els:
-        if item.parent.parent.a.get_text().strip() not in ips:
-            ip, port = item.parent.parent.a.get_text().strip().split(":")
-            if test_ip_port_connectivity(ip, int(port)):
-                ips.append(item.parent.parent.a.get_text().strip())
-    logging.info(f"\n酒店组播IP：\n\n{"\n".join(ips)}\n")
-
-    for item in ips:
-        url = "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+&y=y".format(item)
-        rsp = s.get(
-            url,
-            headers={
-                "Host": "www.foodieguide.com",
-                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(
-                    item
-                ),
-            },
-        )
-        url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=y".format(item)
-        rsp = s.get(
-            url,
-            headers={
-                "Host": "www.foodieguide.com",
-                "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&y=false".format(
-                    item
-                ),
-            },
-        )
-        logging.info(url)
-        if rsp.status_code == 200:
-            # logging.info(rsp.text)
-            root = BeautifulSoup(rsp.text, "lxml")
-            els = root.select("div.m3u8")
-            for i in els:
-                name = i.parent.select(".channel")[0].get_text().strip()
-                ip = i.get_text().strip()
-                if "高清" in name:
-                    lines.append("{0},{1}".format(name.replace("高清", ""), ip))
-
-    # lines = ["酒店组播,#genre#"] + lines
-
-    # with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-    #         f_txt.write(f"{"\n".join(lines)}")
-
-    # return lines
     sources = []
-    if len(lines) > 0:
-        with ThreadPoolExecutor(max_workers=15) as executor:
-            future_to_channel = {
-                executor.submit(download_speed_test, source): source for source in lines
-            }
-            speed_test_results = []
-            for future in as_completed(future_to_channel):
-                channel = future_to_channel[future]
-                try:
-                    result = future.result()
-                    speed_test_results.append(result)
-                except Exception as exc:
-                    logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
+    try:
+        s = requests.Session()
+        hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
-        with open("hotel.txt", "w", encoding="utf-8") as f_txt:
-            speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
-            for name, url, speed in speed_test_results:
-                f_txt.write(f"{name},{url},{speed}\n")
-                sources.append(f"{name},{url}")
-    else:
+        rsp = s.post(
+            url=hotel,
+            data={
+                "saerch": "广东电信",
+                "Submit": "",
+                "names": "Tom",
+                "city": "HeZhou",
+                "address": "Ca94122",
+            },
+            headers={
+                "Host": "www.foodieguide.com",
+                "Origin": "http://www.foodieguide.com",
+                "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
+            },
+        )
+        rsp.encoding = "utf-8"
+        root = BeautifulSoup(rsp.text, "lxml")
+        els = root.select('div[style="color:limegreen; "]')
+        # ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
+        ips = []
+        lines = []
+        for item in els:
+            if item.parent.parent.a.get_text().strip() not in ips:
+                ip, port = item.parent.parent.a.get_text().strip().split(":")
+                if test_ip_port_connectivity(ip, int(port)):
+                    ips.append(item.parent.parent.a.get_text().strip())
+        logging.info(f"\n酒店组播IP：\n\n{"\n".join(ips)}\n")
+
+        for item in ips:
+            url = "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&Submit=+&y=y".format(item)
+            rsp = s.get(
+                url,
+                headers={
+                    "Host": "www.foodieguide.com",
+                    "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}".format(
+                        item
+                    ),
+                },
+            )
+            url = "http://www.foodieguide.com/iptvsearch/alllist.php?s={0}&y=y".format(item)
+            rsp = s.get(
+                url,
+                headers={
+                    "Host": "www.foodieguide.com",
+                    "Referer": "http://www.foodieguide.com/iptvsearch/hotellist.html?s={0}&y=false".format(
+                        item
+                    ),
+                },
+            )
+            logging.info(url)
+            if rsp.status_code == 200:
+                # logging.info(rsp.text)
+                root = BeautifulSoup(rsp.text, "lxml")
+                els = root.select("div.m3u8")
+                for i in els:
+                    name = i.parent.select(".channel")[0].get_text().strip()
+                    ip = i.get_text().strip()
+                    if "高清" in name:
+                        lines.append("{0},{1}".format(name.replace("高清", ""), ip))
+
+        # lines = ["酒店组播,#genre#"] + lines
+
+        # with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+        #         f_txt.write(f"{"\n".join(lines)}")
+
+        # return lines
+
+        if len(lines) > 0:
+            with ThreadPoolExecutor(max_workers=15) as executor:
+                future_to_channel = {
+                    executor.submit(download_speed_test, source): source for source in lines
+                }
+                speed_test_results = []
+                for future in as_completed(future_to_channel):
+                    channel = future_to_channel[future]
+                    try:
+                        result = future.result()
+                        speed_test_results.append(result)
+                    except Exception as exc:
+                        logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
+
+            with open("hotel.txt", "w", encoding="utf-8") as f_txt:
+                speed_test_results = sorted(speed_test_results, key=lambda x: x[2], reverse=True)
+                for name, url, speed in speed_test_results:
+                    f_txt.write(f"{name},{url},{speed}\n")
+                    sources.append(f"{name},{url}")
+
+    except requests.RequestException as e:
         logging.error(f"url: 酒店组播 爬取失败❌, 读取历史记录")
         with open("hotel.txt", "r", encoding="utf-8") as f_txt:
             for item in f_txt:
