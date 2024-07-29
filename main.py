@@ -276,7 +276,6 @@ def getHotelSearch(key):
         els = root.select('div[style="color:limegreen; "]')
         # ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
         ips = []
-        lines = []
         for item in els:
             if item.parent.parent.a.get_text().strip() not in ips:
                 ip, port = item.parent.parent.a.get_text().strip().split(":")
