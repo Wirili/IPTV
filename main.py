@@ -249,7 +249,7 @@ def getHotel():
 
             speed_test_results = OrderedDict(sorted(speed_test_results.items(), key=lambda t: t[1], reverse=True))
             for key,value in speed_test_results.items():
-                print(f"频道IP：{key}, 速度：{value}")
+                logging.info(f"频道IP：{key}, 速度：{value}")
                 for url in lines[key]:
                     sources.append(f"{url}")
 
