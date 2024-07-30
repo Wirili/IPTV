@@ -252,8 +252,9 @@ def getHotel():
             for key,value in speed_test_results.items():
                 logging.info(f"频道IP：{key}, 速度：{value}")
                 ipspeed.append(f"{key},{value}")
-                for url in lines[key]:
-                    sources.append(f"{url}")
+                if value>0.2:
+                    for url in lines[key]:
+                        sources.append(f"{url}")
 
             with open("hotelspeed.txt", "w", encoding="utf-8") as f_txt:
                 f_txt.write(f"{"\n".join(ipspeed)}")
@@ -277,7 +278,7 @@ def getHotelSearch(key):
                 hips = f_txt.read().split("\n")
             for item in hips:
                 ip,speed = item.split(",")
-                if float(speed)>0.6:
+                if float(speed)>0.5:
                     ips.append(ip)
         except:
             pass
