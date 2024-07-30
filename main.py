@@ -240,16 +240,26 @@ def getHotel():
                         channel = future_to_channel[future]
                         try:
                             ip,download_rate = future.result()
-                            if ip in speed_test_results:
-                                if speed_test_results[ip] < download_rate:
-                                    speed_test_results[ip] = download_rate
-                            else:
-                                speed_test_results[ip] = download_rate
+                            speed_test_results[ip].append(download_rate)
+                            # if ip in speed_test_results:
+                            #     if speed_test_results[ip] < download_rate:
+                            #         speed_test_results[ip] = download_rate
+                            # else:
+                            #     speed_test_results[ip] = download_rate
                         except Exception as exc:
                             logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
 
-            speed_test_results = OrderedDict(sorted(speed_test_results.items(), key=lambda t: t[1], reverse=True))
+
+            result = OrderedDict()
             for key,value in speed_test_results.items():
+                if len(list(filter(lambda x: x == 0, value)))>=10:
+                    result[ip]=0
+                else:
+                    result[ip]=max(value)
+
+            result = OrderedDict(sorted(result.items(), key=lambda t: t[1], reverse=True))
+
+            for key,value in result.items():
                 logging.info(f"频道IP：{key}, 速度：{value}")
                 ipspeed.append(f"{key},{value}")
                 if value>0.2:
