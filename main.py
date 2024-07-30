@@ -277,7 +277,7 @@ def getHotelSearch(key):
                 hips = f_txt.read().split("\n")
             for item in hips:
                 ip,speed = item.split(",")
-                if speed>0.6:
+                if float(speed)>0.6:
                     ips.append(ip)
         except:
             pass
