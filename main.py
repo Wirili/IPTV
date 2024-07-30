@@ -221,6 +221,7 @@ def updateChannelUrlsM3U(channels, template_channels):
 def getHotel():
     sources = []
     lines = OrderedDict()
+    ipspeed = []
     try:
         for item in getHotelSearch("广东电信"):
             lines[item] = getHotelList(item)
@@ -250,8 +251,12 @@ def getHotel():
             speed_test_results = OrderedDict(sorted(speed_test_results.items(), key=lambda t: t[1], reverse=True))
             for key,value in speed_test_results.items():
                 logging.info(f"频道IP：{key}, 速度：{value}")
+                ipspeed.append(f"{key},{value}")
                 for url in lines[key]:
                     sources.append(f"{url}")
+
+            with open("hotelspeed.txt", "w", encoding="utf-8") as f_txt:
+                f_txt.write(f"{"\n".join(ipspeed)}")
 
             with open("hotel.txt", "w", encoding="utf-8") as f_txt:
                 f_txt.write(f"{"\n".join(sources)}")
@@ -265,6 +270,15 @@ def getHotel():
 
 def getHotelSearch(key):
     try:
+        ips = []
+        hips = []
+        with open("hotelspeed.txt", "r", encoding="utf-8") as f_txt:
+            hips = f_txt.read().split("\n")
+        for item in hips:
+            ip,speed = item.split(",")
+            if speed>0.6:
+                ips.append(ip)
+
         hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
         rsp = requests.post(
@@ -285,19 +299,22 @@ def getHotelSearch(key):
         rsp.encoding = "utf-8"
         root = BeautifulSoup(rsp.text, "lxml")
         els = root.select('div[style="color:limegreen; "]')
-        # ips = ["jt.zorua.cn:8787","113.109.251.210:9999"]
-        ips = []
+
         for item in els:
             if item.parent.parent.a.get_text().strip() not in ips:
                 ip, port = item.parent.parent.a.get_text().strip().split(":")
                 if test_ip_port_connectivity(ip, int(port)):
                     ips.append(item.parent.parent.a.get_text().strip())
 
-        if "jt.zorua.cn:8787" not in ips:
-            ips.append("jt.zorua.cn:8787")
+        ips.append("jt.zorua.cn:8787")
+        result = []
+        # 去重复
+        for item in ips:
+            if item not in result:
+                result.append(item)
 
-        logging.info(f"\n酒店组播IP：\n{"\n".join(ips)}\n")
-        return ips
+        logging.info(f"\n酒店组播IP：\n{"\n".join(result)}\n")
+        return result
     except:
         logging.info(f"url：酒店组播 搜索失败❌")
         return []
