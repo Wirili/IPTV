@@ -255,9 +255,9 @@ def getHotel():
             result = OrderedDict()
             for key,value in speed_test_results.items():
                 if len([x for x in value if x == 0])>=10:
-                    result[ip]=0
+                    result[key]=0
                 else:
-                    result[ip]=max(value)
+                    result[key]=max(value)
 
             result = OrderedDict(sorted(result.items(), key=lambda t: t[1], reverse=True))
 
