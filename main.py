@@ -240,7 +240,7 @@ def getHotel():
                         channel = future_to_channel[future]
                         try:
                             ip,download_rate = future.result()
-                            speed_test_results[ip].extend(download_rate)
+                            speed_test_results[ip].extend([download_rate])
                             # if ip in speed_test_results:
                             #     if speed_test_results[ip] < download_rate:
                             #         speed_test_results[ip] = download_rate
