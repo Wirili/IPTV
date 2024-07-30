@@ -2,10 +2,10 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '0 1/2 * * ?'
-    
+    - cron: '0 3/4 * * ?'
+
   workflow_dispatch:
-    
+
 env:
   TZ: Asia/Shanghai
 
