@@ -271,13 +271,16 @@ def getHotel():
 def getHotelSearch(key):
     try:
         ips = []
-        hips = []
-        with open("hotelspeed.txt", "r", encoding="utf-8") as f_txt:
-            hips = f_txt.read().split("\n")
-        for item in hips:
-            ip,speed = item.split(",")
-            if speed>0.6:
-                ips.append(ip)
+        try:
+            hips = []
+            with open("hotelspeed.txt", "r", encoding="utf-8") as f_txt:
+                hips = f_txt.read().split("\n")
+            for item in hips:
+                ip,speed = item.split(",")
+                if speed>0.6:
+                    ips.append(ip)
+        except:
+            pass
 
         hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
