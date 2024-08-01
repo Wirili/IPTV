@@ -4,7 +4,7 @@ source_urls = [
     "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
     # "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "酒店组播",
-    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"
+    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
     "http://175.178.251.183:6689/channel.txt",
     "http://120.79.4.185/new/mdlive.txt",
     # "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
