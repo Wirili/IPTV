@@ -273,6 +273,23 @@ def getHotel():
 
             with open("hotel.txt", "w", encoding="utf-8") as f_txt:
                 f_txt.write(f"{"\n".join(sources)}")
+
+            with open("hotel.m3u", "w", encoding="utf-8") as f_m3u:
+                f_m3u.write(
+                    f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n"""
+                )
+                index = 1
+                channel_name_old = ""
+                for item in sources:
+                    channel_name,new_url = item.split(",")
+                    if channel_name_old!=channel_name:
+                        channel_name_old=channel_name
+                        index=1
+                    f_m3u.write(
+                        f'#EXTINF:-1 tvg-id="{index}" tvg-name="{channel_name}" tvg-logo="https://epg.112114.free.hr/logo/{channel_name}.png" group-title="酒店组播",{channel_name}\n'
+                    )
+                    f_m3u.write(new_url + "\n")
+                    index+=1
         else:
             sources = getHisHotel()
 
