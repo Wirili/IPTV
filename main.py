@@ -280,8 +280,7 @@ def getHotel():
                 )
                 index = 1
                 channel_name_old = ""
-                hotels = sorted(sources)
-                for item in hotels:
+                for item in sources:
                     channel_name,new_url = item.split(",")
                     if channel_name_old!=channel_name:
                         channel_name_old=channel_name
