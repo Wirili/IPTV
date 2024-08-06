@@ -338,6 +338,344 @@ http://113.109.250.1:9999/udp/239.77.0.148:5146
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://epg.112114.free.hr/logo/东南卫视.png" group-title="酒店组播",东南卫视
 http://113.109.250.1:9999/udp/239.77.1.104:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
+http://116.26.5.129:8088/udp/239.77.1.19:5146
+#EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
+http://116.26.5.129:8088/udp/239.77.1.152:5146
+#EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
+http://116.26.5.129:8088/udp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.free.hr/logo/广东珠江.png" group-title="酒店组播",广东珠江
+http://116.26.5.129:8088/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东新闻" tvg-logo="https://epg.112114.free.hr/logo/广东新闻.png" group-title="酒店组播",广东新闻
+http://116.26.5.129:8088/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东民生" tvg-logo="https://epg.112114.free.hr/logo/广东民生.png" group-title="酒店组播",广东民生
+http://116.26.5.129:8088/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东体育" tvg-logo="https://epg.112114.free.hr/logo/广东体育.png" group-title="酒店组播",广东体育
+http://116.26.5.129:8088/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="1" tvg-name="经济科教" tvg-logo="https://epg.112114.free.hr/logo/经济科教.png" group-title="酒店组播",经济科教
+http://116.26.5.129:8088/udp/239.77.0.85:5146
+#EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.free.hr/logo/大湾区卫视.png" group-title="酒店组播",大湾区卫视
+http://116.26.5.129:8088/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东影视" tvg-logo="https://epg.112114.free.hr/logo/广东影视.png" group-title="酒店组播",广东影视
+http://116.26.5.129:8088/udp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东少儿" tvg-logo="https://epg.112114.free.hr/logo/广东少儿.png" group-title="酒店组播",广东少儿
+http://116.26.5.129:8088/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="1" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.free.hr/logo/嘉佳卡通.png" group-title="酒店组播",嘉佳卡通
+http://116.26.5.129:8088/udp/239.77.0.179:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
+http://116.26.5.129:8088/udp/239.77.1.17:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
+http://116.26.5.129:8088/udp/239.77.1.144:5146
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
+http://116.26.5.129:8088/udp/239.77.0.86:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-2" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2.png" group-title="酒店组播",CCTV-2
+http://116.26.5.129:8088/udp/239.77.1.158:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2.png" group-title="酒店组播",CCTV-2
+http://116.26.5.129:8088/udp/239.253.43.17:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-2测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2测试.png" group-title="酒店组播",CCTV-2测试
+http://116.26.5.129:8088/udp/239.77.0.137:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-3" tvg-logo="https://epg.112114.free.hr/logo/CCTV-3.png" group-title="酒店组播",CCTV-3
+http://116.26.5.129:8088/udp/239.77.0.169:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
+http://116.26.5.129:8088/udp/239.77.1.163:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
+http://116.26.5.129:8088/udp/239.77.1.166:5146
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
+http://116.26.5.129:8088/udp/239.77.0.78:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5.png" group-title="酒店组播",CCTV-5
+http://116.26.5.129:8088/udp/239.77.0.170:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
+http://116.26.5.129:8088/udp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
+http://116.26.5.129:8088/udp/239.77.1.31:5146
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
+http://116.26.5.129:8088/udp/239.77.1.147:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-6" tvg-logo="https://epg.112114.free.hr/logo/CCTV-6.png" group-title="酒店组播",CCTV-6
+http://116.26.5.129:8088/udp/239.77.0.171:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-7" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7.png" group-title="酒店组播",CCTV-7
+http://116.26.5.129:8088/udp/239.77.1.159:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-7" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7.png" group-title="酒店组播",CCTV-7
+http://116.26.5.129:8088/udp/239.77.1.167:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-7测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7测试.png" group-title="酒店组播",CCTV-7测试
+http://116.26.5.129:8088/udp/239.77.0.138:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-8" tvg-logo="https://epg.112114.free.hr/logo/CCTV-8.png" group-title="酒店组播",CCTV-8
+http://116.26.5.129:8088/udp/239.77.0.172:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-9" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9.png" group-title="酒店组播",CCTV-9
+http://116.26.5.129:8088/udp/239.77.1.160:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-9" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9.png" group-title="酒店组播",CCTV-9
+http://116.26.5.129:8088/udp/239.77.1.168:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-9测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9测试.png" group-title="酒店组播",CCTV-9测试
+http://116.26.5.129:8088/udp/239.77.0.135:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-10" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10.png" group-title="酒店组播",CCTV-10
+http://116.26.5.129:8088/udp/239.77.1.113:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-10" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10.png" group-title="酒店组播",CCTV-10
+http://116.26.5.129:8088/udp/239.77.1.169:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-10测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10测试.png" group-title="酒店组播",CCTV-10测试
+http://116.26.5.129:8088/udp/239.77.0.134:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-11" tvg-logo="https://epg.112114.free.hr/logo/CCTV-11.png" group-title="酒店组播",CCTV-11
+http://116.26.5.129:8088/udp/239.77.1.238:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-12" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12.png" group-title="酒店组播",CCTV-12
+http://116.26.5.129:8088/udp/239.77.1.109:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-12" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12.png" group-title="酒店组播",CCTV-12
+http://116.26.5.129:8088/udp/239.77.1.170:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-12测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12测试.png" group-title="酒店组播",CCTV-12测试
+http://116.26.5.129:8088/udp/239.77.0.136:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-13" tvg-logo="https://epg.112114.free.hr/logo/CCTV-13.png" group-title="酒店组播",CCTV-13
+http://116.26.5.129:8088/udp/239.77.0.188:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="https://epg.112114.free.hr/logo/CCTV-13.png" group-title="酒店组播",CCTV-13
+http://116.26.5.129:8088/udp/239.253.43.196:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-14" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14.png" group-title="酒店组播",CCTV-14
+http://116.26.5.129:8088/udp/239.77.1.161:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-14" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14.png" group-title="酒店组播",CCTV-14
+http://116.26.5.129:8088/udp/239.77.1.171:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-14测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14测试.png" group-title="酒店组播",CCTV-14测试
+http://116.26.5.129:8088/udp/239.77.0.133:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-15" tvg-logo="https://epg.112114.free.hr/logo/CCTV-15.png" group-title="酒店组播",CCTV-15
+http://116.26.5.129:8088/udp/239.77.1.239:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-16" tvg-logo="https://epg.112114.free.hr/logo/CCTV-16.png" group-title="酒店组播",CCTV-16
+http://116.26.5.129:8088/udp/239.77.0.165:5146
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-16" tvg-logo="https://epg.112114.free.hr/logo/CCTV-16.png" group-title="酒店组播",CCTV-16
+http://116.26.5.129:8088/udp/239.77.1.76:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-17" tvg-logo="https://epg.112114.free.hr/logo/CCTV-17.png" group-title="酒店组播",CCTV-17
+http://116.26.5.129:8088/udp/239.77.1.121:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN英语" tvg-logo="https://epg.112114.free.hr/logo/CGTN英语.png" group-title="酒店组播",CGTN英语
+http://116.26.5.129:8088/udp/239.77.0.199:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.free.hr/logo/CGTN西班牙语.png" group-title="酒店组播",CGTN西班牙语
+http://116.26.5.129:8088/udp/239.77.0.221:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN法语" tvg-logo="https://epg.112114.free.hr/logo/CGTN法语.png" group-title="酒店组播",CGTN法语
+http://116.26.5.129:8088/udp/239.77.0.228:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.112114.free.hr/logo/CGTN阿拉伯语.png" group-title="酒店组播",CGTN阿拉伯语
+http://116.26.5.129:8088/udp/239.253.43.200:5146
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.free.hr/logo/CGTN俄语.png" group-title="酒店组播",CGTN俄语
+http://116.26.5.129:8088/udp/239.253.43.201:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="https://epg.112114.free.hr/logo/广州综合.png" group-title="酒店组播",广州综合
+http://116.26.5.129:8088/udp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州新闻" tvg-logo="https://epg.112114.free.hr/logo/广州新闻.png" group-title="酒店组播",广州新闻
+http://116.26.5.129:8088/udp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州影视" tvg-logo="https://epg.112114.free.hr/logo/广州影视.png" group-title="酒店组播",广州影视
+http://116.26.5.129:8088/udp/239.253.43.73:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州法治" tvg-logo="https://epg.112114.free.hr/logo/广州法治.png" group-title="酒店组播",广州法治
+http://116.26.5.129:8088/udp/239.253.43.74:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://epg.112114.free.hr/logo/广州竞赛.png" group-title="酒店组播",广州竞赛
+http://116.26.5.129:8088/udp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
+http://116.26.5.129:8088/udp/239.77.1.3:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
+http://116.26.5.129:8088/udp/239.77.1.148:5146
+#EXTINF:-1 tvg-id="3" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
+http://116.26.5.129:8088/udp/239.77.0.92:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳都市频道" tvg-logo="https://epg.112114.free.hr/logo/深圳都市频道.png" group-title="酒店组播",深圳都市频道
+http://116.26.5.129:8088/udp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳都市频道" tvg-logo="https://epg.112114.free.hr/logo/深圳都市频道.png" group-title="酒店组播",深圳都市频道
+http://116.26.5.129:8088/udp/239.77.1.124:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.free.hr/logo/深圳电视剧频道.png" group-title="酒店组播",深圳电视剧频道
+http://116.26.5.129:8088/udp/239.77.1.177:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.free.hr/logo/深圳电视剧频道.png" group-title="酒店组播",深圳电视剧频道
+http://116.26.5.129:8088/udp/239.77.1.125:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.free.hr/logo/深圳财经生活.png" group-title="酒店组播",深圳财经生活
+http://116.26.5.129:8088/udp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳娱乐频道" tvg-logo="https://epg.112114.free.hr/logo/深圳娱乐频道.png" group-title="酒店组播",深圳娱乐频道
+http://116.26.5.129:8088/udp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.free.hr/logo/深圳体育健康.png" group-title="酒店组播",深圳体育健康
+http://116.26.5.129:8088/udp/239.77.1.128:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.free.hr/logo/深圳体育健康.png" group-title="酒店组播",深圳体育健康
+http://116.26.5.129:8088/udp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳少儿频道" tvg-logo="https://epg.112114.free.hr/logo/深圳少儿频道.png" group-title="酒店组播",深圳少儿频道
+http://116.26.5.129:8088/udp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳公共频道" tvg-logo="https://epg.112114.free.hr/logo/深圳公共频道.png" group-title="酒店组播",深圳公共频道
+http://116.26.5.129:8088/udp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="2" tvg-name="深圳公共频道" tvg-logo="https://epg.112114.free.hr/logo/深圳公共频道.png" group-title="酒店组播",深圳公共频道
+http://116.26.5.129:8088/udp/239.77.1.126:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳宝安频道" tvg-logo="https://epg.112114.free.hr/logo/深圳宝安频道.png" group-title="酒店组播",深圳宝安频道
+http://116.26.5.129:8088/udp/239.77.1.67:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳龙岗频道" tvg-logo="https://epg.112114.free.hr/logo/深圳龙岗频道.png" group-title="酒店组播",深圳龙岗频道
+http://116.26.5.129:8088/udp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳东部频道" tvg-logo="https://epg.112114.free.hr/logo/深圳东部频道.png" group-title="酒店组播",深圳东部频道
+http://116.26.5.129:8088/udp/239.77.1.224:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.free.hr/logo/深圳众创TV.png" group-title="酒店组播",深圳众创TV
+http://116.26.5.129:8088/udp/239.77.1.247:5146
+#EXTINF:-1 tvg-id="1" tvg-name="深圳宜和购物" tvg-logo="https://epg.112114.free.hr/logo/深圳宜和购物.png" group-title="酒店组播",深圳宜和购物
+http://116.26.5.129:8088/udp/239.77.1.87:5146
+#EXTINF:-1 tvg-id="1" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.free.hr/logo/韶关新闻综合.png" group-title="酒店组播",韶关新闻综合
+http://116.26.5.129:8088/udp/239.77.0.117:5146
+#EXTINF:-1 tvg-id="1" tvg-name="韶关绿色生活" tvg-logo="https://epg.112114.free.hr/logo/韶关绿色生活.png" group-title="酒店组播",韶关绿色生活
+http://116.26.5.129:8088/udp/239.77.0.119:5146
+#EXTINF:-1 tvg-id="1" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.free.hr/logo/湛江新闻综合.png" group-title="酒店组播",湛江新闻综合
+http://116.26.5.129:8088/udp/239.77.0.141:5146
+#EXTINF:-1 tvg-id="1" tvg-name="湛江公共" tvg-logo="https://epg.112114.free.hr/logo/湛江公共.png" group-title="酒店组播",湛江公共
+http://116.26.5.129:8088/udp/239.77.0.140:5146
+#EXTINF:-1 tvg-id="1" tvg-name="揭阳综合" tvg-logo="https://epg.112114.free.hr/logo/揭阳综合.png" group-title="酒店组播",揭阳综合
+http://116.26.5.129:8088/udp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="1" tvg-name="揭阳生活" tvg-logo="https://epg.112114.free.hr/logo/揭阳生活.png" group-title="酒店组播",揭阳生活
+http://116.26.5.129:8088/udp/239.77.0.251:5146
+#EXTINF:-1 tvg-id="1" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.free.hr/logo/汕尾新闻综合.png" group-title="酒店组播",汕尾新闻综合
+http://116.26.5.129:8088/udp/239.77.0.25:5146
+#EXTINF:-1 tvg-id="1" tvg-name="汕尾文化生活" tvg-logo="https://epg.112114.free.hr/logo/汕尾文化生活.png" group-title="酒店组播",汕尾文化生活
+http://116.26.5.129:8088/udp/239.77.0.187:5146
+#EXTINF:-1 tvg-id="1" tvg-name="江门综合" tvg-logo="https://epg.112114.free.hr/logo/江门综合.png" group-title="酒店组播",江门综合
+http://116.26.5.129:8088/udp/239.77.0.201:5146
+#EXTINF:-1 tvg-id="1" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.free.hr/logo/江门侨乡生活.png" group-title="酒店组播",江门侨乡生活
+http://116.26.5.129:8088/udp/239.77.0.202:5146
+#EXTINF:-1 tvg-id="1" tvg-name="江门教育" tvg-logo="https://epg.112114.free.hr/logo/江门教育.png" group-title="酒店组播",江门教育
+http://116.26.5.129:8088/udp/239.77.0.203:5146
+#EXTINF:-1 tvg-id="1" tvg-name="HZTV-1" tvg-logo="https://epg.112114.free.hr/logo/HZTV-1.png" group-title="酒店组播",HZTV-1
+http://116.26.5.129:8088/udp/239.77.1.232:5146
+#EXTINF:-1 tvg-id="1" tvg-name="HZTV-2" tvg-logo="https://epg.112114.free.hr/logo/HZTV-2.png" group-title="酒店组播",HZTV-2
+http://116.26.5.129:8088/udp/239.77.1.233:5146
+#EXTINF:-1 tvg-id="1" tvg-name="珠海-1" tvg-logo="https://epg.112114.free.hr/logo/珠海-1.png" group-title="酒店组播",珠海-1
+http://116.26.5.129:8088/udp/239.77.0.155:5146
+#EXTINF:-1 tvg-id="1" tvg-name="珠海-2" tvg-logo="https://epg.112114.free.hr/logo/珠海-2.png" group-title="酒店组播",珠海-2
+http://116.26.5.129:8088/udp/239.77.0.154:5146
+#EXTINF:-1 tvg-id="1" tvg-name="肇庆综合" tvg-logo="https://epg.112114.free.hr/logo/肇庆综合.png" group-title="酒店组播",肇庆综合
+http://116.26.5.129:8088/udp/239.253.43.1:5146
+#EXTINF:-1 tvg-id="1" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.free.hr/logo/肇庆生活服务.png" group-title="酒店组播",肇庆生活服务
+http://116.26.5.129:8088/udp/239.253.43.2:5146
+#EXTINF:-1 tvg-id="1" tvg-name="河源综合" tvg-logo="https://epg.112114.free.hr/logo/河源综合.png" group-title="酒店组播",河源综合
+http://116.26.5.129:8088/udp/239.253.43.213:5146
+#EXTINF:-1 tvg-id="1" tvg-name="河源公共" tvg-logo="https://epg.112114.free.hr/logo/河源公共.png" group-title="酒店组播",河源公共
+http://116.26.5.129:8088/udp/239.253.43.214:5146
+#EXTINF:-1 tvg-id="1" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.free.hr/logo/清远新闻综合.png" group-title="酒店组播",清远新闻综合
+http://116.26.5.129:8088/udp/239.253.43.33:5146
+#EXTINF:-1 tvg-id="1" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.free.hr/logo/清远文旅生活.png" group-title="酒店组播",清远文旅生活
+http://116.26.5.129:8088/udp/239.253.43.34:5146
+#EXTINF:-1 tvg-id="1" tvg-name="云浮综合" tvg-logo="https://epg.112114.free.hr/logo/云浮综合.png" group-title="酒店组播",云浮综合
+http://116.26.5.129:8088/udp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="1" tvg-name="云浮文旅" tvg-logo="https://epg.112114.free.hr/logo/云浮文旅.png" group-title="酒店组播",云浮文旅
+http://116.26.5.129:8088/udp/239.77.0.254:5146
+#EXTINF:-1 tvg-id="1" tvg-name="茂名综合" tvg-logo="https://epg.112114.free.hr/logo/茂名综合.png" group-title="酒店组播",茂名综合
+http://116.26.5.129:8088/udp/239.77.0.206:5146
+#EXTINF:-1 tvg-id="1" tvg-name="茂名公共" tvg-logo="https://epg.112114.free.hr/logo/茂名公共.png" group-title="酒店组播",茂名公共
+http://116.26.5.129:8088/udp/239.77.0.207:5146
+#EXTINF:-1 tvg-id="1" tvg-name="汕头综合" tvg-logo="https://epg.112114.free.hr/logo/汕头综合.png" group-title="酒店组播",汕头综合
+http://116.26.5.129:8088/udp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="2" tvg-name="汕头综合" tvg-logo="https://epg.112114.free.hr/logo/汕头综合.png" group-title="酒店组播",汕头综合
+http://116.26.5.129:8088/udp/239.253.43.45:5146
+#EXTINF:-1 tvg-id="1" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.free.hr/logo/汕头经济生活.png" group-title="酒店组播",汕头经济生活
+http://116.26.5.129:8088/udp/239.77.1.131:5146
+#EXTINF:-1 tvg-id="2" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.free.hr/logo/汕头经济生活.png" group-title="酒店组播",汕头经济生活
+http://116.26.5.129:8088/udp/239.253.43.46:5146
+#EXTINF:-1 tvg-id="1" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.free.hr/logo/汕头文旅体育.png" group-title="酒店组播",汕头文旅体育
+http://116.26.5.129:8088/udp/239.77.1.132:5146
+#EXTINF:-1 tvg-id="2" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.free.hr/logo/汕头文旅体育.png" group-title="酒店组播",汕头文旅体育
+http://116.26.5.129:8088/udp/239.253.43.47:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山公共" tvg-logo="https://epg.112114.free.hr/logo/佛山公共.png" group-title="酒店组播",佛山公共
+http://116.26.5.129:8088/udp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山南海" tvg-logo="https://epg.112114.free.hr/logo/佛山南海.png" group-title="酒店组播",佛山南海
+http://116.26.5.129:8088/udp/239.253.43.54:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山顺德" tvg-logo="https://epg.112114.free.hr/logo/佛山顺德.png" group-title="酒店组播",佛山顺德
+http://116.26.5.129:8088/udp/239.253.43.55:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山影视" tvg-logo="https://epg.112114.free.hr/logo/佛山影视.png" group-title="酒店组播",佛山影视
+http://116.26.5.129:8088/udp/239.253.43.56:5146
+#EXTINF:-1 tvg-id="1" tvg-name="佛山综合" tvg-logo="https://epg.112114.free.hr/logo/佛山综合.png" group-title="酒店组播",佛山综合
+http://116.26.5.129:8088/udp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="1" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.free.hr/logo/东莞新闻综合.png" group-title="酒店组播",东莞新闻综合
+http://116.26.5.129:8088/udp/239.253.43.104:5146
+#EXTINF:-1 tvg-id="1" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.free.hr/logo/东莞生活资讯.png" group-title="酒店组播",东莞生活资讯
+http://116.26.5.129:8088/udp/239.253.43.105:5146
+#EXTINF:-1 tvg-id="1" tvg-name="中山综合" tvg-logo="https://epg.112114.free.hr/logo/中山综合.png" group-title="酒店组播",中山综合
+http://116.26.5.129:8088/udp/239.253.43.62:5146
+#EXTINF:-1 tvg-id="1" tvg-name="香山文化" tvg-logo="https://epg.112114.free.hr/logo/香山文化.png" group-title="酒店组播",香山文化
+http://116.26.5.129:8088/udp/239.253.43.63:5146
+#EXTINF:-1 tvg-id="1" tvg-name="中山教育" tvg-logo="https://epg.112114.free.hr/logo/中山教育.png" group-title="酒店组播",中山教育
+http://116.26.5.129:8088/udp/239.253.43.64:5146
+#EXTINF:-1 tvg-id="1" tvg-name="徐闻综合" tvg-logo="https://epg.112114.free.hr/logo/徐闻综合.png" group-title="酒店组播",徐闻综合
+http://116.26.5.129:8088/udp/239.253.43.112:5146
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
+http://116.26.5.129:8088/udp/239.77.1.5:5146
+#EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
+http://116.26.5.129:8088/udp/239.77.1.129:5146
+#EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
+http://116.26.5.129:8088/udp/239.77.0.88:5146
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
+http://116.26.5.129:8088/udp/239.77.1.33:5146
+#EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
+http://116.26.5.129:8088/udp/239.77.1.150:5146
+#EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
+http://116.26.5.129:8088/udp/239.77.0.89:5146
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
+http://116.26.5.129:8088/udp/239.77.1.18:5146
+#EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
+http://116.26.5.129:8088/udp/239.77.1.149:5146
+#EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
+http://116.26.5.129:8088/udp/239.77.0.90:5146
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
+http://116.26.5.129:8088/udp/239.77.1.218:5146
+#EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
+http://116.26.5.129:8088/udp/239.77.1.156:5146
+#EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
+http://116.26.5.129:8088/udp/239.77.0.98:5146
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
+http://116.26.5.129:8088/udp/239.77.1.92:5146
+#EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
+http://116.26.5.129:8088/udp/239.77.1.157:5146
+#EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
+http://116.26.5.129:8088/udp/239.77.0.183:5146
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
+http://116.26.5.129:8088/udp/239.77.1.4:5146
+#EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
+http://116.26.5.129:8088/udp/239.77.1.151:5146
+#EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
+http://116.26.5.129:8088/udp/239.77.0.91:5146
+#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
+http://116.26.5.129:8088/udp/239.77.1.141:5146
+#EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
+http://116.26.5.129:8088/udp/239.77.1.182:5146
+#EXTINF:-1 tvg-id="3" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
+http://116.26.5.129:8088/udp/239.77.0.97:5146
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
+http://116.26.5.129:8088/udp/239.77.1.142:5146
+#EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
+http://116.26.5.129:8088/udp/239.77.1.153:5146
+#EXTINF:-1 tvg-id="3" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
+http://116.26.5.129:8088/udp/239.77.0.94:5146
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://epg.112114.free.hr/logo/江西卫视.png" group-title="酒店组播",江西卫视
+http://116.26.5.129:8088/udp/239.77.1.219:5146
+#EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://epg.112114.free.hr/logo/江西卫视.png" group-title="酒店组播",江西卫视
+http://116.26.5.129:8088/udp/239.77.0.149:5146
+#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
+http://116.26.5.129:8088/udp/239.77.1.93:5146
+#EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
+http://116.26.5.129:8088/udp/239.77.1.174:5146
+#EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
+http://116.26.5.129:8088/udp/239.77.0.95:5146
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.free.hr/logo/辽宁卫视.png" group-title="酒店组播",辽宁卫视
+http://116.26.5.129:8088/udp/239.77.1.103:5146
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视 " tvg-logo="https://epg.112114.free.hr/logo/辽宁卫视 .png" group-title="酒店组播",辽宁卫视 
+http://116.26.5.129:8088/udp/239.77.0.123:5146
+#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
+http://116.26.5.129:8088/udp/239.77.1.6:5146
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
+http://116.26.5.129:8088/udp/239.77.1.179:5146
+#EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
+http://116.26.5.129:8088/udp/239.77.0.93:5146
+#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://epg.112114.free.hr/logo/贵州卫视.png" group-title="酒店组播",贵州卫视
+http://116.26.5.129:8088/udp/239.77.1.221:5146
+#EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://epg.112114.free.hr/logo/贵州卫视.png" group-title="酒店组播",贵州卫视
+http://116.26.5.129:8088/udp/239.77.0.230:5146
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://epg.112114.free.hr/logo/四川卫视.png" group-title="酒店组播",四川卫视
+http://116.26.5.129:8088/udp/239.77.1.215:5146
+#EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://epg.112114.free.hr/logo/四川卫视.png" group-title="酒店组播",四川卫视
+http://116.26.5.129:8088/udp/239.77.0.159:5146
+#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://epg.112114.free.hr/logo/河南卫视.png" group-title="酒店组播",河南卫视
+http://116.26.5.129:8088/udp/239.77.1.229:5146
+#EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://epg.112114.free.hr/logo/河南卫视.png" group-title="酒店组播",河南卫视
+http://116.26.5.129:8088/udp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://epg.112114.free.hr/logo/云南卫视.png" group-title="酒店组播",云南卫视
+http://116.26.5.129:8088/udp/239.253.43.37:5146
+#EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://epg.112114.free.hr/logo/云南卫视.png" group-title="酒店组播",云南卫视
+http://116.26.5.129:8088/udp/239.253.43.100:5146
+#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
+http://116.26.5.129:8088/udp/239.77.1.162:5146
+#EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
+http://116.26.5.129:8088/udp/239.77.1.210:5146
+#EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
+http://116.26.5.129:8088/udp/239.77.0.182:5146
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://epg.112114.free.hr/logo/河北卫视.png" group-title="酒店组播",河北卫视
+http://116.26.5.129:8088/udp/239.77.1.214:5146
+#EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://epg.112114.free.hr/logo/河北卫视.png" group-title="酒店组播",河北卫视
+http://116.26.5.129:8088/udp/239.77.0.148:5146
+#EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://epg.112114.free.hr/logo/东南卫视.png" group-title="酒店组播",东南卫视
+http://116.26.5.129:8088/udp/239.77.1.104:5146
+#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
 http://14.145.222.236:8888/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
 http://14.145.222.236:8888/udp/239.77.1.152:5146
@@ -676,678 +1014,340 @@ http://14.145.222.236:8888/udp/239.77.0.148:5146
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://epg.112114.free.hr/logo/东南卫视.png" group-title="酒店组播",东南卫视
 http://14.145.222.236:8888/udp/239.77.1.104:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
-http://218.15.214.115:10000/udp/239.77.1.19:5146
+http://14.19.151.72:9900/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
-http://218.15.214.115:10000/udp/239.77.1.152:5146
+http://14.19.151.72:9900/udp/239.77.1.152:5146
 #EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
-http://218.15.214.115:10000/udp/239.77.0.84:5146
+http://14.19.151.72:9900/udp/239.77.0.84:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.free.hr/logo/广东珠江.png" group-title="酒店组播",广东珠江
-http://218.15.214.115:10000/udp/239.77.0.1:5146
+http://14.19.151.72:9900/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东新闻" tvg-logo="https://epg.112114.free.hr/logo/广东新闻.png" group-title="酒店组播",广东新闻
-http://218.15.214.115:10000/udp/239.77.0.173:5146
+http://14.19.151.72:9900/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东民生" tvg-logo="https://epg.112114.free.hr/logo/广东民生.png" group-title="酒店组播",广东民生
-http://218.15.214.115:10000/udp/239.77.0.225:5146
+http://14.19.151.72:9900/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东体育" tvg-logo="https://epg.112114.free.hr/logo/广东体育.png" group-title="酒店组播",广东体育
-http://218.15.214.115:10000/udp/239.77.0.112:5146
+http://14.19.151.72:9900/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="1" tvg-name="经济科教" tvg-logo="https://epg.112114.free.hr/logo/经济科教.png" group-title="酒店组播",经济科教
-http://218.15.214.115:10000/udp/239.77.0.85:5146
+http://14.19.151.72:9900/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.free.hr/logo/大湾区卫视.png" group-title="酒店组播",大湾区卫视
-http://218.15.214.115:10000/udp/239.77.0.215:5146
+http://14.19.151.72:9900/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东影视" tvg-logo="https://epg.112114.free.hr/logo/广东影视.png" group-title="酒店组播",广东影视
-http://218.15.214.115:10000/udp/239.77.0.217:5146
+http://14.19.151.72:9900/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广东少儿" tvg-logo="https://epg.112114.free.hr/logo/广东少儿.png" group-title="酒店组播",广东少儿
-http://218.15.214.115:10000/udp/239.77.0.250:5146
+http://14.19.151.72:9900/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="1" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.free.hr/logo/嘉佳卡通.png" group-title="酒店组播",嘉佳卡通
-http://218.15.214.115:10000/udp/239.77.0.179:5146
+http://14.19.151.72:9900/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
-http://218.15.214.115:10000/udp/239.77.1.17:5146
+http://14.19.151.72:9900/udp/239.77.1.17:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
-http://218.15.214.115:10000/udp/239.77.1.144:5146
+http://14.19.151.72:9900/udp/239.77.1.144:5146
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
-http://218.15.214.115:10000/udp/239.77.0.86:5146
+http://14.19.151.72:9900/udp/239.77.0.86:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-2" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2.png" group-title="酒店组播",CCTV-2
-http://218.15.214.115:10000/udp/239.77.1.158:5146
+http://14.19.151.72:9900/udp/239.77.1.158:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2.png" group-title="酒店组播",CCTV-2
-http://218.15.214.115:10000/udp/239.253.43.17:5146
+http://14.19.151.72:9900/udp/239.253.43.17:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-2测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2测试.png" group-title="酒店组播",CCTV-2测试
-http://218.15.214.115:10000/udp/239.77.0.137:5146
+http://14.19.151.72:9900/udp/239.77.0.137:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-3" tvg-logo="https://epg.112114.free.hr/logo/CCTV-3.png" group-title="酒店组播",CCTV-3
-http://218.15.214.115:10000/udp/239.77.0.169:5146
+http://14.19.151.72:9900/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
-http://218.15.214.115:10000/udp/239.77.1.163:5146
+http://14.19.151.72:9900/udp/239.77.1.163:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
-http://218.15.214.115:10000/udp/239.77.1.166:5146
+http://14.19.151.72:9900/udp/239.77.1.166:5146
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
-http://218.15.214.115:10000/udp/239.77.0.78:5146
+http://14.19.151.72:9900/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5.png" group-title="酒店组播",CCTV-5
-http://218.15.214.115:10000/udp/239.77.0.170:5146
+http://14.19.151.72:9900/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
-http://218.15.214.115:10000/udp/239.77.0.87:5146
+http://14.19.151.72:9900/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
-http://218.15.214.115:10000/udp/239.77.1.31:5146
+http://14.19.151.72:9900/udp/239.77.1.31:5146
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
-http://218.15.214.115:10000/udp/239.77.1.147:5146
+http://14.19.151.72:9900/udp/239.77.1.147:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-6" tvg-logo="https://epg.112114.free.hr/logo/CCTV-6.png" group-title="酒店组播",CCTV-6
-http://218.15.214.115:10000/udp/239.77.0.171:5146
+http://14.19.151.72:9900/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-7" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7.png" group-title="酒店组播",CCTV-7
-http://218.15.214.115:10000/udp/239.77.1.159:5146
+http://14.19.151.72:9900/udp/239.77.1.159:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-7" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7.png" group-title="酒店组播",CCTV-7
-http://218.15.214.115:10000/udp/239.77.1.167:5146
+http://14.19.151.72:9900/udp/239.77.1.167:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-7测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7测试.png" group-title="酒店组播",CCTV-7测试
-http://218.15.214.115:10000/udp/239.77.0.138:5146
+http://14.19.151.72:9900/udp/239.77.0.138:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-8" tvg-logo="https://epg.112114.free.hr/logo/CCTV-8.png" group-title="酒店组播",CCTV-8
-http://218.15.214.115:10000/udp/239.77.0.172:5146
+http://14.19.151.72:9900/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-9" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9.png" group-title="酒店组播",CCTV-9
-http://218.15.214.115:10000/udp/239.77.1.160:5146
+http://14.19.151.72:9900/udp/239.77.1.160:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-9" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9.png" group-title="酒店组播",CCTV-9
-http://218.15.214.115:10000/udp/239.77.1.168:5146
+http://14.19.151.72:9900/udp/239.77.1.168:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-9测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9测试.png" group-title="酒店组播",CCTV-9测试
-http://218.15.214.115:10000/udp/239.77.0.135:5146
+http://14.19.151.72:9900/udp/239.77.0.135:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-10" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10.png" group-title="酒店组播",CCTV-10
-http://218.15.214.115:10000/udp/239.77.1.113:5146
+http://14.19.151.72:9900/udp/239.77.1.113:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-10" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10.png" group-title="酒店组播",CCTV-10
-http://218.15.214.115:10000/udp/239.77.1.169:5146
+http://14.19.151.72:9900/udp/239.77.1.169:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-10测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10测试.png" group-title="酒店组播",CCTV-10测试
-http://218.15.214.115:10000/udp/239.77.0.134:5146
+http://14.19.151.72:9900/udp/239.77.0.134:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-11" tvg-logo="https://epg.112114.free.hr/logo/CCTV-11.png" group-title="酒店组播",CCTV-11
-http://218.15.214.115:10000/udp/239.77.1.238:5146
+http://14.19.151.72:9900/udp/239.77.1.238:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-12" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12.png" group-title="酒店组播",CCTV-12
-http://218.15.214.115:10000/udp/239.77.1.109:5146
+http://14.19.151.72:9900/udp/239.77.1.109:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-12" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12.png" group-title="酒店组播",CCTV-12
-http://218.15.214.115:10000/udp/239.77.1.170:5146
+http://14.19.151.72:9900/udp/239.77.1.170:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-12测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12测试.png" group-title="酒店组播",CCTV-12测试
-http://218.15.214.115:10000/udp/239.77.0.136:5146
+http://14.19.151.72:9900/udp/239.77.0.136:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-13" tvg-logo="https://epg.112114.free.hr/logo/CCTV-13.png" group-title="酒店组播",CCTV-13
-http://218.15.214.115:10000/udp/239.77.0.188:5146
+http://14.19.151.72:9900/udp/239.77.0.188:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="https://epg.112114.free.hr/logo/CCTV-13.png" group-title="酒店组播",CCTV-13
-http://218.15.214.115:10000/udp/239.253.43.196:5146
+http://14.19.151.72:9900/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-14" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14.png" group-title="酒店组播",CCTV-14
-http://218.15.214.115:10000/udp/239.77.1.161:5146
+http://14.19.151.72:9900/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-14" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14.png" group-title="酒店组播",CCTV-14
-http://218.15.214.115:10000/udp/239.77.1.171:5146
+http://14.19.151.72:9900/udp/239.77.1.171:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-14测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14测试.png" group-title="酒店组播",CCTV-14测试
-http://218.15.214.115:10000/udp/239.77.0.133:5146
+http://14.19.151.72:9900/udp/239.77.0.133:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-15" tvg-logo="https://epg.112114.free.hr/logo/CCTV-15.png" group-title="酒店组播",CCTV-15
-http://218.15.214.115:10000/udp/239.77.1.239:5146
+http://14.19.151.72:9900/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-16" tvg-logo="https://epg.112114.free.hr/logo/CCTV-16.png" group-title="酒店组播",CCTV-16
-http://218.15.214.115:10000/udp/239.77.0.165:5146
+http://14.19.151.72:9900/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-16" tvg-logo="https://epg.112114.free.hr/logo/CCTV-16.png" group-title="酒店组播",CCTV-16
-http://218.15.214.115:10000/udp/239.77.1.76:5146
+http://14.19.151.72:9900/udp/239.77.1.76:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-17" tvg-logo="https://epg.112114.free.hr/logo/CCTV-17.png" group-title="酒店组播",CCTV-17
-http://218.15.214.115:10000/udp/239.77.1.121:5146
+http://14.19.151.72:9900/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN英语" tvg-logo="https://epg.112114.free.hr/logo/CGTN英语.png" group-title="酒店组播",CGTN英语
-http://218.15.214.115:10000/udp/239.77.0.199:5146
+http://14.19.151.72:9900/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.free.hr/logo/CGTN西班牙语.png" group-title="酒店组播",CGTN西班牙语
-http://218.15.214.115:10000/udp/239.77.0.221:5146
+http://14.19.151.72:9900/udp/239.77.0.221:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN法语" tvg-logo="https://epg.112114.free.hr/logo/CGTN法语.png" group-title="酒店组播",CGTN法语
-http://218.15.214.115:10000/udp/239.77.0.228:5146
+http://14.19.151.72:9900/udp/239.77.0.228:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.112114.free.hr/logo/CGTN阿拉伯语.png" group-title="酒店组播",CGTN阿拉伯语
-http://218.15.214.115:10000/udp/239.253.43.200:5146
+http://14.19.151.72:9900/udp/239.253.43.200:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.free.hr/logo/CGTN俄语.png" group-title="酒店组播",CGTN俄语
-http://218.15.214.115:10000/udp/239.253.43.201:5146
+http://14.19.151.72:9900/udp/239.253.43.201:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="https://epg.112114.free.hr/logo/广州综合.png" group-title="酒店组播",广州综合
-http://218.15.214.115:10000/udp/239.253.43.71:5146
+http://14.19.151.72:9900/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广州新闻" tvg-logo="https://epg.112114.free.hr/logo/广州新闻.png" group-title="酒店组播",广州新闻
-http://218.15.214.115:10000/udp/239.253.43.72:5146
+http://14.19.151.72:9900/udp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广州影视" tvg-logo="https://epg.112114.free.hr/logo/广州影视.png" group-title="酒店组播",广州影视
-http://218.15.214.115:10000/udp/239.253.43.73:5146
+http://14.19.151.72:9900/udp/239.253.43.73:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广州法治" tvg-logo="https://epg.112114.free.hr/logo/广州法治.png" group-title="酒店组播",广州法治
-http://218.15.214.115:10000/udp/239.253.43.74:5146
+http://14.19.151.72:9900/udp/239.253.43.74:5146
 #EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://epg.112114.free.hr/logo/广州竞赛.png" group-title="酒店组播",广州竞赛
-http://218.15.214.115:10000/udp/239.253.43.75:5146
+http://14.19.151.72:9900/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
-http://218.15.214.115:10000/udp/239.77.1.3:5146
+http://14.19.151.72:9900/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
-http://218.15.214.115:10000/udp/239.77.1.148:5146
+http://14.19.151.72:9900/udp/239.77.1.148:5146
 #EXTINF:-1 tvg-id="3" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
-http://218.15.214.115:10000/udp/239.77.0.92:5146
+http://14.19.151.72:9900/udp/239.77.0.92:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳都市频道" tvg-logo="https://epg.112114.free.hr/logo/深圳都市频道.png" group-title="酒店组播",深圳都市频道
-http://218.15.214.115:10000/udp/239.77.1.176:5146
+http://14.19.151.72:9900/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-id="2" tvg-name="深圳都市频道" tvg-logo="https://epg.112114.free.hr/logo/深圳都市频道.png" group-title="酒店组播",深圳都市频道
-http://218.15.214.115:10000/udp/239.77.1.124:5146
+http://14.19.151.72:9900/udp/239.77.1.124:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.free.hr/logo/深圳电视剧频道.png" group-title="酒店组播",深圳电视剧频道
-http://218.15.214.115:10000/udp/239.77.1.177:5146
+http://14.19.151.72:9900/udp/239.77.1.177:5146
 #EXTINF:-1 tvg-id="2" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.free.hr/logo/深圳电视剧频道.png" group-title="酒店组播",深圳电视剧频道
-http://218.15.214.115:10000/udp/239.77.1.125:5146
+http://14.19.151.72:9900/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.free.hr/logo/深圳财经生活.png" group-title="酒店组播",深圳财经生活
-http://218.15.214.115:10000/udp/239.77.1.242:5146
+http://14.19.151.72:9900/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳娱乐频道" tvg-logo="https://epg.112114.free.hr/logo/深圳娱乐频道.png" group-title="酒店组播",深圳娱乐频道
-http://218.15.214.115:10000/udp/239.77.1.243:5146
+http://14.19.151.72:9900/udp/239.77.1.243:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.free.hr/logo/深圳体育健康.png" group-title="酒店组播",深圳体育健康
-http://218.15.214.115:10000/udp/239.77.1.128:5146
+http://14.19.151.72:9900/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-id="2" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.free.hr/logo/深圳体育健康.png" group-title="酒店组播",深圳体育健康
-http://218.15.214.115:10000/udp/239.77.1.140:5146
+http://14.19.151.72:9900/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳少儿频道" tvg-logo="https://epg.112114.free.hr/logo/深圳少儿频道.png" group-title="酒店组播",深圳少儿频道
-http://218.15.214.115:10000/udp/239.77.1.244:5146
+http://14.19.151.72:9900/udp/239.77.1.244:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳公共频道" tvg-logo="https://epg.112114.free.hr/logo/深圳公共频道.png" group-title="酒店组播",深圳公共频道
-http://218.15.214.115:10000/udp/239.77.1.178:5146
+http://14.19.151.72:9900/udp/239.77.1.178:5146
 #EXTINF:-1 tvg-id="2" tvg-name="深圳公共频道" tvg-logo="https://epg.112114.free.hr/logo/深圳公共频道.png" group-title="酒店组播",深圳公共频道
-http://218.15.214.115:10000/udp/239.77.1.126:5146
+http://14.19.151.72:9900/udp/239.77.1.126:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳宝安频道" tvg-logo="https://epg.112114.free.hr/logo/深圳宝安频道.png" group-title="酒店组播",深圳宝安频道
-http://218.15.214.115:10000/udp/239.77.1.67:5146
+http://14.19.151.72:9900/udp/239.77.1.67:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳龙岗频道" tvg-logo="https://epg.112114.free.hr/logo/深圳龙岗频道.png" group-title="酒店组播",深圳龙岗频道
-http://218.15.214.115:10000/udp/239.77.1.223:5146
+http://14.19.151.72:9900/udp/239.77.1.223:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳东部频道" tvg-logo="https://epg.112114.free.hr/logo/深圳东部频道.png" group-title="酒店组播",深圳东部频道
-http://218.15.214.115:10000/udp/239.77.1.224:5146
+http://14.19.151.72:9900/udp/239.77.1.224:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.free.hr/logo/深圳众创TV.png" group-title="酒店组播",深圳众创TV
-http://218.15.214.115:10000/udp/239.77.1.247:5146
+http://14.19.151.72:9900/udp/239.77.1.247:5146
 #EXTINF:-1 tvg-id="1" tvg-name="深圳宜和购物" tvg-logo="https://epg.112114.free.hr/logo/深圳宜和购物.png" group-title="酒店组播",深圳宜和购物
-http://218.15.214.115:10000/udp/239.77.1.87:5146
+http://14.19.151.72:9900/udp/239.77.1.87:5146
 #EXTINF:-1 tvg-id="1" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.free.hr/logo/韶关新闻综合.png" group-title="酒店组播",韶关新闻综合
-http://218.15.214.115:10000/udp/239.77.0.117:5146
+http://14.19.151.72:9900/udp/239.77.0.117:5146
 #EXTINF:-1 tvg-id="1" tvg-name="韶关绿色生活" tvg-logo="https://epg.112114.free.hr/logo/韶关绿色生活.png" group-title="酒店组播",韶关绿色生活
-http://218.15.214.115:10000/udp/239.77.0.119:5146
+http://14.19.151.72:9900/udp/239.77.0.119:5146
 #EXTINF:-1 tvg-id="1" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.free.hr/logo/湛江新闻综合.png" group-title="酒店组播",湛江新闻综合
-http://218.15.214.115:10000/udp/239.77.0.141:5146
+http://14.19.151.72:9900/udp/239.77.0.141:5146
 #EXTINF:-1 tvg-id="1" tvg-name="湛江公共" tvg-logo="https://epg.112114.free.hr/logo/湛江公共.png" group-title="酒店组播",湛江公共
-http://218.15.214.115:10000/udp/239.77.0.140:5146
+http://14.19.151.72:9900/udp/239.77.0.140:5146
 #EXTINF:-1 tvg-id="1" tvg-name="揭阳综合" tvg-logo="https://epg.112114.free.hr/logo/揭阳综合.png" group-title="酒店组播",揭阳综合
-http://218.15.214.115:10000/udp/239.77.0.229:5146
+http://14.19.151.72:9900/udp/239.77.0.229:5146
 #EXTINF:-1 tvg-id="1" tvg-name="揭阳生活" tvg-logo="https://epg.112114.free.hr/logo/揭阳生活.png" group-title="酒店组播",揭阳生活
-http://218.15.214.115:10000/udp/239.77.0.251:5146
+http://14.19.151.72:9900/udp/239.77.0.251:5146
 #EXTINF:-1 tvg-id="1" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.free.hr/logo/汕尾新闻综合.png" group-title="酒店组播",汕尾新闻综合
-http://218.15.214.115:10000/udp/239.77.0.25:5146
+http://14.19.151.72:9900/udp/239.77.0.25:5146
 #EXTINF:-1 tvg-id="1" tvg-name="汕尾文化生活" tvg-logo="https://epg.112114.free.hr/logo/汕尾文化生活.png" group-title="酒店组播",汕尾文化生活
-http://218.15.214.115:10000/udp/239.77.0.187:5146
+http://14.19.151.72:9900/udp/239.77.0.187:5146
 #EXTINF:-1 tvg-id="1" tvg-name="江门综合" tvg-logo="https://epg.112114.free.hr/logo/江门综合.png" group-title="酒店组播",江门综合
-http://218.15.214.115:10000/udp/239.77.0.201:5146
+http://14.19.151.72:9900/udp/239.77.0.201:5146
 #EXTINF:-1 tvg-id="1" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.free.hr/logo/江门侨乡生活.png" group-title="酒店组播",江门侨乡生活
-http://218.15.214.115:10000/udp/239.77.0.202:5146
+http://14.19.151.72:9900/udp/239.77.0.202:5146
 #EXTINF:-1 tvg-id="1" tvg-name="江门教育" tvg-logo="https://epg.112114.free.hr/logo/江门教育.png" group-title="酒店组播",江门教育
-http://218.15.214.115:10000/udp/239.77.0.203:5146
+http://14.19.151.72:9900/udp/239.77.0.203:5146
 #EXTINF:-1 tvg-id="1" tvg-name="HZTV-1" tvg-logo="https://epg.112114.free.hr/logo/HZTV-1.png" group-title="酒店组播",HZTV-1
-http://218.15.214.115:10000/udp/239.77.1.232:5146
+http://14.19.151.72:9900/udp/239.77.1.232:5146
 #EXTINF:-1 tvg-id="1" tvg-name="HZTV-2" tvg-logo="https://epg.112114.free.hr/logo/HZTV-2.png" group-title="酒店组播",HZTV-2
-http://218.15.214.115:10000/udp/239.77.1.233:5146
+http://14.19.151.72:9900/udp/239.77.1.233:5146
 #EXTINF:-1 tvg-id="1" tvg-name="珠海-1" tvg-logo="https://epg.112114.free.hr/logo/珠海-1.png" group-title="酒店组播",珠海-1
-http://218.15.214.115:10000/udp/239.77.0.155:5146
+http://14.19.151.72:9900/udp/239.77.0.155:5146
 #EXTINF:-1 tvg-id="1" tvg-name="珠海-2" tvg-logo="https://epg.112114.free.hr/logo/珠海-2.png" group-title="酒店组播",珠海-2
-http://218.15.214.115:10000/udp/239.77.0.154:5146
+http://14.19.151.72:9900/udp/239.77.0.154:5146
 #EXTINF:-1 tvg-id="1" tvg-name="肇庆综合" tvg-logo="https://epg.112114.free.hr/logo/肇庆综合.png" group-title="酒店组播",肇庆综合
-http://218.15.214.115:10000/udp/239.253.43.1:5146
+http://14.19.151.72:9900/udp/239.253.43.1:5146
 #EXTINF:-1 tvg-id="1" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.free.hr/logo/肇庆生活服务.png" group-title="酒店组播",肇庆生活服务
-http://218.15.214.115:10000/udp/239.253.43.2:5146
+http://14.19.151.72:9900/udp/239.253.43.2:5146
 #EXTINF:-1 tvg-id="1" tvg-name="河源综合" tvg-logo="https://epg.112114.free.hr/logo/河源综合.png" group-title="酒店组播",河源综合
-http://218.15.214.115:10000/udp/239.253.43.213:5146
+http://14.19.151.72:9900/udp/239.253.43.213:5146
 #EXTINF:-1 tvg-id="1" tvg-name="河源公共" tvg-logo="https://epg.112114.free.hr/logo/河源公共.png" group-title="酒店组播",河源公共
-http://218.15.214.115:10000/udp/239.253.43.214:5146
+http://14.19.151.72:9900/udp/239.253.43.214:5146
 #EXTINF:-1 tvg-id="1" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.free.hr/logo/清远新闻综合.png" group-title="酒店组播",清远新闻综合
-http://218.15.214.115:10000/udp/239.253.43.33:5146
+http://14.19.151.72:9900/udp/239.253.43.33:5146
 #EXTINF:-1 tvg-id="1" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.free.hr/logo/清远文旅生活.png" group-title="酒店组播",清远文旅生活
-http://218.15.214.115:10000/udp/239.253.43.34:5146
+http://14.19.151.72:9900/udp/239.253.43.34:5146
 #EXTINF:-1 tvg-id="1" tvg-name="云浮综合" tvg-logo="https://epg.112114.free.hr/logo/云浮综合.png" group-title="酒店组播",云浮综合
-http://218.15.214.115:10000/udp/239.77.0.253:5146
+http://14.19.151.72:9900/udp/239.77.0.253:5146
 #EXTINF:-1 tvg-id="1" tvg-name="云浮文旅" tvg-logo="https://epg.112114.free.hr/logo/云浮文旅.png" group-title="酒店组播",云浮文旅
-http://218.15.214.115:10000/udp/239.77.0.254:5146
+http://14.19.151.72:9900/udp/239.77.0.254:5146
 #EXTINF:-1 tvg-id="1" tvg-name="茂名综合" tvg-logo="https://epg.112114.free.hr/logo/茂名综合.png" group-title="酒店组播",茂名综合
-http://218.15.214.115:10000/udp/239.77.0.206:5146
+http://14.19.151.72:9900/udp/239.77.0.206:5146
 #EXTINF:-1 tvg-id="1" tvg-name="茂名公共" tvg-logo="https://epg.112114.free.hr/logo/茂名公共.png" group-title="酒店组播",茂名公共
-http://218.15.214.115:10000/udp/239.77.0.207:5146
+http://14.19.151.72:9900/udp/239.77.0.207:5146
 #EXTINF:-1 tvg-id="1" tvg-name="汕头综合" tvg-logo="https://epg.112114.free.hr/logo/汕头综合.png" group-title="酒店组播",汕头综合
-http://218.15.214.115:10000/udp/239.77.1.130:5146
+http://14.19.151.72:9900/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-id="2" tvg-name="汕头综合" tvg-logo="https://epg.112114.free.hr/logo/汕头综合.png" group-title="酒店组播",汕头综合
-http://218.15.214.115:10000/udp/239.253.43.45:5146
+http://14.19.151.72:9900/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-id="1" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.free.hr/logo/汕头经济生活.png" group-title="酒店组播",汕头经济生活
-http://218.15.214.115:10000/udp/239.77.1.131:5146
+http://14.19.151.72:9900/udp/239.77.1.131:5146
 #EXTINF:-1 tvg-id="2" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.free.hr/logo/汕头经济生活.png" group-title="酒店组播",汕头经济生活
-http://218.15.214.115:10000/udp/239.253.43.46:5146
+http://14.19.151.72:9900/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-id="1" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.free.hr/logo/汕头文旅体育.png" group-title="酒店组播",汕头文旅体育
-http://218.15.214.115:10000/udp/239.77.1.132:5146
+http://14.19.151.72:9900/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-id="2" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.free.hr/logo/汕头文旅体育.png" group-title="酒店组播",汕头文旅体育
-http://218.15.214.115:10000/udp/239.253.43.47:5146
+http://14.19.151.72:9900/udp/239.253.43.47:5146
 #EXTINF:-1 tvg-id="1" tvg-name="佛山公共" tvg-logo="https://epg.112114.free.hr/logo/佛山公共.png" group-title="酒店组播",佛山公共
-http://218.15.214.115:10000/udp/239.253.43.53:5146
+http://14.19.151.72:9900/udp/239.253.43.53:5146
 #EXTINF:-1 tvg-id="1" tvg-name="佛山南海" tvg-logo="https://epg.112114.free.hr/logo/佛山南海.png" group-title="酒店组播",佛山南海
-http://218.15.214.115:10000/udp/239.253.43.54:5146
+http://14.19.151.72:9900/udp/239.253.43.54:5146
 #EXTINF:-1 tvg-id="1" tvg-name="佛山顺德" tvg-logo="https://epg.112114.free.hr/logo/佛山顺德.png" group-title="酒店组播",佛山顺德
-http://218.15.214.115:10000/udp/239.253.43.55:5146
+http://14.19.151.72:9900/udp/239.253.43.55:5146
 #EXTINF:-1 tvg-id="1" tvg-name="佛山影视" tvg-logo="https://epg.112114.free.hr/logo/佛山影视.png" group-title="酒店组播",佛山影视
-http://218.15.214.115:10000/udp/239.253.43.56:5146
+http://14.19.151.72:9900/udp/239.253.43.56:5146
 #EXTINF:-1 tvg-id="1" tvg-name="佛山综合" tvg-logo="https://epg.112114.free.hr/logo/佛山综合.png" group-title="酒店组播",佛山综合
-http://218.15.214.115:10000/udp/239.253.43.57:5146
+http://14.19.151.72:9900/udp/239.253.43.57:5146
 #EXTINF:-1 tvg-id="1" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.free.hr/logo/东莞新闻综合.png" group-title="酒店组播",东莞新闻综合
-http://218.15.214.115:10000/udp/239.253.43.104:5146
+http://14.19.151.72:9900/udp/239.253.43.104:5146
 #EXTINF:-1 tvg-id="1" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.free.hr/logo/东莞生活资讯.png" group-title="酒店组播",东莞生活资讯
-http://218.15.214.115:10000/udp/239.253.43.105:5146
+http://14.19.151.72:9900/udp/239.253.43.105:5146
 #EXTINF:-1 tvg-id="1" tvg-name="中山综合" tvg-logo="https://epg.112114.free.hr/logo/中山综合.png" group-title="酒店组播",中山综合
-http://218.15.214.115:10000/udp/239.253.43.62:5146
+http://14.19.151.72:9900/udp/239.253.43.62:5146
 #EXTINF:-1 tvg-id="1" tvg-name="香山文化" tvg-logo="https://epg.112114.free.hr/logo/香山文化.png" group-title="酒店组播",香山文化
-http://218.15.214.115:10000/udp/239.253.43.63:5146
+http://14.19.151.72:9900/udp/239.253.43.63:5146
 #EXTINF:-1 tvg-id="1" tvg-name="中山教育" tvg-logo="https://epg.112114.free.hr/logo/中山教育.png" group-title="酒店组播",中山教育
-http://218.15.214.115:10000/udp/239.253.43.64:5146
+http://14.19.151.72:9900/udp/239.253.43.64:5146
 #EXTINF:-1 tvg-id="1" tvg-name="徐闻综合" tvg-logo="https://epg.112114.free.hr/logo/徐闻综合.png" group-title="酒店组播",徐闻综合
-http://218.15.214.115:10000/udp/239.253.43.112:5146
+http://14.19.151.72:9900/udp/239.253.43.112:5146
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
-http://218.15.214.115:10000/udp/239.77.1.5:5146
+http://14.19.151.72:9900/udp/239.77.1.5:5146
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
-http://218.15.214.115:10000/udp/239.77.1.129:5146
+http://14.19.151.72:9900/udp/239.77.1.129:5146
 #EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
-http://218.15.214.115:10000/udp/239.77.0.88:5146
+http://14.19.151.72:9900/udp/239.77.0.88:5146
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
-http://218.15.214.115:10000/udp/239.77.1.33:5146
+http://14.19.151.72:9900/udp/239.77.1.33:5146
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
-http://218.15.214.115:10000/udp/239.77.1.150:5146
+http://14.19.151.72:9900/udp/239.77.1.150:5146
 #EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
-http://218.15.214.115:10000/udp/239.77.0.89:5146
+http://14.19.151.72:9900/udp/239.77.0.89:5146
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
-http://218.15.214.115:10000/udp/239.77.1.18:5146
+http://14.19.151.72:9900/udp/239.77.1.18:5146
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
-http://218.15.214.115:10000/udp/239.77.1.149:5146
+http://14.19.151.72:9900/udp/239.77.1.149:5146
 #EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
-http://218.15.214.115:10000/udp/239.77.0.90:5146
+http://14.19.151.72:9900/udp/239.77.0.90:5146
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
-http://218.15.214.115:10000/udp/239.77.1.218:5146
+http://14.19.151.72:9900/udp/239.77.1.218:5146
 #EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
-http://218.15.214.115:10000/udp/239.77.1.156:5146
+http://14.19.151.72:9900/udp/239.77.1.156:5146
 #EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
-http://218.15.214.115:10000/udp/239.77.0.98:5146
+http://14.19.151.72:9900/udp/239.77.0.98:5146
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
-http://218.15.214.115:10000/udp/239.77.1.92:5146
+http://14.19.151.72:9900/udp/239.77.1.92:5146
 #EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
-http://218.15.214.115:10000/udp/239.77.1.157:5146
+http://14.19.151.72:9900/udp/239.77.1.157:5146
 #EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
-http://218.15.214.115:10000/udp/239.77.0.183:5146
+http://14.19.151.72:9900/udp/239.77.0.183:5146
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
-http://218.15.214.115:10000/udp/239.77.1.4:5146
+http://14.19.151.72:9900/udp/239.77.1.4:5146
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
-http://218.15.214.115:10000/udp/239.77.1.151:5146
+http://14.19.151.72:9900/udp/239.77.1.151:5146
 #EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
-http://218.15.214.115:10000/udp/239.77.0.91:5146
+http://14.19.151.72:9900/udp/239.77.0.91:5146
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
-http://218.15.214.115:10000/udp/239.77.1.141:5146
+http://14.19.151.72:9900/udp/239.77.1.141:5146
 #EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
-http://218.15.214.115:10000/udp/239.77.1.182:5146
+http://14.19.151.72:9900/udp/239.77.1.182:5146
 #EXTINF:-1 tvg-id="3" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
-http://218.15.214.115:10000/udp/239.77.0.97:5146
+http://14.19.151.72:9900/udp/239.77.0.97:5146
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
-http://218.15.214.115:10000/udp/239.77.1.142:5146
+http://14.19.151.72:9900/udp/239.77.1.142:5146
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
-http://218.15.214.115:10000/udp/239.77.1.153:5146
+http://14.19.151.72:9900/udp/239.77.1.153:5146
 #EXTINF:-1 tvg-id="3" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
-http://218.15.214.115:10000/udp/239.77.0.94:5146
+http://14.19.151.72:9900/udp/239.77.0.94:5146
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://epg.112114.free.hr/logo/江西卫视.png" group-title="酒店组播",江西卫视
-http://218.15.214.115:10000/udp/239.77.1.219:5146
+http://14.19.151.72:9900/udp/239.77.1.219:5146
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://epg.112114.free.hr/logo/江西卫视.png" group-title="酒店组播",江西卫视
-http://218.15.214.115:10000/udp/239.77.0.149:5146
+http://14.19.151.72:9900/udp/239.77.0.149:5146
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
-http://218.15.214.115:10000/udp/239.77.1.93:5146
+http://14.19.151.72:9900/udp/239.77.1.93:5146
 #EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
-http://218.15.214.115:10000/udp/239.77.1.174:5146
+http://14.19.151.72:9900/udp/239.77.1.174:5146
 #EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
-http://218.15.214.115:10000/udp/239.77.0.95:5146
+http://14.19.151.72:9900/udp/239.77.0.95:5146
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.free.hr/logo/辽宁卫视.png" group-title="酒店组播",辽宁卫视
-http://218.15.214.115:10000/udp/239.77.1.103:5146
+http://14.19.151.72:9900/udp/239.77.1.103:5146
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视 " tvg-logo="https://epg.112114.free.hr/logo/辽宁卫视 .png" group-title="酒店组播",辽宁卫视 
-http://218.15.214.115:10000/udp/239.77.0.123:5146
+http://14.19.151.72:9900/udp/239.77.0.123:5146
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
-http://218.15.214.115:10000/udp/239.77.1.6:5146
+http://14.19.151.72:9900/udp/239.77.1.6:5146
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
-http://218.15.214.115:10000/udp/239.77.1.179:5146
+http://14.19.151.72:9900/udp/239.77.1.179:5146
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
-http://218.15.214.115:10000/udp/239.77.0.93:5146
+http://14.19.151.72:9900/udp/239.77.0.93:5146
 #EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://epg.112114.free.hr/logo/贵州卫视.png" group-title="酒店组播",贵州卫视
-http://218.15.214.115:10000/udp/239.77.1.221:5146
+http://14.19.151.72:9900/udp/239.77.1.221:5146
 #EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://epg.112114.free.hr/logo/贵州卫视.png" group-title="酒店组播",贵州卫视
-http://218.15.214.115:10000/udp/239.77.0.230:5146
+http://14.19.151.72:9900/udp/239.77.0.230:5146
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://epg.112114.free.hr/logo/四川卫视.png" group-title="酒店组播",四川卫视
-http://218.15.214.115:10000/udp/239.77.1.215:5146
+http://14.19.151.72:9900/udp/239.77.1.215:5146
 #EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://epg.112114.free.hr/logo/四川卫视.png" group-title="酒店组播",四川卫视
-http://218.15.214.115:10000/udp/239.77.0.159:5146
+http://14.19.151.72:9900/udp/239.77.0.159:5146
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://epg.112114.free.hr/logo/河南卫视.png" group-title="酒店组播",河南卫视
-http://218.15.214.115:10000/udp/239.77.1.229:5146
+http://14.19.151.72:9900/udp/239.77.1.229:5146
 #EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://epg.112114.free.hr/logo/河南卫视.png" group-title="酒店组播",河南卫视
-http://218.15.214.115:10000/udp/239.77.0.17:5146
+http://14.19.151.72:9900/udp/239.77.0.17:5146
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://epg.112114.free.hr/logo/云南卫视.png" group-title="酒店组播",云南卫视
-http://218.15.214.115:10000/udp/239.253.43.37:5146
+http://14.19.151.72:9900/udp/239.253.43.37:5146
 #EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://epg.112114.free.hr/logo/云南卫视.png" group-title="酒店组播",云南卫视
-http://218.15.214.115:10000/udp/239.253.43.100:5146
+http://14.19.151.72:9900/udp/239.253.43.100:5146
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
-http://218.15.214.115:10000/udp/239.77.1.162:5146
+http://14.19.151.72:9900/udp/239.77.1.162:5146
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
-http://218.15.214.115:10000/udp/239.77.1.210:5146
+http://14.19.151.72:9900/udp/239.77.1.210:5146
 #EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
-http://218.15.214.115:10000/udp/239.77.0.182:5146
+http://14.19.151.72:9900/udp/239.77.0.182:5146
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://epg.112114.free.hr/logo/河北卫视.png" group-title="酒店组播",河北卫视
-http://218.15.214.115:10000/udp/239.77.1.214:5146
+http://14.19.151.72:9900/udp/239.77.1.214:5146
 #EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://epg.112114.free.hr/logo/河北卫视.png" group-title="酒店组播",河北卫视
-http://218.15.214.115:10000/udp/239.77.0.148:5146
+http://14.19.151.72:9900/udp/239.77.0.148:5146
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://epg.112114.free.hr/logo/东南卫视.png" group-title="酒店组播",东南卫视
-http://218.15.214.115:10000/udp/239.77.1.104:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
-http://113.83.248.110:4200/udp/239.77.1.19:5146
-#EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
-http://113.83.248.110:4200/udp/239.77.1.152:5146
-#EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="https://epg.112114.free.hr/logo/广东卫视.png" group-title="酒店组播",广东卫视
-http://113.83.248.110:4200/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.free.hr/logo/广东珠江.png" group-title="酒店组播",广东珠江
-http://113.83.248.110:4200/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广东新闻" tvg-logo="https://epg.112114.free.hr/logo/广东新闻.png" group-title="酒店组播",广东新闻
-http://113.83.248.110:4200/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广东民生" tvg-logo="https://epg.112114.free.hr/logo/广东民生.png" group-title="酒店组播",广东民生
-http://113.83.248.110:4200/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广东体育" tvg-logo="https://epg.112114.free.hr/logo/广东体育.png" group-title="酒店组播",广东体育
-http://113.83.248.110:4200/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-id="1" tvg-name="经济科教" tvg-logo="https://epg.112114.free.hr/logo/经济科教.png" group-title="酒店组播",经济科教
-http://113.83.248.110:4200/udp/239.77.0.85:5146
-#EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.free.hr/logo/大湾区卫视.png" group-title="酒店组播",大湾区卫视
-http://113.83.248.110:4200/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广东影视" tvg-logo="https://epg.112114.free.hr/logo/广东影视.png" group-title="酒店组播",广东影视
-http://113.83.248.110:4200/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广东少儿" tvg-logo="https://epg.112114.free.hr/logo/广东少儿.png" group-title="酒店组播",广东少儿
-http://113.83.248.110:4200/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="1" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.free.hr/logo/嘉佳卡通.png" group-title="酒店组播",嘉佳卡通
-http://113.83.248.110:4200/udp/239.77.0.179:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
-http://113.83.248.110:4200/udp/239.77.1.17:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
-http://113.83.248.110:4200/udp/239.77.1.144:5146
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-1" tvg-logo="https://epg.112114.free.hr/logo/CCTV-1.png" group-title="酒店组播",CCTV-1
-http://113.83.248.110:4200/udp/239.77.0.86:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-2" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2.png" group-title="酒店组播",CCTV-2
-http://113.83.248.110:4200/udp/239.77.1.158:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2.png" group-title="酒店组播",CCTV-2
-http://113.83.248.110:4200/udp/239.253.43.17:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-2测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-2测试.png" group-title="酒店组播",CCTV-2测试
-http://113.83.248.110:4200/udp/239.77.0.137:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-3" tvg-logo="https://epg.112114.free.hr/logo/CCTV-3.png" group-title="酒店组播",CCTV-3
-http://113.83.248.110:4200/udp/239.77.0.169:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
-http://113.83.248.110:4200/udp/239.77.1.163:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
-http://113.83.248.110:4200/udp/239.77.1.166:5146
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-4" tvg-logo="https://epg.112114.free.hr/logo/CCTV-4.png" group-title="酒店组播",CCTV-4
-http://113.83.248.110:4200/udp/239.77.0.78:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5.png" group-title="酒店组播",CCTV-5
-http://113.83.248.110:4200/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
-http://113.83.248.110:4200/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
-http://113.83.248.110:4200/udp/239.77.1.31:5146
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.free.hr/logo/CCTV-5+.png" group-title="酒店组播",CCTV-5+
-http://113.83.248.110:4200/udp/239.77.1.147:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-6" tvg-logo="https://epg.112114.free.hr/logo/CCTV-6.png" group-title="酒店组播",CCTV-6
-http://113.83.248.110:4200/udp/239.77.0.171:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-7" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7.png" group-title="酒店组播",CCTV-7
-http://113.83.248.110:4200/udp/239.77.1.159:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-7" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7.png" group-title="酒店组播",CCTV-7
-http://113.83.248.110:4200/udp/239.77.1.167:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-7测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-7测试.png" group-title="酒店组播",CCTV-7测试
-http://113.83.248.110:4200/udp/239.77.0.138:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-8" tvg-logo="https://epg.112114.free.hr/logo/CCTV-8.png" group-title="酒店组播",CCTV-8
-http://113.83.248.110:4200/udp/239.77.0.172:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-9" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9.png" group-title="酒店组播",CCTV-9
-http://113.83.248.110:4200/udp/239.77.1.160:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-9" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9.png" group-title="酒店组播",CCTV-9
-http://113.83.248.110:4200/udp/239.77.1.168:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-9测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-9测试.png" group-title="酒店组播",CCTV-9测试
-http://113.83.248.110:4200/udp/239.77.0.135:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-10" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10.png" group-title="酒店组播",CCTV-10
-http://113.83.248.110:4200/udp/239.77.1.113:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-10" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10.png" group-title="酒店组播",CCTV-10
-http://113.83.248.110:4200/udp/239.77.1.169:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-10测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-10测试.png" group-title="酒店组播",CCTV-10测试
-http://113.83.248.110:4200/udp/239.77.0.134:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-11" tvg-logo="https://epg.112114.free.hr/logo/CCTV-11.png" group-title="酒店组播",CCTV-11
-http://113.83.248.110:4200/udp/239.77.1.238:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-12" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12.png" group-title="酒店组播",CCTV-12
-http://113.83.248.110:4200/udp/239.77.1.109:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-12" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12.png" group-title="酒店组播",CCTV-12
-http://113.83.248.110:4200/udp/239.77.1.170:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-12测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-12测试.png" group-title="酒店组播",CCTV-12测试
-http://113.83.248.110:4200/udp/239.77.0.136:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-13" tvg-logo="https://epg.112114.free.hr/logo/CCTV-13.png" group-title="酒店组播",CCTV-13
-http://113.83.248.110:4200/udp/239.77.0.188:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="https://epg.112114.free.hr/logo/CCTV-13.png" group-title="酒店组播",CCTV-13
-http://113.83.248.110:4200/udp/239.253.43.196:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-14" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14.png" group-title="酒店组播",CCTV-14
-http://113.83.248.110:4200/udp/239.77.1.161:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-14" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14.png" group-title="酒店组播",CCTV-14
-http://113.83.248.110:4200/udp/239.77.1.171:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-14测试" tvg-logo="https://epg.112114.free.hr/logo/CCTV-14测试.png" group-title="酒店组播",CCTV-14测试
-http://113.83.248.110:4200/udp/239.77.0.133:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-15" tvg-logo="https://epg.112114.free.hr/logo/CCTV-15.png" group-title="酒店组播",CCTV-15
-http://113.83.248.110:4200/udp/239.77.1.239:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-16" tvg-logo="https://epg.112114.free.hr/logo/CCTV-16.png" group-title="酒店组播",CCTV-16
-http://113.83.248.110:4200/udp/239.77.0.165:5146
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-16" tvg-logo="https://epg.112114.free.hr/logo/CCTV-16.png" group-title="酒店组播",CCTV-16
-http://113.83.248.110:4200/udp/239.77.1.76:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-17" tvg-logo="https://epg.112114.free.hr/logo/CCTV-17.png" group-title="酒店组播",CCTV-17
-http://113.83.248.110:4200/udp/239.77.1.121:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CGTN英语" tvg-logo="https://epg.112114.free.hr/logo/CGTN英语.png" group-title="酒店组播",CGTN英语
-http://113.83.248.110:4200/udp/239.77.0.199:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.free.hr/logo/CGTN西班牙语.png" group-title="酒店组播",CGTN西班牙语
-http://113.83.248.110:4200/udp/239.77.0.221:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CGTN法语" tvg-logo="https://epg.112114.free.hr/logo/CGTN法语.png" group-title="酒店组播",CGTN法语
-http://113.83.248.110:4200/udp/239.77.0.228:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.112114.free.hr/logo/CGTN阿拉伯语.png" group-title="酒店组播",CGTN阿拉伯语
-http://113.83.248.110:4200/udp/239.253.43.200:5146
-#EXTINF:-1 tvg-id="1" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.free.hr/logo/CGTN俄语.png" group-title="酒店组播",CGTN俄语
-http://113.83.248.110:4200/udp/239.253.43.201:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="https://epg.112114.free.hr/logo/广州综合.png" group-title="酒店组播",广州综合
-http://113.83.248.110:4200/udp/239.253.43.71:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广州新闻" tvg-logo="https://epg.112114.free.hr/logo/广州新闻.png" group-title="酒店组播",广州新闻
-http://113.83.248.110:4200/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广州影视" tvg-logo="https://epg.112114.free.hr/logo/广州影视.png" group-title="酒店组播",广州影视
-http://113.83.248.110:4200/udp/239.253.43.73:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广州法治" tvg-logo="https://epg.112114.free.hr/logo/广州法治.png" group-title="酒店组播",广州法治
-http://113.83.248.110:4200/udp/239.253.43.74:5146
-#EXTINF:-1 tvg-id="1" tvg-name="广州竞赛" tvg-logo="https://epg.112114.free.hr/logo/广州竞赛.png" group-title="酒店组播",广州竞赛
-http://113.83.248.110:4200/udp/239.253.43.75:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
-http://113.83.248.110:4200/udp/239.77.1.3:5146
-#EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
-http://113.83.248.110:4200/udp/239.77.1.148:5146
-#EXTINF:-1 tvg-id="3" tvg-name="深圳卫视" tvg-logo="https://epg.112114.free.hr/logo/深圳卫视.png" group-title="酒店组播",深圳卫视
-http://113.83.248.110:4200/udp/239.77.0.92:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳都市频道" tvg-logo="https://epg.112114.free.hr/logo/深圳都市频道.png" group-title="酒店组播",深圳都市频道
-http://113.83.248.110:4200/udp/239.77.1.176:5146
-#EXTINF:-1 tvg-id="2" tvg-name="深圳都市频道" tvg-logo="https://epg.112114.free.hr/logo/深圳都市频道.png" group-title="酒店组播",深圳都市频道
-http://113.83.248.110:4200/udp/239.77.1.124:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.free.hr/logo/深圳电视剧频道.png" group-title="酒店组播",深圳电视剧频道
-http://113.83.248.110:4200/udp/239.77.1.177:5146
-#EXTINF:-1 tvg-id="2" tvg-name="深圳电视剧频道" tvg-logo="https://epg.112114.free.hr/logo/深圳电视剧频道.png" group-title="酒店组播",深圳电视剧频道
-http://113.83.248.110:4200/udp/239.77.1.125:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.free.hr/logo/深圳财经生活.png" group-title="酒店组播",深圳财经生活
-http://113.83.248.110:4200/udp/239.77.1.242:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳娱乐频道" tvg-logo="https://epg.112114.free.hr/logo/深圳娱乐频道.png" group-title="酒店组播",深圳娱乐频道
-http://113.83.248.110:4200/udp/239.77.1.243:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.free.hr/logo/深圳体育健康.png" group-title="酒店组播",深圳体育健康
-http://113.83.248.110:4200/udp/239.77.1.128:5146
-#EXTINF:-1 tvg-id="2" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.free.hr/logo/深圳体育健康.png" group-title="酒店组播",深圳体育健康
-http://113.83.248.110:4200/udp/239.77.1.140:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳少儿频道" tvg-logo="https://epg.112114.free.hr/logo/深圳少儿频道.png" group-title="酒店组播",深圳少儿频道
-http://113.83.248.110:4200/udp/239.77.1.244:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳公共频道" tvg-logo="https://epg.112114.free.hr/logo/深圳公共频道.png" group-title="酒店组播",深圳公共频道
-http://113.83.248.110:4200/udp/239.77.1.178:5146
-#EXTINF:-1 tvg-id="2" tvg-name="深圳公共频道" tvg-logo="https://epg.112114.free.hr/logo/深圳公共频道.png" group-title="酒店组播",深圳公共频道
-http://113.83.248.110:4200/udp/239.77.1.126:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳宝安频道" tvg-logo="https://epg.112114.free.hr/logo/深圳宝安频道.png" group-title="酒店组播",深圳宝安频道
-http://113.83.248.110:4200/udp/239.77.1.67:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳龙岗频道" tvg-logo="https://epg.112114.free.hr/logo/深圳龙岗频道.png" group-title="酒店组播",深圳龙岗频道
-http://113.83.248.110:4200/udp/239.77.1.223:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳东部频道" tvg-logo="https://epg.112114.free.hr/logo/深圳东部频道.png" group-title="酒店组播",深圳东部频道
-http://113.83.248.110:4200/udp/239.77.1.224:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.free.hr/logo/深圳众创TV.png" group-title="酒店组播",深圳众创TV
-http://113.83.248.110:4200/udp/239.77.1.247:5146
-#EXTINF:-1 tvg-id="1" tvg-name="深圳宜和购物" tvg-logo="https://epg.112114.free.hr/logo/深圳宜和购物.png" group-title="酒店组播",深圳宜和购物
-http://113.83.248.110:4200/udp/239.77.1.87:5146
-#EXTINF:-1 tvg-id="1" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.free.hr/logo/韶关新闻综合.png" group-title="酒店组播",韶关新闻综合
-http://113.83.248.110:4200/udp/239.77.0.117:5146
-#EXTINF:-1 tvg-id="1" tvg-name="韶关绿色生活" tvg-logo="https://epg.112114.free.hr/logo/韶关绿色生活.png" group-title="酒店组播",韶关绿色生活
-http://113.83.248.110:4200/udp/239.77.0.119:5146
-#EXTINF:-1 tvg-id="1" tvg-name="湛江新闻综合" tvg-logo="https://epg.112114.free.hr/logo/湛江新闻综合.png" group-title="酒店组播",湛江新闻综合
-http://113.83.248.110:4200/udp/239.77.0.141:5146
-#EXTINF:-1 tvg-id="1" tvg-name="湛江公共" tvg-logo="https://epg.112114.free.hr/logo/湛江公共.png" group-title="酒店组播",湛江公共
-http://113.83.248.110:4200/udp/239.77.0.140:5146
-#EXTINF:-1 tvg-id="1" tvg-name="揭阳综合" tvg-logo="https://epg.112114.free.hr/logo/揭阳综合.png" group-title="酒店组播",揭阳综合
-http://113.83.248.110:4200/udp/239.77.0.229:5146
-#EXTINF:-1 tvg-id="1" tvg-name="揭阳生活" tvg-logo="https://epg.112114.free.hr/logo/揭阳生活.png" group-title="酒店组播",揭阳生活
-http://113.83.248.110:4200/udp/239.77.0.251:5146
-#EXTINF:-1 tvg-id="1" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.free.hr/logo/汕尾新闻综合.png" group-title="酒店组播",汕尾新闻综合
-http://113.83.248.110:4200/udp/239.77.0.25:5146
-#EXTINF:-1 tvg-id="1" tvg-name="汕尾文化生活" tvg-logo="https://epg.112114.free.hr/logo/汕尾文化生活.png" group-title="酒店组播",汕尾文化生活
-http://113.83.248.110:4200/udp/239.77.0.187:5146
-#EXTINF:-1 tvg-id="1" tvg-name="江门综合" tvg-logo="https://epg.112114.free.hr/logo/江门综合.png" group-title="酒店组播",江门综合
-http://113.83.248.110:4200/udp/239.77.0.201:5146
-#EXTINF:-1 tvg-id="1" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.free.hr/logo/江门侨乡生活.png" group-title="酒店组播",江门侨乡生活
-http://113.83.248.110:4200/udp/239.77.0.202:5146
-#EXTINF:-1 tvg-id="1" tvg-name="江门教育" tvg-logo="https://epg.112114.free.hr/logo/江门教育.png" group-title="酒店组播",江门教育
-http://113.83.248.110:4200/udp/239.77.0.203:5146
-#EXTINF:-1 tvg-id="1" tvg-name="HZTV-1" tvg-logo="https://epg.112114.free.hr/logo/HZTV-1.png" group-title="酒店组播",HZTV-1
-http://113.83.248.110:4200/udp/239.77.1.232:5146
-#EXTINF:-1 tvg-id="1" tvg-name="HZTV-2" tvg-logo="https://epg.112114.free.hr/logo/HZTV-2.png" group-title="酒店组播",HZTV-2
-http://113.83.248.110:4200/udp/239.77.1.233:5146
-#EXTINF:-1 tvg-id="1" tvg-name="珠海-1" tvg-logo="https://epg.112114.free.hr/logo/珠海-1.png" group-title="酒店组播",珠海-1
-http://113.83.248.110:4200/udp/239.77.0.155:5146
-#EXTINF:-1 tvg-id="1" tvg-name="珠海-2" tvg-logo="https://epg.112114.free.hr/logo/珠海-2.png" group-title="酒店组播",珠海-2
-http://113.83.248.110:4200/udp/239.77.0.154:5146
-#EXTINF:-1 tvg-id="1" tvg-name="肇庆综合" tvg-logo="https://epg.112114.free.hr/logo/肇庆综合.png" group-title="酒店组播",肇庆综合
-http://113.83.248.110:4200/udp/239.253.43.1:5146
-#EXTINF:-1 tvg-id="1" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.free.hr/logo/肇庆生活服务.png" group-title="酒店组播",肇庆生活服务
-http://113.83.248.110:4200/udp/239.253.43.2:5146
-#EXTINF:-1 tvg-id="1" tvg-name="河源综合" tvg-logo="https://epg.112114.free.hr/logo/河源综合.png" group-title="酒店组播",河源综合
-http://113.83.248.110:4200/udp/239.253.43.213:5146
-#EXTINF:-1 tvg-id="1" tvg-name="河源公共" tvg-logo="https://epg.112114.free.hr/logo/河源公共.png" group-title="酒店组播",河源公共
-http://113.83.248.110:4200/udp/239.253.43.214:5146
-#EXTINF:-1 tvg-id="1" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.free.hr/logo/清远新闻综合.png" group-title="酒店组播",清远新闻综合
-http://113.83.248.110:4200/udp/239.253.43.33:5146
-#EXTINF:-1 tvg-id="1" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.free.hr/logo/清远文旅生活.png" group-title="酒店组播",清远文旅生活
-http://113.83.248.110:4200/udp/239.253.43.34:5146
-#EXTINF:-1 tvg-id="1" tvg-name="云浮综合" tvg-logo="https://epg.112114.free.hr/logo/云浮综合.png" group-title="酒店组播",云浮综合
-http://113.83.248.110:4200/udp/239.77.0.253:5146
-#EXTINF:-1 tvg-id="1" tvg-name="云浮文旅" tvg-logo="https://epg.112114.free.hr/logo/云浮文旅.png" group-title="酒店组播",云浮文旅
-http://113.83.248.110:4200/udp/239.77.0.254:5146
-#EXTINF:-1 tvg-id="1" tvg-name="茂名综合" tvg-logo="https://epg.112114.free.hr/logo/茂名综合.png" group-title="酒店组播",茂名综合
-http://113.83.248.110:4200/udp/239.77.0.206:5146
-#EXTINF:-1 tvg-id="1" tvg-name="茂名公共" tvg-logo="https://epg.112114.free.hr/logo/茂名公共.png" group-title="酒店组播",茂名公共
-http://113.83.248.110:4200/udp/239.77.0.207:5146
-#EXTINF:-1 tvg-id="1" tvg-name="汕头综合" tvg-logo="https://epg.112114.free.hr/logo/汕头综合.png" group-title="酒店组播",汕头综合
-http://113.83.248.110:4200/udp/239.77.1.130:5146
-#EXTINF:-1 tvg-id="2" tvg-name="汕头综合" tvg-logo="https://epg.112114.free.hr/logo/汕头综合.png" group-title="酒店组播",汕头综合
-http://113.83.248.110:4200/udp/239.253.43.45:5146
-#EXTINF:-1 tvg-id="1" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.free.hr/logo/汕头经济生活.png" group-title="酒店组播",汕头经济生活
-http://113.83.248.110:4200/udp/239.77.1.131:5146
-#EXTINF:-1 tvg-id="2" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.free.hr/logo/汕头经济生活.png" group-title="酒店组播",汕头经济生活
-http://113.83.248.110:4200/udp/239.253.43.46:5146
-#EXTINF:-1 tvg-id="1" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.free.hr/logo/汕头文旅体育.png" group-title="酒店组播",汕头文旅体育
-http://113.83.248.110:4200/udp/239.77.1.132:5146
-#EXTINF:-1 tvg-id="2" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.free.hr/logo/汕头文旅体育.png" group-title="酒店组播",汕头文旅体育
-http://113.83.248.110:4200/udp/239.253.43.47:5146
-#EXTINF:-1 tvg-id="1" tvg-name="佛山公共" tvg-logo="https://epg.112114.free.hr/logo/佛山公共.png" group-title="酒店组播",佛山公共
-http://113.83.248.110:4200/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-id="1" tvg-name="佛山南海" tvg-logo="https://epg.112114.free.hr/logo/佛山南海.png" group-title="酒店组播",佛山南海
-http://113.83.248.110:4200/udp/239.253.43.54:5146
-#EXTINF:-1 tvg-id="1" tvg-name="佛山顺德" tvg-logo="https://epg.112114.free.hr/logo/佛山顺德.png" group-title="酒店组播",佛山顺德
-http://113.83.248.110:4200/udp/239.253.43.55:5146
-#EXTINF:-1 tvg-id="1" tvg-name="佛山影视" tvg-logo="https://epg.112114.free.hr/logo/佛山影视.png" group-title="酒店组播",佛山影视
-http://113.83.248.110:4200/udp/239.253.43.56:5146
-#EXTINF:-1 tvg-id="1" tvg-name="佛山综合" tvg-logo="https://epg.112114.free.hr/logo/佛山综合.png" group-title="酒店组播",佛山综合
-http://113.83.248.110:4200/udp/239.253.43.57:5146
-#EXTINF:-1 tvg-id="1" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.free.hr/logo/东莞新闻综合.png" group-title="酒店组播",东莞新闻综合
-http://113.83.248.110:4200/udp/239.253.43.104:5146
-#EXTINF:-1 tvg-id="1" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.free.hr/logo/东莞生活资讯.png" group-title="酒店组播",东莞生活资讯
-http://113.83.248.110:4200/udp/239.253.43.105:5146
-#EXTINF:-1 tvg-id="1" tvg-name="中山综合" tvg-logo="https://epg.112114.free.hr/logo/中山综合.png" group-title="酒店组播",中山综合
-http://113.83.248.110:4200/udp/239.253.43.62:5146
-#EXTINF:-1 tvg-id="1" tvg-name="香山文化" tvg-logo="https://epg.112114.free.hr/logo/香山文化.png" group-title="酒店组播",香山文化
-http://113.83.248.110:4200/udp/239.253.43.63:5146
-#EXTINF:-1 tvg-id="1" tvg-name="中山教育" tvg-logo="https://epg.112114.free.hr/logo/中山教育.png" group-title="酒店组播",中山教育
-http://113.83.248.110:4200/udp/239.253.43.64:5146
-#EXTINF:-1 tvg-id="1" tvg-name="徐闻综合" tvg-logo="https://epg.112114.free.hr/logo/徐闻综合.png" group-title="酒店组播",徐闻综合
-http://113.83.248.110:4200/udp/239.253.43.112:5146
-#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
-http://113.83.248.110:4200/udp/239.77.1.5:5146
-#EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
-http://113.83.248.110:4200/udp/239.77.1.129:5146
-#EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="https://epg.112114.free.hr/logo/湖南卫视.png" group-title="酒店组播",湖南卫视
-http://113.83.248.110:4200/udp/239.77.0.88:5146
-#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
-http://113.83.248.110:4200/udp/239.77.1.33:5146
-#EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
-http://113.83.248.110:4200/udp/239.77.1.150:5146
-#EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://epg.112114.free.hr/logo/浙江卫视.png" group-title="酒店组播",浙江卫视
-http://113.83.248.110:4200/udp/239.77.0.89:5146
-#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
-http://113.83.248.110:4200/udp/239.77.1.18:5146
-#EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
-http://113.83.248.110:4200/udp/239.77.1.149:5146
-#EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://epg.112114.free.hr/logo/江苏卫视.png" group-title="酒店组播",江苏卫视
-http://113.83.248.110:4200/udp/239.77.0.90:5146
-#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
-http://113.83.248.110:4200/udp/239.77.1.218:5146
-#EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
-http://113.83.248.110:4200/udp/239.77.1.156:5146
-#EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://epg.112114.free.hr/logo/东方卫视.png" group-title="酒店组播",东方卫视
-http://113.83.248.110:4200/udp/239.77.0.98:5146
-#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
-http://113.83.248.110:4200/udp/239.77.1.92:5146
-#EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
-http://113.83.248.110:4200/udp/239.77.1.157:5146
-#EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://epg.112114.free.hr/logo/安徽卫视.png" group-title="酒店组播",安徽卫视
-http://113.83.248.110:4200/udp/239.77.0.183:5146
-#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
-http://113.83.248.110:4200/udp/239.77.1.4:5146
-#EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
-http://113.83.248.110:4200/udp/239.77.1.151:5146
-#EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://epg.112114.free.hr/logo/北京卫视.png" group-title="酒店组播",北京卫视
-http://113.83.248.110:4200/udp/239.77.0.91:5146
-#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
-http://113.83.248.110:4200/udp/239.77.1.141:5146
-#EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
-http://113.83.248.110:4200/udp/239.77.1.182:5146
-#EXTINF:-1 tvg-id="3" tvg-name="天津卫视" tvg-logo="https://epg.112114.free.hr/logo/天津卫视.png" group-title="酒店组播",天津卫视
-http://113.83.248.110:4200/udp/239.77.0.97:5146
-#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
-http://113.83.248.110:4200/udp/239.77.1.142:5146
-#EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
-http://113.83.248.110:4200/udp/239.77.1.153:5146
-#EXTINF:-1 tvg-id="3" tvg-name="山东卫视" tvg-logo="https://epg.112114.free.hr/logo/山东卫视.png" group-title="酒店组播",山东卫视
-http://113.83.248.110:4200/udp/239.77.0.94:5146
-#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://epg.112114.free.hr/logo/江西卫视.png" group-title="酒店组播",江西卫视
-http://113.83.248.110:4200/udp/239.77.1.219:5146
-#EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://epg.112114.free.hr/logo/江西卫视.png" group-title="酒店组播",江西卫视
-http://113.83.248.110:4200/udp/239.77.0.149:5146
-#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
-http://113.83.248.110:4200/udp/239.77.1.93:5146
-#EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
-http://113.83.248.110:4200/udp/239.77.1.174:5146
-#EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://epg.112114.free.hr/logo/湖北卫视.png" group-title="酒店组播",湖北卫视
-http://113.83.248.110:4200/udp/239.77.0.95:5146
-#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.free.hr/logo/辽宁卫视.png" group-title="酒店组播",辽宁卫视
-http://113.83.248.110:4200/udp/239.77.1.103:5146
-#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视 " tvg-logo="https://epg.112114.free.hr/logo/辽宁卫视 .png" group-title="酒店组播",辽宁卫视 
-http://113.83.248.110:4200/udp/239.77.0.123:5146
-#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
-http://113.83.248.110:4200/udp/239.77.1.6:5146
-#EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
-http://113.83.248.110:4200/udp/239.77.1.179:5146
-#EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.free.hr/logo/黑龙江卫视.png" group-title="酒店组播",黑龙江卫视
-http://113.83.248.110:4200/udp/239.77.0.93:5146
-#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://epg.112114.free.hr/logo/贵州卫视.png" group-title="酒店组播",贵州卫视
-http://113.83.248.110:4200/udp/239.77.1.221:5146
-#EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://epg.112114.free.hr/logo/贵州卫视.png" group-title="酒店组播",贵州卫视
-http://113.83.248.110:4200/udp/239.77.0.230:5146
-#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://epg.112114.free.hr/logo/四川卫视.png" group-title="酒店组播",四川卫视
-http://113.83.248.110:4200/udp/239.77.1.215:5146
-#EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://epg.112114.free.hr/logo/四川卫视.png" group-title="酒店组播",四川卫视
-http://113.83.248.110:4200/udp/239.77.0.159:5146
-#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://epg.112114.free.hr/logo/河南卫视.png" group-title="酒店组播",河南卫视
-http://113.83.248.110:4200/udp/239.77.1.229:5146
-#EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://epg.112114.free.hr/logo/河南卫视.png" group-title="酒店组播",河南卫视
-http://113.83.248.110:4200/udp/239.77.0.17:5146
-#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://epg.112114.free.hr/logo/云南卫视.png" group-title="酒店组播",云南卫视
-http://113.83.248.110:4200/udp/239.253.43.37:5146
-#EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://epg.112114.free.hr/logo/云南卫视.png" group-title="酒店组播",云南卫视
-http://113.83.248.110:4200/udp/239.253.43.100:5146
-#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
-http://113.83.248.110:4200/udp/239.77.1.162:5146
-#EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
-http://113.83.248.110:4200/udp/239.77.1.210:5146
-#EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://epg.112114.free.hr/logo/重庆卫视.png" group-title="酒店组播",重庆卫视
-http://113.83.248.110:4200/udp/239.77.0.182:5146
-#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://epg.112114.free.hr/logo/河北卫视.png" group-title="酒店组播",河北卫视
-http://113.83.248.110:4200/udp/239.77.1.214:5146
-#EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://epg.112114.free.hr/logo/河北卫视.png" group-title="酒店组播",河北卫视
-http://113.83.248.110:4200/udp/239.77.0.148:5146
-#EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://epg.112114.free.hr/logo/东南卫视.png" group-title="酒店组播",东南卫视
-http://113.83.248.110:4200/udp/239.77.1.104:5146
+http://14.19.151.72:9900/udp/239.77.1.104:5146
