@@ -672,565 +672,567 @@ http://116.226.30.31:4022/udp/239.45.3.145:5140$LR•336•IPV4『线路335』
 #EXTINF:-1 tvg-id="336" tvg-name="CCTV1综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1综合.png" group-title="央视频道",CCTV1综合
 http://58.219.172.201:10001/rtp/239.49.8.19:9614$LR•336•IPV4『线路336』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?$LR•262•IPV6『线路1』
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?$LR•263•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•262•IPV6『线路2』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8$LR•263•IPV6『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•262•IPV6『线路3』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8$LR•263•IPV6『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8$LR•262•IPV6『线路4』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•263•IPV6『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8$LR•262•IPV6『线路5』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8$LR•263•IPV6『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/$LR•262•IPV6『线路6』
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/$LR•263•IPV6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/$LR•262•IPV6『线路7』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/$LR•263•IPV6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8$LR•262•IPV6『线路8』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8$LR•263•IPV6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226540/index.m3u8$LR•262•IPV6『线路9』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226540/index.m3u8$LR•263•IPV6『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000502$LR•262•IPV6『线路10』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•263•IPV6『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•262•IPV6『线路11』
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000502$LR•263•IPV6『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8$LR•262•IPV6『线路12』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•263•IPV6『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8$LR•262•IPV6『线路13』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8$LR•263•IPV6『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8?$LR•262•IPV6『线路14』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8?$LR•263•IPV6『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8?$LR•262•IPV6『线路15』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8?$LR•263•IPV6『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/index.m3u8$LR•262•IPV6『线路16』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/index.m3u8$LR•263•IPV6『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•262•IPV6『线路17』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•263•IPV6『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226676/index.m3u8$LR•262•IPV6『线路18』
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226676/index.m3u8$LR•263•IPV6『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8$LR•262•IPV6『线路19』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8$LR•263•IPV6『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::4059]/TVOD/88888888/224/3221226079/main.m3u8$LR•262•IPV6『线路20』
+http://[2409:8087:1a01:df::4059]/TVOD/88888888/224/3221226079/main.m3u8$LR•263•IPV6『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002135/index.m3u8$LR•262•IPV6『线路21』
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002135/index.m3u8$LR•263•IPV6『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•262•IPV6『线路22』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•263•IPV6『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8$LR•262•IPV6『线路23』
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8$LR•263•IPV6『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://117.88.230.19:8888/rtp/239.49.8.130:6000$LR•262•IPV4『线路24』
+http://117.88.230.19:8888/rtp/239.49.8.130:6000$LR•263•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://115.195.172.36:9999/udp/233.50.200.25:5140$LR•262•IPV4『线路25』
+http://115.195.172.36:9999/udp/233.50.200.25:5140$LR•263•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://115.195.172.36:9999/udp/233.50.201.119:5140$LR•262•IPV4『线路26』
+http://115.195.172.36:9999/udp/233.50.201.119:5140$LR•263•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://221.205.201.216:8085/rtp/226.0.2.154:9144$LR•262•IPV4『线路27』
+http://221.205.201.216:8085/rtp/226.0.2.154:9144$LR•263•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://221.205.201.216:8083/rtp/226.0.2.154:9144$LR•262•IPV4『线路28』
+http://221.205.201.216:8083/rtp/226.0.2.154:9144$LR•263•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://221.205.201.216:8084/rtp/226.0.2.154:9144$LR•262•IPV4『线路29』
+http://221.205.201.216:8084/rtp/226.0.2.154:9144$LR•263•IPV4『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://221.205.201.216:8082/rtp/226.0.2.154:9144$LR•262•IPV4『线路30』
+http://221.205.201.216:8082/rtp/226.0.2.154:9144$LR•263•IPV4『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.145.57.77:8002/udp/225.0.4.132:7980$LR•262•IPV4『线路31』
+http://123.145.57.77:8002/udp/225.0.4.132:7980$LR•263•IPV4『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.145.57.77:8003/udp/225.0.4.132:7980$LR•262•IPV4『线路32』
+http://123.145.57.77:8003/udp/225.0.4.132:7980$LR•263•IPV4『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.145.57.77:8004/udp/225.0.4.132:7980$LR•262•IPV4『线路33』
+http://123.145.57.77:8004/udp/225.0.4.132:7980$LR•263•IPV4『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.165.213.195:8000/udp/225.1.1.133:5002$LR•262•IPV4『线路34』
+http://111.165.213.195:8000/udp/225.1.1.133:5002$LR•263•IPV4『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路35』
+http://222.218.158.156:8181/tsfile/live/0002_1.m3u8$LR•263•IPV4『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路36』
+http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV2hd-8M/live.m3u8$LR•263•IPV4『线路36』
 #EXTINF:-1 tvg-id="37" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV2hd-8M/live.m3u8$LR•262•IPV4『线路37』
+https://vip.taoiptv.cn/source/gitv.php?id=CCTV2hd-8M.m3u8&sign=h51x7y$LR•263•IPV4『线路37』
 #EXTINF:-1 tvg-id="38" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV2hd-8M.m3u8&sign=h51x7y$LR•262•IPV4『线路38』
+https://vip.taoiptv.cn/source/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398.m3u8&sign=h51x7y$LR•263•IPV4『线路38』
 #EXTINF:-1 tvg-id="39" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398.m3u8&sign=h51x7y$LR•262•IPV4『线路39』
+https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=h51x7y$LR•263•IPV4『线路39』
 #EXTINF:-1 tvg-id="40" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=h51x7y$LR•262•IPV4『线路40』
+https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=h51x7y$LR•263•IPV4『线路40』
 #EXTINF:-1 tvg-id="41" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=h51x7y$LR•262•IPV4『线路41』
+http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=h51x7y$LR•263•IPV4『线路41』
 #EXTINF:-1 tvg-id="42" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=h51x7y$LR•262•IPV4『线路42』
+http://121.24.99.16:8090/hls/10/index.m3u8$LR•263•IPV4『线路42』
 #EXTINF:-1 tvg-id="43" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://121.24.99.16:8090/hls/10/index.m3u8$LR•262•IPV4『线路43』
+http://49.75.204.38:4022/rtp/239.49.8.130:6000$LR•263•IPV4『线路43』
 #EXTINF:-1 tvg-id="44" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://49.75.204.38:4022/rtp/239.49.8.130:6000$LR•262•IPV4『线路44』
+http://49.75.159.131:4022/rtp/239.49.8.130:6000$LR•263•IPV4『线路44』
 #EXTINF:-1 tvg-id="45" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://49.75.159.131:4022/rtp/239.49.8.130:6000$LR•262•IPV4『线路45』
+http://124.112.202.94:18888/rtp/238.1.78.235:7752$LR•263•IPV4『线路45』
 #EXTINF:-1 tvg-id="46" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://124.112.202.94:18888/rtp/238.1.78.235:7752$LR•262•IPV4『线路46』
+http://122.191.206.188:888/udp/228.0.0.2:6108$LR•263•IPV4『线路46』
 #EXTINF:-1 tvg-id="47" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://122.191.206.188:888/udp/228.0.0.2:6108$LR•262•IPV4『线路47』
+http://59.173.183.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路47』
 #EXTINF:-1 tvg-id="48" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://59.173.183.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路48』
+http://112.123.206.32:808/hls/2/index.m3u8$LR•263•IPV4『线路48』
 #EXTINF:-1 tvg-id="49" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://112.123.206.32:808/hls/2/index.m3u8$LR•262•IPV4『线路49』
+http://112.6.165.112:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路49』
 #EXTINF:-1 tvg-id="50" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://112.6.165.112:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路50』
+http://113.25.208.15:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路50』
 #EXTINF:-1 tvg-id="51" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://113.25.208.15:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路51』
+http://223.75.148.190:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路51』
 #EXTINF:-1 tvg-id="52" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.75.148.190:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路52』
+http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140$LR•263•IPV4『线路52』
 #EXTINF:-1 tvg-id="53" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140$LR•262•IPV4『线路53』
+http://182.104.192.98:8180/TV00000000000000000048@HHZT$LR•263•IPV4『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://182.104.192.98:8180/TV00000000000000000048@HHZT$LR•262•IPV4『线路54』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路55』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$LR•263•IPV4『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$LR•262•IPV4『线路56』
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路57』
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$LR•263•IPV4『线路57』
 #EXTINF:-1 tvg-id="58" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$LR•262•IPV4『线路58』
+http://59.32.97.203:9901/tsfile/live/23019_1.m3u8$LR•263•IPV4『线路58』
 #EXTINF:-1 tvg-id="59" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://59.32.97.203:9901/tsfile/live/23019_1.m3u8$LR•262•IPV4『线路59』
+https://livednow.com/migu/631780532?sign=gAAAAABmxHgUnAvEb33tHD9hTm-x8LUM8wdp7UNp8vG_QGzfBRymJcJ-qRZkuO8iC9C4jvmjR4JkCfpD2ahIj6YDLYc7I9zvSFX3TfVl-AEPw3Cr4tW6jEgf_21OyqfRJVr9Ur7eHN66lC0Vkm577g_N_DMJA7tvJB1VXzu8XvvBj9PfMX661WuanhS0hudEg28SveMbwkSCb9figgsldzEbo7jwMQVZ4A%3D%3D$LR•263•IPV4『线路59』
 #EXTINF:-1 tvg-id="60" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://livednow.com/migu/631780532?sign=gAAAAABmxHgUnAvEb33tHD9hTm-x8LUM8wdp7UNp8vG_QGzfBRymJcJ-qRZkuO8iC9C4jvmjR4JkCfpD2ahIj6YDLYc7I9zvSFX3TfVl-AEPw3Cr4tW6jEgf_21OyqfRJVr9Ur7eHN66lC0Vkm577g_N_DMJA7tvJB1VXzu8XvvBj9PfMX661WuanhS0hudEg28SveMbwkSCb9figgsldzEbo7jwMQVZ4A%3D%3D$LR•262•IPV4『线路60』
+https://livednow.com/migu/631780532?sign=gAAAAABmwyZNSSKcXhhXZdK0XuSNBPouks3aRU5mg0SYUXksZqOKQmqx643bOPLkE1Btl-9iJUm4lHOccfzcnleD3y1KIn5J0owyyqKXNYF7h1xzuFRZvRnIQZXA7YA8ZUYgSYTGzdxYJImthu8TCbWBzq1zzQNK2MQ7pk9C80Bd-C8BFjxz2cacL59xiukxtIzYStzrzazLPAKDlDELvw-61eHlWTO1vQ%3D%3D$LR•263•IPV4『线路60』
 #EXTINF:-1 tvg-id="61" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://livednow.com/migu/631780532?sign=gAAAAABmwyZNSSKcXhhXZdK0XuSNBPouks3aRU5mg0SYUXksZqOKQmqx643bOPLkE1Btl-9iJUm4lHOccfzcnleD3y1KIn5J0owyyqKXNYF7h1xzuFRZvRnIQZXA7YA8ZUYgSYTGzdxYJImthu8TCbWBzq1zzQNK2MQ7pk9C80Bd-C8BFjxz2cacL59xiukxtIzYStzrzazLPAKDlDELvw-61eHlWTO1vQ%3D%3D$LR•262•IPV4『线路61』
+http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2$LR•263•IPV4『线路61』
 #EXTINF:-1 tvg-id="62" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2$LR•262•IPV4『线路62』
+http://1.180.2.93:9901/tsfile/live/1035_1.m3u8$LR•263•IPV4『线路62』
 #EXTINF:-1 tvg-id="63" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1.180.2.93:9901/tsfile/live/1035_1.m3u8$LR•262•IPV4『线路63』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路63』
 #EXTINF:-1 tvg-id="64" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315$LR•262•IPV4『线路64』
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315$LR•263•IPV4『线路64』
 #EXTINF:-1 tvg-id="65" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.dsmcloud.top:8888/rtp/239.81.0.115:4056$LR•262•IPV4『线路65』
+http://www.dsmcloud.top:8888/rtp/239.81.0.115:4056$LR•263•IPV4『线路65』
 #EXTINF:-1 tvg-id="66" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://124.230.56.165:55555/udp/239.76.246.152:1234$LR•262•IPV4『线路66』
+http://124.230.56.165:55555/udp/239.76.246.152:1234$LR•263•IPV4『线路66』
 #EXTINF:-1 tvg-id="67" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://61.190.129.195:8688/rtp/238.1.78.235:7752$LR•262•IPV4『线路67』
+http://61.190.129.195:8688/rtp/238.1.78.235:7752$LR•263•IPV4『线路67』
 #EXTINF:-1 tvg-id="68" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://218.241.192.50:8808/rtp/239.3.1.60:8084$LR•262•IPV4『线路68』
+http://218.241.192.50:8808/rtp/239.3.1.60:8084$LR•263•IPV4『线路68』
 #EXTINF:-1 tvg-id="69" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://buffaloft.ignorelist.com:8888/rtp/239.3.1.60:8084$LR•262•IPV4『线路69』
+http://buffaloft.ignorelist.com:8888/rtp/239.3.1.60:8084$LR•263•IPV4『线路69』
 #EXTINF:-1 tvg-id="70" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://neucn.asuscomm.cn:23234/rtp/239.3.1.60:8084$LR•262•IPV4『线路70』
+http://neucn.asuscomm.cn:23234/rtp/239.3.1.60:8084$LR•263•IPV4『线路70』
 #EXTINF:-1 tvg-id="71" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$LR•262•IPV4『线路71』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$LR•263•IPV4『线路71』
 #EXTINF:-1 tvg-id="72" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://180.158.164.233:8888/udp/239.45.3.208:5140$LR•262•IPV4『线路72』
+http://180.158.164.233:8888/udp/239.45.3.208:5140$LR•263•IPV4『线路72』
 #EXTINF:-1 tvg-id="73" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://180.158.191.162:9999/udp/239.45.3.208:5140$LR•262•IPV4『线路73』
+http://180.158.191.162:9999/udp/239.45.3.208:5140$LR•263•IPV4『线路73』
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.243.97.208:8822/rtp/239.3.1.60:8084$LR•262•IPV4『线路74』
+http://114.243.97.208:8822/rtp/239.3.1.60:8084$LR•263•IPV4『线路74』
 #EXTINF:-1 tvg-id="75" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.243.104.64:8822/rtp/239.3.1.60:8084$LR•262•IPV4『线路75』
+http://114.243.104.64:8822/rtp/239.3.1.60:8084$LR•263•IPV4『线路75』
 #EXTINF:-1 tvg-id="76" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.114.19.80:4000/rtp/239.3.1.60:8084$LR•262•IPV4『线路76』
+http://123.114.19.80:4000/rtp/239.3.1.60:8084$LR•263•IPV4『线路76』
 #EXTINF:-1 tvg-id="77" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://tvbox6.icu/tv/migu.php?id=cctv2$LR•262•IPV4『线路77』
+http://tvbox6.icu/tv/migu.php?id=cctv2$LR•263•IPV4『线路77』
 #EXTINF:-1 tvg-id="78" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.166.61.70:8003/hls/12/index.m3u8$LR•262•IPV4『线路78』
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路78』
 #EXTINF:-1 tvg-id="79" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路79』
+http://123.166.61.70:8003/hls/12/index.m3u8$LR•263•IPV4『线路79』
 #EXTINF:-1 tvg-id="80" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://101.65.32.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•262•IPV4『线路80』
+http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路80』
 #EXTINF:-1 tvg-id="81" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ygbh666.cn/aikmigu.php?id=cctv2$LR•262•IPV4『线路81』
+http://101.65.32.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•263•IPV4『线路81』
 #EXTINF:-1 tvg-id="82" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://113.120.46.204:8123/udp/239.21.1.151:5002$LR•262•IPV4『线路82』
+http://ygbh666.cn/aikmigu.php?id=cctv2$LR•263•IPV4『线路82』
 #EXTINF:-1 tvg-id="83" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://121.13.55.157:4022/udp/239.77.0.137:5146$LR•262•IPV4『线路83』
+http://113.120.46.204:8123/udp/239.21.1.151:5002$LR•263•IPV4『线路83』
 #EXTINF:-1 tvg-id="84" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://101.81.119.90:8888/udp/239.45.1.109:5140$LR•262•IPV4『线路84』
+http://121.13.55.157:4022/udp/239.77.0.137:5146$LR•263•IPV4『线路84』
 #EXTINF:-1 tvg-id="85" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.furymax.top:85/rtp/239.69.1.102:10250$LR•262•IPV4『线路85』
+http://101.81.119.90:8888/udp/239.45.1.109:5140$LR•263•IPV4『线路85』
 #EXTINF:-1 tvg-id="86" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路86』
+http://www.furymax.top:85/rtp/239.69.1.102:10250$LR•263•IPV4『线路86』
 #EXTINF:-1 tvg-id="87" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://115.171.216.56:4000/udp/225.1.8.2:8084$LR•262•IPV4『线路87』
+http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路87』
 #EXTINF:-1 tvg-id="88" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1.82.70.88:8008/rtp/239.112.205.78:5140$LR•262•IPV4『线路88』
+http://115.171.216.56:4000/udp/225.1.8.2:8084$LR•263•IPV4『线路88』
 #EXTINF:-1 tvg-id="89" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://182.138.184.35:6666/udp/239.93.1.23:6000$LR•262•IPV4『线路89』
+http://1.82.70.88:8008/rtp/239.112.205.78:5140$LR•263•IPV4『线路89』
 #EXTINF:-1 tvg-id="90" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路90』
+http://182.138.184.35:6666/udp/239.93.1.23:6000$LR•263•IPV4『线路90』
 #EXTINF:-1 tvg-id="91" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://36.35.16.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•262•IPV4『线路91』
+http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路91』
 #EXTINF:-1 tvg-id="92" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://110.53.218.182:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路92』
+http://36.35.16.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•263•IPV4『线路92』
 #EXTINF:-1 tvg-id="93" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://27.10.212.170:8005/udp/225.0.4.132:7980$LR•262•IPV4『线路93』
+http://110.53.218.182:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路93』
 #EXTINF:-1 tvg-id="94" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://125.71.159.29:6666/udp/239.93.1.23:6000$LR•262•IPV4『线路94』
+http://27.10.212.170:8005/udp/225.0.4.132:7980$LR•263•IPV4『线路94』
 #EXTINF:-1 tvg-id="95" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://125.113.131.173:8888/udp/233.50.200.25:5140$LR•262•IPV4『线路95』
+http://125.71.159.29:6666/udp/239.93.1.23:6000$LR•263•IPV4『线路95』
 #EXTINF:-1 tvg-id="96" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=06zcwd$LR•262•IPV4『线路96』
+http://125.113.131.173:8888/udp/233.50.200.25:5140$LR•263•IPV4『线路96』
 #EXTINF:-1 tvg-id="97" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://116.117.105.198:8096/tsfile/live/0002_1.m3u8$LR•262•IPV4『线路97』
+https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=06zcwd$LR•263•IPV4『线路97』
 #EXTINF:-1 tvg-id="98" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://112.46.85.60:8009/hls/502/index.m3u8$LR•262•IPV4『线路98』
+http://116.117.105.198:8096/tsfile/live/0002_1.m3u8$LR•263•IPV4『线路98』
 #EXTINF:-1 tvg-id="99" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://119.163.57.184:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路99』
+http://112.46.85.60:8009/hls/502/index.m3u8$LR•263•IPV4『线路99』
 #EXTINF:-1 tvg-id="100" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.10.39.207:8083/rtp/239.1.1.8:8008$LR•262•IPV4『线路100』
+http://119.163.57.184:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路100』
 #EXTINF:-1 tvg-id="101" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://jump.taoiptv.cn/iptv1.php?id=100105&num=1&sign=fk3aks$LR•262•IPV4『线路101』
+http://223.10.39.207:8083/rtp/239.1.1.8:8008$LR•263•IPV4『线路101』
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://116.226.30.31:4022/udp/239.45.1.109:5140$LR•262•IPV4『线路102』
+https://jump.taoiptv.cn/iptv1.php?id=100105&num=1&sign=fk3aks$LR•263•IPV4『线路102』
 #EXTINF:-1 tvg-id="103" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://121.13.55.157:4022/udp/239.77.1.158:5146$LR•262•IPV4『线路103』
+http://116.226.30.31:4022/udp/239.45.1.109:5140$LR•263•IPV4『线路103』
 #EXTINF:-1 tvg-id="104" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://14.29.76.30:9901/tsfile/live/1008_1.m3u8$LR•262•IPV4『线路104』
+http://121.13.55.157:4022/udp/239.77.1.158:5146$LR•263•IPV4『线路104』
 #EXTINF:-1 tvg-id="105" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://27.10.76.212:8006/udp/225.0.4.132:7980$LR•262•IPV4『线路105』
+http://14.29.76.30:9901/tsfile/live/1008_1.m3u8$LR•263•IPV4『线路105』
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://180.158.130.39:1024/udp/239.45.1.109:5140$LR•262•IPV4『线路106』
+http://27.10.76.212:8006/udp/225.0.4.132:7980$LR•263•IPV4『线路106』
 #EXTINF:-1 tvg-id="107" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://110.178.77.222:8084/rtp/239.1.1.8:8008$LR•262•IPV4『线路107』
+http://180.158.130.39:1024/udp/239.45.1.109:5140$LR•263•IPV4『线路107』
 #EXTINF:-1 tvg-id="108" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1.82.70.88:8020/rtp/239.112.205.78:5140$LR•262•IPV4『线路108』
+http://110.178.77.222:8084/rtp/239.1.1.8:8008$LR•263•IPV4『线路108』
 #EXTINF:-1 tvg-id="109" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://115.171.216.56:4000/udp/225.1.8.102:8004$LR•262•IPV4『线路109』
+http://1.82.70.88:8020/rtp/239.112.205.78:5140$LR•263•IPV4『线路109』
 #EXTINF:-1 tvg-id="110" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://60.189.43.82:9999/rtp/233.50.201.119:5140$LR•262•IPV4『线路110』
+http://115.171.216.56:4000/udp/225.1.8.102:8004$LR•263•IPV4『线路110』
 #EXTINF:-1 tvg-id="111" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://60.7.56.33:4000/rtp/239.253.92.190:6065$LR•262•IPV4『线路111』
+http://60.189.43.82:9999/rtp/233.50.201.119:5140$LR•263•IPV4『线路111』
 #EXTINF:-1 tvg-id="112" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://222.68.48.77:4022/rtp/239.45.1.109:5140$LR•262•IPV4『线路112』
+http://60.7.56.33:4000/rtp/239.253.92.190:6065$LR•263•IPV4『线路112』
 #EXTINF:-1 tvg-id="113" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://180.141.133.145:4200/udp/239.81.0.14:4056$LR•262•IPV4『线路113』
+http://222.68.48.77:4022/rtp/239.45.1.109:5140$LR•263•IPV4『线路113』
 #EXTINF:-1 tvg-id="114" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$LR•262•IPV4『线路114』
+http://180.141.133.145:4200/udp/239.81.0.14:4056$LR•263•IPV4『线路114』
 #EXTINF:-1 tvg-id="115" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://222.70.243.41:23456/udp/239.45.1.109:5140$LR•262•IPV4『线路115』
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$LR•263•IPV4『线路115』
 #EXTINF:-1 tvg-id="116" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://e1.woc.iiiya.cn:8888/rtp/239.61.2.174:9032$LR•262•IPV4『线路116』
+http://222.70.243.41:23456/udp/239.45.1.109:5140$LR•263•IPV4『线路116』
 #EXTINF:-1 tvg-id="117" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=ugxuj7$LR•262•IPV4『线路117』
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.174:9032$LR•263•IPV4『线路117』
 #EXTINF:-1 tvg-id="118" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.10.115.195:8082/rtp/239.1.1.8:8008$LR•262•IPV4『线路118』
+https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=ugxuj7$LR•263•IPV4『线路118』
 #EXTINF:-1 tvg-id="119" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.154:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$LR•262•IPV4『线路119』
+http://223.10.115.195:8082/rtp/239.1.1.8:8008$LR•263•IPV4『线路119』
 #EXTINF:-1 tvg-id="120" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ttkx.live:55/lib/aikan.php?id=cctv2$LR•262•IPV4『线路120』
+http://39.135.133.154:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$LR•263•IPV4『线路120』
 #EXTINF:-1 tvg-id="121" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.254.188.49:9999/rtp/239.3.1.60:8084$LR•262•IPV4『线路121』
+http://ttkx.live:55/lib/aikan.php?id=cctv2$LR•263•IPV4『线路121』
 #EXTINF:-1 tvg-id="122" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.167.65.196:4022/udp/225.1.1.133:5002$LR•262•IPV4『线路122』
+http://114.254.188.49:9999/rtp/239.3.1.60:8084$LR•263•IPV4『线路122』
 #EXTINF:-1 tvg-id="123" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://222.186.57.43:22222/php/migu.php?id=CCTV2$LR•262•IPV4『线路123』
+http://111.167.65.196:4022/udp/225.1.1.133:5002$LR•263•IPV4『线路123』
 #EXTINF:-1 tvg-id="124" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路124』
+http://222.186.57.43:22222/php/migu.php?id=CCTV2$LR•263•IPV4『线路124』
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路125』
+http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路125』
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.155:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$LR•262•IPV4『线路126』
+http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路126』
 #EXTINF:-1 tvg-id="127" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路127』
+http://39.135.133.155:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$LR•263•IPV4『线路127』
 #EXTINF:-1 tvg-id="128" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://180.141.133.145:4200/udp/239.81.0.115:4056$LR•262•IPV4『线路128』
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路128』
 #EXTINF:-1 tvg-id="129" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://220.166.250.165:4022/udp/239.93.1.23:6000$LR•262•IPV4『线路129』
+http://180.141.133.145:4200/udp/239.81.0.115:4056$LR•263•IPV4『线路129』
 #EXTINF:-1 tvg-id="130" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://125.46.133.183:9999/rtp/225.1.4.74:1103$LR•262•IPV4『线路130』
+http://220.166.250.165:4022/udp/239.93.1.23:6000$LR•263•IPV4『线路130』
 #EXTINF:-1 tvg-id="131" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://122.234.254.49:4000/udp/233.50.201.119:5140$LR•262•IPV4『线路131』
+http://125.46.133.183:9999/rtp/225.1.4.74:1103$LR•263•IPV4『线路131』
 #EXTINF:-1 tvg-id="132" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://116.117.107.53:8096/tsfile/live/0002_1.m3u8$LR•262•IPV4『线路132』
+http://122.234.254.49:4000/udp/233.50.201.119:5140$LR•263•IPV4『线路132』
 #EXTINF:-1 tvg-id="133" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路133』
+http://116.117.107.53:8096/tsfile/live/0002_1.m3u8$LR•263•IPV4『线路133』
 #EXTINF:-1 tvg-id="134" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://171.213.207.119:5555/udp/239.93.1.23:6000$LR•262•IPV4『线路134』
+http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路134』
 #EXTINF:-1 tvg-id="135" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•262•IPV4『线路135』
+http://171.213.207.119:5555/udp/239.93.1.23:6000$LR•263•IPV4『线路135』
 #EXTINF:-1 tvg-id="136" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•262•IPV4『线路136』
+http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•263•IPV4『线路136』
 #EXTINF:-1 tvg-id="137" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://183.158.25.53:4022/rtp/233.50.201.119:5140$LR•262•IPV4『线路137』
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$LR•263•IPV4『线路137』
 #EXTINF:-1 tvg-id="138" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://bjlive.outside.live.pthv.gitv.tv/live/CCTV2hd-8M/live.m3u8$LR•262•IPV4『线路138』
+http://183.158.25.53:4022/rtp/233.50.201.119:5140$LR•263•IPV4『线路138』
 #EXTINF:-1 tvg-id="139" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://119.163.199.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路139』
+http://bjlive.outside.live.pthv.gitv.tv/live/CCTV2hd-8M/live.m3u8$LR•263•IPV4『线路139』
 #EXTINF:-1 tvg-id="140" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路140』
+http://119.163.199.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路140』
 #EXTINF:-1 tvg-id="141" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.zz49.top:4022/udp/239.77.1.158:5146$LR•262•IPV4『线路141』
+http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路141』
 #EXTINF:-1 tvg-id="142" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://49.76.53.232:4000/rtp/239.49.8.130:6000$LR•262•IPV4『线路142』
+http://www.zz49.top:4022/udp/239.77.1.158:5146$LR•263•IPV4『线路142』
 #EXTINF:-1 tvg-id="143" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://jump.taoiptv.cn/iptv2.php?id=100105&num=2&sign=fk3aks$LR•262•IPV4『线路143』
+http://49.76.53.232:4000/rtp/239.49.8.130:6000$LR•263•IPV4『线路143』
 #EXTINF:-1 tvg-id="144" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250$LR•262•IPV4『线路144』
+https://jump.taoiptv.cn/iptv2.php?id=100105&num=2&sign=fk3aks$LR•263•IPV4『线路144』
 #EXTINF:-1 tvg-id="145" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://121.224.50.39:5555/rtp/239.49.8.50:9802$LR•262•IPV4『线路145』
+http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250$LR•263•IPV4『线路145』
 #EXTINF:-1 tvg-id="146" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://119.164.81.193:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路146』
+http://121.224.50.39:5555/rtp/239.49.8.50:9802$LR•263•IPV4『线路146』
 #EXTINF:-1 tvg-id="147" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路147』
+http://119.164.81.193:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路147』
 #EXTINF:-1 tvg-id="148" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路148』
+http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路148』
 #EXTINF:-1 tvg-id="149" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=ugxuj7$LR•262•IPV4『线路149』
+http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路149』
 #EXTINF:-1 tvg-id="150" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$LR•262•IPV4『线路150』
+http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=ugxuj7$LR•263•IPV4『线路150』
 #EXTINF:-1 tvg-id="151" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://125.123.147.237:8888/udp/233.50.200.25:5140$LR•262•IPV4『线路151』
+http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?$LR•263•IPV4『线路151』
 #EXTINF:-1 tvg-id="152" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://202.100.46.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路152』
+http://125.123.147.237:8888/udp/233.50.200.25:5140$LR•263•IPV4『线路152』
 #EXTINF:-1 tvg-id="153" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://202.103.213.43:8888/udp/239.81.0.115:4056$LR•262•IPV4『线路153』
+http://202.100.46.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路153』
 #EXTINF:-1 tvg-id="154" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://120.234.5.29:6000/udp/239.20.0.197:2192$LR•262•IPV4『线路154』
+http://202.103.213.43:8888/udp/239.81.0.115:4056$LR•263•IPV4『线路154』
 #EXTINF:-1 tvg-id="155" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://183.191.180.63:8002/rtp/226.0.2.154:9144$LR•262•IPV4『线路155』
+http://120.234.5.29:6000/udp/239.20.0.197:2192$LR•263•IPV4『线路155』
 #EXTINF:-1 tvg-id="156" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路156』
+http://183.191.180.63:8002/rtp/226.0.2.154:9144$LR•263•IPV4『线路156』
 #EXTINF:-1 tvg-id="157" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.167.49.238:5002/udp/225.1.1.133:5002$LR•262•IPV4『线路157』
+http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路157』
 #EXTINF:-1 tvg-id="158" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://218.78.180.91:9999/rtp/239.45.1.109:5140$LR•262•IPV4『线路158』
+http://111.167.49.238:5002/udp/225.1.1.133:5002$LR•263•IPV4『线路158』
 #EXTINF:-1 tvg-id="159" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://116.128.224.11:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•262•IPV4『线路159』
+http://218.78.180.91:9999/rtp/239.45.1.109:5140$LR•263•IPV4『线路159』
 #EXTINF:-1 tvg-id="160" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://121.24.98.230:8090/hls/10/index.m3u8$LR•262•IPV4『线路160』
+http://116.128.224.11:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•263•IPV4『线路160』
 #EXTINF:-1 tvg-id="161" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1b6467f415.iok.la:9931/tsfile/live/1021_1.m3u8$LR•262•IPV4『线路161』
+http://121.24.98.230:8090/hls/10/index.m3u8$LR•263•IPV4『线路161』
 #EXTINF:-1 tvg-id="162" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://iptvcyp.top:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路162』
+http://1b6467f415.iok.la:9931/tsfile/live/1021_1.m3u8$LR•263•IPV4『线路162』
 #EXTINF:-1 tvg-id="163" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$LR•262•IPV4『线路163』
+http://iptvcyp.top:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路163』
 #EXTINF:-1 tvg-id="164" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://116.179.149.222:6001/rtp/226.0.2.154:9144$LR•262•IPV4『线路164』
+http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$LR•263•IPV4『线路164』
 #EXTINF:-1 tvg-id="165" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://117.114.153.26:8180/TV00000000000000000140@HHZT$LR•262•IPV4『线路165』
+http://116.179.149.222:6001/rtp/226.0.2.154:9144$LR•263•IPV4『线路165』
 #EXTINF:-1 tvg-id="166" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://dms.yryyj.site:8188/udp/239.76.246.152:1234$LR•262•IPV4『线路166』
+http://117.114.153.26:8180/TV00000000000000000140@HHZT$LR•263•IPV4『线路166』
 #EXTINF:-1 tvg-id="167" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://121.24.98.127:8090/hls/10/index.m3u8$LR•262•IPV4『线路167』
+http://dms.yryyj.site:8188/udp/239.76.246.152:1234$LR•263•IPV4『线路167』
 #EXTINF:-1 tvg-id="168" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.129.70.178:9901/tsfile/live/0002_1.m3u8$LR•262•IPV4『线路168』
+http://121.24.98.127:8090/hls/10/index.m3u8$LR•263•IPV4『线路168』
 #EXTINF:-1 tvg-id="169" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.72444165.xyz:5005/itv/ystenlive/1000000001000023315$LR•262•IPV4『线路169』
+http://123.129.70.178:9901/tsfile/live/0002_1.m3u8$LR•263•IPV4『线路169』
 #EXTINF:-1 tvg-id="170" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://118.81.167.252:8084/rtp/226.0.2.154:9144$LR•262•IPV4『线路170』
+http://www.72444165.xyz:5005/itv/ystenlive/1000000001000023315$LR•263•IPV4『线路170』
 #EXTINF:-1 tvg-id="171" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.zz49.top:4022/udp/239.253.43.17:5146$LR•262•IPV4『线路171』
+http://118.81.167.252:8084/rtp/226.0.2.154:9144$LR•263•IPV4『线路171』
 #EXTINF:-1 tvg-id="172" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.122.162.250:19999/rtp/239.3.1.2:8004$LR•262•IPV4『线路172』
+http://www.zz49.top:4022/udp/239.253.43.17:5146$LR•263•IPV4『线路172』
 #EXTINF:-1 tvg-id="173" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://211.158.154.60:8004/udp/225.0.4.132:7980$LR•262•IPV4『线路173』
+http://123.122.162.250:19999/rtp/239.3.1.2:8004$LR•263•IPV4『线路173』
 #EXTINF:-1 tvg-id="174" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8$LR•262•IPV4『线路174』
+http://211.158.154.60:8004/udp/225.0.4.132:7980$LR•263•IPV4『线路174』
 #EXTINF:-1 tvg-id="175" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://183.24.48.6:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路175』
+http://1.82.215.141:80/xjbuv52-zp.live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8$LR•263•IPV4『线路175』
 #EXTINF:-1 tvg-id="176" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://101.43.66.162/migunew.php?id=cctv2$LR•262•IPV4『线路176』
+http://183.24.48.6:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路176』
 #EXTINF:-1 tvg-id="177" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://rihou.cc:567/dd.php?id=cctv2$LR•262•IPV4『线路177』
+http://101.43.66.162/migunew.php?id=cctv2$LR•263•IPV4『线路177』
 #EXTINF:-1 tvg-id="178" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.253.253.223:4022/rtp/239.3.1.60:8084$LR•262•IPV4『线路178』
+http://rihou.cc:567/dd.php?id=cctv2$LR•263•IPV4『线路178』
 #EXTINF:-1 tvg-id="179" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://218.3.138.25:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路179』
+http://114.253.253.223:4022/rtp/239.3.1.60:8084$LR•263•IPV4『线路179』
 #EXTINF:-1 tvg-id="180" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.182.60.29:9002/hls/2/index.m3u8$LR•262•IPV4『线路180』
+http://218.3.138.25:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路180』
 #EXTINF:-1 tvg-id="181" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.10.24.65:8083/udp/239.1.1.8:8008$LR•262•IPV4『线路181』
+http://123.182.60.29:9002/hls/2/index.m3u8$LR•263•IPV4『线路181』
 #EXTINF:-1 tvg-id="182" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://101.237.129.77/live/mg.php?id=c3v4b5n6$LR•262•IPV4『线路182』
+http://223.10.24.65:8083/udp/239.1.1.8:8008$LR•263•IPV4『线路182』
 #EXTINF:-1 tvg-id="183" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?$LR•262•IPV4『线路183』
+http://101.237.129.77/live/mg.php?id=c3v4b5n6$LR•263•IPV4『线路183』
 #EXTINF:-1 tvg-id="184" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://60.4.9.40:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路184』
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?$LR•263•IPV4『线路184』
 #EXTINF:-1 tvg-id="185" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://113.100.72.190:8899/udp/239.77.1.158:5146$LR•262•IPV4『线路185』
+http://60.4.9.40:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路185』
 #EXTINF:-1 tvg-id="186" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1732e975z9.zicp.fun:8082/hls/2/index.m3u8$LR•262•IPV4『线路186』
+http://113.100.72.190:8899/udp/239.77.1.158:5146$LR•263•IPV4『线路186』
 #EXTINF:-1 tvg-id="187" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.10.39.207:8082/rtp/239.1.1.8:8008$LR•262•IPV4『线路187』
+http://1732e975z9.zicp.fun:8082/hls/2/index.m3u8$LR•263•IPV4『线路187』
 #EXTINF:-1 tvg-id="188" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://wouu.net:9977/udp/239.93.1.23:6000$LR•262•IPV4『线路188』
+http://223.10.39.207:8082/rtp/239.1.1.8:8008$LR•263•IPV4『线路188』
 #EXTINF:-1 tvg-id="189" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.113.183.117:9000/rtp/239.3.1.2:8004$LR•262•IPV4『线路189』
+http://wouu.net:9977/udp/239.93.1.23:6000$LR•263•IPV4『线路189』
 #EXTINF:-1 tvg-id="190" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://58.216.229.130:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路190』
+http://123.113.183.117:9000/rtp/239.3.1.2:8004$LR•263•IPV4『线路190』
 #EXTINF:-1 tvg-id="191" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://121.231.68.132:8095/rtp/239.49.8.50:9802$LR•262•IPV4『线路191』
+http://58.216.229.130:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路191』
 #EXTINF:-1 tvg-id="192" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://58.57.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路192』
+http://121.231.68.132:8095/rtp/239.49.8.50:9802$LR•263•IPV4『线路192』
 #EXTINF:-1 tvg-id="193" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路193』
+http://58.57.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路193』
 #EXTINF:-1 tvg-id="194" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://211.158.99.249:8005/udp/225.0.4.132:7980$LR•262•IPV4『线路194』
+http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路194』
 #EXTINF:-1 tvg-id="195" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.10.21.36:8083/udp/239.1.1.8:8008$LR•262•IPV4『线路195』
+http://211.158.99.249:8005/udp/225.0.4.132:7980$LR•263•IPV4『线路195』
 #EXTINF:-1 tvg-id="196" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cctv2$LR•262•IPV4『线路196』
+http://223.10.21.36:8083/udp/239.1.1.8:8008$LR•263•IPV4『线路196』
 #EXTINF:-1 tvg-id="197" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.253.253.97:4001/rtp/239.3.1.60:8084$LR•262•IPV4『线路197』
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cctv2$LR•263•IPV4『线路197』
 #EXTINF:-1 tvg-id="198" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://221.221.153.193:8888/rtp/239.3.1.60:8084$LR•262•IPV4『线路198』
+http://114.253.253.97:4001/rtp/239.3.1.60:8084$LR•263•IPV4『线路198』
 #EXTINF:-1 tvg-id="199" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://113.57.20.158:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路199』
+http://221.221.153.193:8888/rtp/239.3.1.60:8084$LR•263•IPV4『线路199』
 #EXTINF:-1 tvg-id="200" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.112.240.21:5555/rtp/239.3.1.60:8084$LR•262•IPV4『线路200』
+http://113.57.20.158:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路200』
 #EXTINF:-1 tvg-id="201" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://124.128.73.58:9901/tsfile/live/0002_1.m3u8$LR•262•IPV4『线路201』
+http://123.112.240.21:5555/rtp/239.3.1.60:8084$LR•263•IPV4『线路201』
 #EXTINF:-1 tvg-id="202" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://211.158.152.144:8001/udp/225.0.4.132:7980$LR•262•IPV4『线路202』
+http://124.128.73.58:9901/tsfile/live/0002_1.m3u8$LR•263•IPV4『线路202』
 #EXTINF:-1 tvg-id="203" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://139.196.151.191:2051/rtp/239.45.1.109:5140$LR•262•IPV4『线路203』
+http://211.158.152.144:8001/udp/225.0.4.132:7980$LR•263•IPV4『线路203』
 #EXTINF:-1 tvg-id="204" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://222.128.183.216:8383/rtp/239.3.1.60:8084$LR•262•IPV4『线路204』
+http://139.196.151.191:2051/rtp/239.45.1.109:5140$LR•263•IPV4『线路204』
 #EXTINF:-1 tvg-id="205" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://202.103.213.43:8888/udp/239.81.0.14:4056$LR•262•IPV4『线路205』
+http://222.128.183.216:8383/rtp/239.3.1.60:8084$LR•263•IPV4『线路205』
 #EXTINF:-1 tvg-id="206" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.129.70.178:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路206』
+http://202.103.213.43:8888/udp/239.81.0.14:4056$LR•263•IPV4『线路206』
 #EXTINF:-1 tvg-id="207" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://720520.xyz:13579/rtp/225.1.4.74:1103?Cf=cfss.cc$LR•262•IPV4『线路207』
+http://123.129.70.178:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路207』
 #EXTINF:-1 tvg-id="208" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.144.180.82:55555/udp/225.0.4.132:7980$LR•262•IPV4『线路208』
+http://720520.xyz:13579/rtp/225.1.4.74:1103?Cf=cfss.cc$LR•263•IPV4『线路208』
 #EXTINF:-1 tvg-id="209" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502$LR•262•IPV4『线路209』
+http://123.144.180.82:55555/udp/225.0.4.132:7980$LR•263•IPV4『线路209』
 #EXTINF:-1 tvg-id="210" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://58.219.172.201:10001/rtp/239.49.8.50:9802$LR•262•IPV4『线路210』
+http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502$LR•263•IPV4『线路210』
 #EXTINF:-1 tvg-id="211" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://36.135.52.57:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路211』
+http://58.219.172.201:10001/rtp/239.49.8.50:9802$LR•263•IPV4『线路211』
 #EXTINF:-1 tvg-id="212" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://jump.taoiptv.cn/iptv3.php?id=100105&num=3&sign=fk3aks$LR•262•IPV4『线路212』
+http://36.135.52.57:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路212』
 #EXTINF:-1 tvg-id="213" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.196.132.49:20000/rtp/239.3.1.60:8084$LR•262•IPV4『线路213』
+https://jump.taoiptv.cn/iptv3.php?id=100105&num=3&sign=fk3aks$LR•263•IPV4『线路213』
 #EXTINF:-1 tvg-id="214" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://175.0.32.62:8081/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路214』
+http://111.196.132.49:20000/rtp/239.3.1.60:8084$LR•263•IPV4『线路214』
 #EXTINF:-1 tvg-id="215" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://27.11.63.23:8006/udp/225.0.4.132:7980$LR•262•IPV4『线路215』
+http://175.0.32.62:8081/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路215』
 #EXTINF:-1 tvg-id="216" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1.82.144.44:4022/rtp/239.112.205.78:5140$LR•262•IPV4『线路216』
+http://27.11.63.23:8006/udp/225.0.4.132:7980$LR•263•IPV4『线路216』
 #EXTINF:-1 tvg-id="217" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://211.158.152.144:8004/udp/225.0.4.132:7980$LR•262•IPV4『线路217』
+http://1.82.144.44:4022/rtp/239.112.205.78:5140$LR•263•IPV4『线路217』
 #EXTINF:-1 tvg-id="218" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.113.183.117:9000/rtp/239.3.1.60:8084$LR•262•IPV4『线路218』
+http://211.158.152.144:8004/udp/225.0.4.132:7980$LR•263•IPV4『线路218』
 #EXTINF:-1 tvg-id="219" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://115.171.80.169:8888/udp/225.1.8.2:8084$LR•262•IPV4『线路219』
+http://123.113.183.117:9000/rtp/239.3.1.60:8084$LR•263•IPV4『线路219』
 #EXTINF:-1 tvg-id="220" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://113.120.46.204:8123/udp/239.21.1.2:5002$LR•262•IPV4『线路220』
+http://115.171.80.169:8888/udp/225.1.8.2:8084$LR•263•IPV4『线路220』
 #EXTINF:-1 tvg-id="221" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路221』
+http://113.120.46.204:8123/udp/239.21.1.2:5002$LR•263•IPV4『线路221』
 #EXTINF:-1 tvg-id="222" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://14.117.233.162:9000/udp/239.77.1.158:5146$LR•262•IPV4『线路222』
+http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路222』
 #EXTINF:-1 tvg-id="223" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://58.51.111.46:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路223』
+http://14.117.233.162:9000/udp/239.77.1.158:5146$LR•263•IPV4『线路223』
 #EXTINF:-1 tvg-id="224" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://27.184.66.142:1024/rtp/239.254.200.158:6000$LR•262•IPV4『线路224』
+http://58.51.111.46:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路224』
 #EXTINF:-1 tvg-id="225" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://117.72.68.25:9930/migu.php?id=cctv2$LR•262•IPV4『线路225』
+http://27.184.66.142:1024/rtp/239.254.200.158:6000$LR•263•IPV4『线路225』
 #EXTINF:-1 tvg-id="226" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.113.237.160:8888/rtp/239.3.1.60:8084$LR•262•IPV4『线路226』
+http://117.72.68.25:9930/migu.php?id=cctv2$LR•263•IPV4『线路226』
 #EXTINF:-1 tvg-id="227" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.193.225.167:8888/rtp/239.3.1.60:8084$LR•262•IPV4『线路227』
+http://123.113.237.160:8888/rtp/239.3.1.60:8084$LR•263•IPV4『线路227』
 #EXTINF:-1 tvg-id="228" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://117.114.153.18:8180/TV00000000000000000140@HHZT$LR•262•IPV4『线路228』
+http://111.193.225.167:8888/rtp/239.3.1.60:8084$LR•263•IPV4『线路228』
 #EXTINF:-1 tvg-id="229" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$LR•262•IPV4『线路229』
+http://117.114.153.18:8180/TV00000000000000000140@HHZT$LR•263•IPV4『线路229』
 #EXTINF:-1 tvg-id="230" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398.m3u8&sign=06zcwd$LR•262•IPV4『线路230』
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$LR•263•IPV4『线路230』
 #EXTINF:-1 tvg-id="231" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://125.46.132.151:9999/rtp/225.1.4.74:1103$LR•262•IPV4『线路231』
+https://vip.taoiptv.cn/source/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398.m3u8&sign=06zcwd$LR•263•IPV4『线路231』
 #EXTINF:-1 tvg-id="232" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.dsmcloud.top:8888/udp/239.81.1.3:4056$LR•262•IPV4『线路232』
+http://125.46.132.151:9999/rtp/225.1.4.74:1103$LR•263•IPV4『线路232』
 #EXTINF:-1 tvg-id="233" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://111.123.105.133:8881/rtp/238.255.2.11:5999$LR•262•IPV4『线路233』
+http://www.dsmcloud.top:8888/udp/239.81.1.3:4056$LR•263•IPV4『线路233』
 #EXTINF:-1 tvg-id="234" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://27.10.75.55:8003/udp/225.0.4.132:7980$LR•262•IPV4『线路234』
+http://111.123.105.133:8881/rtp/238.255.2.11:5999$LR•263•IPV4『线路234』
 #EXTINF:-1 tvg-id="235" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://222.209.49.12:8088/rtp/239.93.1.23:6000$LR•262•IPV4『线路235』
+http://27.10.75.55:8003/udp/225.0.4.132:7980$LR•263•IPV4『线路235』
 #EXTINF:-1 tvg-id="236" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://61.163.181.78:9901/tsfile/live/0002_1.m3u8$LR•262•IPV4『线路236』
+http://222.209.49.12:8088/rtp/239.93.1.23:6000$LR•263•IPV4『线路236』
 #EXTINF:-1 tvg-id="237" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1.70.35.224:8083/rtp/239.1.1.8:8008$LR•262•IPV4『线路237』
+http://61.163.181.78:9901/tsfile/live/0002_1.m3u8$LR•263•IPV4『线路237』
 #EXTINF:-1 tvg-id="238" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://123.122.162.250:19999/rtp/239.3.1.60:8084$LR•262•IPV4『线路238』
+http://1.70.35.224:8083/rtp/239.1.1.8:8008$LR•263•IPV4『线路238』
 #EXTINF:-1 tvg-id="239" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://223.107.105.100:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•262•IPV4『线路239』
+http://123.122.162.250:19999/rtp/239.3.1.60:8084$LR•263•IPV4『线路239』
 #EXTINF:-1 tvg-id="240" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.dsmcloud.top:8888/udp/239.81.0.115:4056$LR•262•IPV4『线路240』
+http://223.107.105.100:9901/tsfile/live/0002_1.m3u8?key=txiptv$LR•263•IPV4『线路240』
 #EXTINF:-1 tvg-id="241" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=fk3aks$LR•262•IPV4『线路241』
+http://www.dsmcloud.top:8888/udp/239.81.0.115:4056$LR•263•IPV4『线路241』
 #EXTINF:-1 tvg-id="242" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•262•IPV4『线路242』
+http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=fk3aks$LR•263•IPV4『线路242』
 #EXTINF:-1 tvg-id="243" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://114.254.86.122:2222/rtp/239.3.1.60:8084$LR•262•IPV4『线路243』
+http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$LR•263•IPV4『线路243』
 #EXTINF:-1 tvg-id="244" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://180.188.45.80:1665/migu.php?id=cctv2$LR•262•IPV4『线路244』
+http://114.254.86.122:2222/rtp/239.3.1.60:8084$LR•263•IPV4『线路244』
 #EXTINF:-1 tvg-id="245" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://1.82.70.88:8021/rtp/239.112.205.78:5140$LR•262•IPV4『线路245』
+http://180.188.45.80:1665/migu.php?id=cctv2$LR•263•IPV4『线路245』
 #EXTINF:-1 tvg-id="246" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://60.12.183.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•262•IPV4『线路246』
+http://1.82.70.88:8021/rtp/239.112.205.78:5140$LR•263•IPV4『线路246』
 #EXTINF:-1 tvg-id="247" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://125.113.131.173:8888/udp/233.50.201.119:5140$LR•262•IPV4『线路247』
+http://60.12.183.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$LR•263•IPV4『线路247』
 #EXTINF:-1 tvg-id="248" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$LR•262•IPV4『线路248』
+http://125.113.131.173:8888/udp/233.50.201.119:5140$LR•263•IPV4『线路248』
 #EXTINF:-1 tvg-id="249" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://122.234.254.49:4000/udp/233.50.200.25:5140$LR•262•IPV4『线路249』
+https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=06zcwd$LR•263•IPV4『线路249』
 #EXTINF:-1 tvg-id="250" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://112.234.23.81:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路250』
+http://122.234.254.49:4000/udp/233.50.200.25:5140$LR•263•IPV4『线路250』
 #EXTINF:-1 tvg-id="251" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://www.zz49.top:4022/udp/239.77.0.137:5146$LR•262•IPV4『线路251』
+http://112.234.23.81:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路251』
 #EXTINF:-1 tvg-id="252" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://115.171.80.169:8888/udp/225.1.8.102:8004$LR•262•IPV4『线路252』
+http://www.zz49.top:4022/udp/239.77.0.137:5146$LR•263•IPV4『线路252』
 #EXTINF:-1 tvg-id="253" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://221.0.78.198:1681/hls/10202/index.m3u8$LR•262•IPV4『线路253』
+http://115.171.80.169:8888/udp/225.1.8.102:8004$LR•263•IPV4『线路253』
 #EXTINF:-1 tvg-id="254" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8$LR•262•IPV4『线路254』
+http://221.0.78.198:1681/hls/10202/index.m3u8$LR•263•IPV4『线路254』
 #EXTINF:-1 tvg-id="255" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://58.57.21.166:9901/tsfile/live/0002_1.m3u8$LR•262•IPV4『线路255』
+http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8$LR•263•IPV4『线路255』
 #EXTINF:-1 tvg-id="256" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路256』
+http://58.57.21.166:9901/tsfile/live/0002_1.m3u8$LR•263•IPV4『线路256』
 #EXTINF:-1 tvg-id="257" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://117.32.85.15:8021/rtp/239.112.205.78:5140$LR•262•IPV4『线路257』
+http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路257』
 #EXTINF:-1 tvg-id="258" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://60.26.62.138:4022/rtp/225.1.1.133:5002$LR•262•IPV4『线路258』
+http://117.32.85.15:8021/rtp/239.112.205.78:5140$LR•263•IPV4『线路258』
 #EXTINF:-1 tvg-id="259" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://47.102.200.34:18081/live/program/live/cctv2hd8m/8000000/mnf.m3u8$LR•262•IPV4『线路259』
+http://60.26.62.138:4022/rtp/225.1.1.133:5002$LR•263•IPV4『线路259』
 #EXTINF:-1 tvg-id="260" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://61.138.128.226:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•262•IPV4『线路260』
+http://47.102.200.34:18081/live/program/live/cctv2hd8m/8000000/mnf.m3u8$LR•263•IPV4『线路260』
 #EXTINF:-1 tvg-id="261" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-http://222.129.34.164:9001/rtp/239.3.1.60:8084$LR•262•IPV4『线路261』
+http://61.138.128.226:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•263•IPV4『线路261』
 #EXTINF:-1 tvg-id="262" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
-https://vip.taoiptv.cn/source/gitv.php?id=CCTV2hd-8M.m3u8&sign=06zcwd$LR•262•IPV4『线路262』
+http://222.129.34.164:9001/rtp/239.3.1.60:8084$LR•263•IPV4『线路262』
+#EXTINF:-1 tvg-id="263" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2财经.png" group-title="央视频道",CCTV2财经
+https://vip.taoiptv.cn/source/gitv.php?id=CCTV2hd-8M.m3u8&sign=06zcwd$LR•263•IPV4『线路263』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路2』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路3』
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8$LR•255•IPV6『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8$LR•255•IPV6『线路4』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8$LR•255•IPV6『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8$LR•255•IPV6『线路5』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226021/2.m3u8$LR•255•IPV6『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226021/2.m3u8$LR•255•IPV6『线路6』
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路7』
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/$LR•255•IPV6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/$LR•255•IPV6『线路8』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/$LR•255•IPV6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/$LR•255•IPV6『线路9』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8?$LR•255•IPV6『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8?$LR•255•IPV6『线路10』
+http://[2409:8087:74d9:21::6]/270000001128/9900000003/index.m3u8$LR•255•IPV6『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:74d9:21::6]/270000001128/9900000003/index.m3u8$LR•255•IPV6『线路11』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8$LR•255•IPV6『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8$LR•255•IPV6『线路12』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路13』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8?$LR•255•IPV6『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8?$LR•255•IPV6『线路14』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$LR•255•IPV6『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$LR•255•IPV6『线路15』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/index.m3u8$LR•255•IPV6『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/index.m3u8$LR•255•IPV6『线路16』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•255•IPV6『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•255•IPV6『线路17』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路18』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$LR•255•IPV6『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3综艺.png" group-title="央视频道",CCTV3综艺
@@ -18410,255 +18412,249 @@ http://180.158.130.39:1024/udp/239.45.1.213:5140$LR•105•IPV4『线路104』
 #EXTINF:-1 tvg-id="105" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://223.10.39.207:8082/rtp/239.1.1.56:8056$LR•105•IPV4『线路105』
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8$LR•125•IPV6『线路1』
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8$LR•122•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$LR•125•IPV6『线路2』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8$LR•122•IPV6『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8$LR•125•IPV6『线路3』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040015/1.m3u8$LR•122•IPV6『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226323/2.m3u8$LR•125•IPV6『线路4』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8$LR•122•IPV6『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$LR•125•IPV6『线路5』
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$LR•122•IPV6『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226545/index.m3u8$LR•125•IPV6『线路6』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226323/2.m3u8$LR•122•IPV6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226545/index.m3u8$LR•125•IPV6『线路7』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$LR•122•IPV6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8$LR•125•IPV6『线路8』
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226545/index.m3u8$LR•122•IPV6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000546$LR•125•IPV6『线路9』
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226545/index.m3u8$LR•122•IPV6『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8$LR•125•IPV6『线路10』
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000546$LR•122•IPV6『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/index.m3u8$LR•125•IPV6『线路11』
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8$LR•122•IPV6『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:74f0:22::5]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000042$LR•125•IPV6『线路12』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/index.m3u8$LR•122•IPV6『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226323/index.m3u8$LR•125•IPV6『线路13』
+http://[2409:8087:74f0:22::5]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000042$LR•122•IPV6『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:74d9:21::6]/270000001128/9900000042/index.m3u8$LR•125•IPV6『线路14』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226323/index.m3u8$LR•122•IPV6『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8?$LR•125•IPV6『线路15』
+http://[2409:8087:74d9:21::6]/270000001128/9900000042/index.m3u8$LR•122•IPV6『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://stream.qhbtv.com/qhws/playlist.m3u8$LR•125•IPV4『线路16』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8?$LR•122•IPV6『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=e2bbe63d1714196546$LR•125•IPV4『线路17』
+http://stream.qhbtv.com/qhws/playlist.m3u8$LR•122•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484$LR•125•IPV4『线路18』
+http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3$LR•122•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8$LR•125•IPV4『线路19』
+https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=h51x7y$LR•122•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030$LR•125•IPV4『线路20』
+https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=h51x7y$LR•122•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=h51x7y$LR•125•IPV4『线路21』
+http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=h51x7y$LR•122•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=h51x7y$LR•125•IPV4『线路22』
+http://222.134.245.16:9901/tsfile/live/0140_1.m3u8$LR•122•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=h51x7y$LR•125•IPV4『线路23』
+http://119.163.199.98:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://222.134.245.16:9901/tsfile/live/0140_1.m3u8$LR•125•IPV4『线路24』
+http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8$LR•122•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://119.163.199.98:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路25』
+http://1.180.2.93:9901/tsfile/live/0140_1.m3u8$LR•122•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8$LR•125•IPV4『线路26』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$LR•122•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://1.180.2.93:9901/tsfile/live/0140_1.m3u8$LR•125•IPV4『线路27』
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000013359/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000013359$LR•122•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$LR•125•IPV4『线路28』
+http://61.190.129.195:8688/rtp/238.1.78.102:6688$LR•122•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000013359/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000013359$LR•125•IPV4『线路29』
+http://neucn.asuscomm.cn:23234/rtp/239.3.1.44:8184$LR•122•IPV4『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://61.190.129.195:8688/rtp/238.1.78.102:6688$LR•125•IPV4『线路30』
+http://180.158.164.233:8888/udp/239.45.0.37:5140$LR•122•IPV4『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://neucn.asuscomm.cn:23234/rtp/239.3.1.44:8184$LR•125•IPV4『线路31』
+http://180.158.191.162:9999/udp/239.45.0.37:5140$LR•122•IPV4『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://180.158.164.233:8888/udp/239.45.0.37:5140$LR•125•IPV4『线路32』
+http://114.243.97.208:8822/rtp/239.3.1.44:8184$LR•122•IPV4『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://180.158.191.162:9999/udp/239.45.0.37:5140$LR•125•IPV4『线路33』
+http://114.243.104.64:8822/rtp/239.3.1.44:8184$LR•122•IPV4『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://114.243.97.208:8822/rtp/239.3.1.44:8184$LR•125•IPV4『线路34』
+http://101.65.32.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0$LR•122•IPV4『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://114.243.104.64:8822/rtp/239.3.1.44:8184$LR•125•IPV4『线路35』
+http://111.61.236.247:9081/hls/49/index.m3u8$LR•122•IPV4『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://gslbservzqhsw.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3$LR•125•IPV4『线路36』
+https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=06zcwd$LR•122•IPV4『线路36』
 #EXTINF:-1 tvg-id="37" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://101.65.32.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0$LR•125•IPV4『线路37』
+http://117.27.190.42:9998/tsfile/live/23255_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路37』
 #EXTINF:-1 tvg-id="38" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://111.61.236.247:9081/hls/49/index.m3u8$LR•125•IPV4『线路38』
+http://49.76.53.232:4000/rtp/239.49.1.53:6000$LR•122•IPV4『线路38』
 #EXTINF:-1 tvg-id="39" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=06zcwd$LR•125•IPV4『线路39』
+http://36.35.16.98:9901/tsfile/live/0001_14.m3u8?key=txiptv&playlive=0&authid=0$LR•122•IPV4『线路39』
 #EXTINF:-1 tvg-id="40" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://117.27.190.42:9998/tsfile/live/23255_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路40』
+http://121.24.98.127:8090/hls/51/index.m3u8$LR•122•IPV4『线路40』
 #EXTINF:-1 tvg-id="41" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://49.76.53.232:4000/rtp/239.49.1.53:6000$LR•125•IPV4『线路41』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$LR•122•IPV4『线路41』
 #EXTINF:-1 tvg-id="42" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://36.35.16.98:9901/tsfile/live/0001_14.m3u8?key=txiptv&playlive=0&authid=0$LR•125•IPV4『线路42』
+http://beijinglive.online.domybox.com:91/live/QHWS-1500k/live.m3u8$LR•122•IPV4『线路42』
 #EXTINF:-1 tvg-id="43" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://121.24.98.127:8090/hls/51/index.m3u8$LR•125•IPV4『线路43』
+http://221.213.69.82:9901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0$LR•122•IPV4『线路43』
 #EXTINF:-1 tvg-id="44" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$LR•125•IPV4『线路44』
+http://61.157.139.15:9901/tsfile/live/2402_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路44』
 #EXTINF:-1 tvg-id="45" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://beijinglive.online.domybox.com:91/live/QHWS-1500k/live.m3u8$LR•125•IPV4『线路45』
+http://1.70.35.224:8083/rtp/239.1.1.53:8053$LR•122•IPV4『线路45』
 #EXTINF:-1 tvg-id="46" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://221.213.69.82:9901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0$LR•125•IPV4『线路46』
+http://118.81.167.252:8084/rtp/226.0.2.59:8384$LR•122•IPV4『线路46』
 #EXTINF:-1 tvg-id="47" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://61.157.139.15:9901/tsfile/live/2402_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路47』
+http://119.163.63.188:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路47』
 #EXTINF:-1 tvg-id="48" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://1.70.35.224:8083/rtp/239.1.1.53:8053$LR•125•IPV4『线路48』
+http://xgj.83mi.cn:7650/migu.php?token=djqjDOf4&id=qhws$LR•122•IPV4『线路48』
 #EXTINF:-1 tvg-id="49" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://118.81.167.252:8084/rtp/226.0.2.59:8384$LR•125•IPV4『线路49』
+http://223.107.105.100:9901/tsfile/live/0140_1.m3u8?key=txiptv$LR•122•IPV4『线路49』
 #EXTINF:-1 tvg-id="50" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://119.163.63.188:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路50』
+http://118.122.189.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路50』
 #EXTINF:-1 tvg-id="51" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://xgj.83mi.cn:7650/migu.php?token=djqjDOf4&id=qhws$LR•125•IPV4『线路51』
+http://www.72444165.xyz:5005/itv/ystenlive/1000000002000013359$LR•122•IPV4『线路51』
 #EXTINF:-1 tvg-id="52" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://223.107.105.100:9901/tsfile/live/0140_1.m3u8?key=txiptv$LR•125•IPV4『线路52』
+http://221.0.78.198:1681/hls/10252/index.m3u8$LR•122•IPV4『线路52』
 #EXTINF:-1 tvg-id="53" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://118.122.189.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路53』
+http://60.189.43.82:9999/rtp/233.50.201.65:5140$LR•122•IPV4『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://www.72444165.xyz:5005/itv/ystenlive/1000000002000013359$LR•125•IPV4『线路54』
+http://139.196.151.191:2051/rtp/239.45.1.230:5140$LR•122•IPV4『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://221.0.78.198:1681/hls/10252/index.m3u8$LR•125•IPV4『线路55』
+http://ygbh666.cn/aikmigu.php?id=qhws$LR•122•IPV4『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://60.189.43.82:9999/rtp/233.50.201.65:5140$LR•125•IPV4『线路56』
+http://49.76.53.232:4000/rtp/239.49.1.31:6000$LR•122•IPV4『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://139.196.151.191:2051/rtp/239.45.1.230:5140$LR•125•IPV4『线路57』
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3$LR•122•IPV4『线路57』
 #EXTINF:-1 tvg-id="58" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://ygbh666.cn/aikmigu.php?id=qhws$LR•125•IPV4『线路58』
+http://119.163.57.184:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路58』
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://49.76.53.232:4000/rtp/239.49.1.31:6000$LR•125•IPV4『线路59』
+http://183.158.25.53:4022/rtp/233.50.201.65:5140$LR•122•IPV4『线路59』
 #EXTINF:-1 tvg-id="60" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3$LR•125•IPV4『线路60』
+http://123.138.22.30:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路60』
 #EXTINF:-1 tvg-id="61" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://119.163.57.184:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路61』
+http://222.70.243.41:23456/udp/239.45.1.230:5140$LR•122•IPV4『线路61』
 #EXTINF:-1 tvg-id="62" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://183.158.25.53:4022/rtp/233.50.201.65:5140$LR•125•IPV4『线路62』
+http://111.193.225.167:8888/rtp/239.3.1.44:8184$LR•122•IPV4『线路62』
 #EXTINF:-1 tvg-id="63" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://123.138.22.30:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路63』
+https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=06zcwd$LR•122•IPV4『线路63』
 #EXTINF:-1 tvg-id="64" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://222.70.243.41:23456/udp/239.45.1.230:5140$LR•125•IPV4『线路64』
+http://60.26.62.138:4022/rtp/225.1.1.54:5002$LR•122•IPV4『线路64』
 #EXTINF:-1 tvg-id="65" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://111.193.225.167:8888/rtp/239.3.1.44:8184$LR•125•IPV4『线路65』
+http://111.167.65.196:4022/udp/225.1.1.54:5002$LR•122•IPV4『线路65』
 #EXTINF:-1 tvg-id="66" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=06zcwd$LR•125•IPV4『线路66』
+http://123.122.162.250:19999/rtp/239.3.1.44:8184$LR•122•IPV4『线路66』
 #EXTINF:-1 tvg-id="67" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://60.26.62.138:4022/rtp/225.1.1.54:5002$LR•125•IPV4『线路67』
+http://ttkx.live:55/lib/aikan.php?id=qhws$LR•122•IPV4『线路67』
 #EXTINF:-1 tvg-id="68" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://111.167.65.196:4022/udp/225.1.1.54:5002$LR•125•IPV4『线路68』
+http://222.134.245.16:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路68』
 #EXTINF:-1 tvg-id="69" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://123.122.162.250:19999/rtp/239.3.1.44:8184$LR•125•IPV4『线路69』
+http://119.135.1.234:6699/live/1039/index.m3u8$LR•122•IPV4『线路69』
 #EXTINF:-1 tvg-id="70" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://ttkx.live:55/lib/aikan.php?id=qhws$LR•125•IPV4『线路70』
+http://180.158.130.39:1024/udp/239.45.1.230:5140$LR•122•IPV4『线路70』
 #EXTINF:-1 tvg-id="71" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://222.134.245.16:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路71』
+http://58.57.21.166:9901/tsfile/live/0140_1.m3u8$LR•122•IPV4『线路71』
 #EXTINF:-1 tvg-id="72" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://119.135.1.234:6699/live/1039/index.m3u8$LR•125•IPV4『线路72』
+http://223.10.21.36:8083/udp/239.1.1.53:8053$LR•122•IPV4『线路72』
 #EXTINF:-1 tvg-id="73" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://180.158.130.39:1024/udp/239.45.1.230:5140$LR•125•IPV4『线路73』
+http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=ugxuj7$LR•122•IPV4『线路73』
 #EXTINF:-1 tvg-id="74" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://58.57.21.166:9901/tsfile/live/0140_1.m3u8$LR•125•IPV4『线路74』
+http://221.221.153.193:8888/rtp/239.3.1.44:8184$LR•122•IPV4『线路74』
 #EXTINF:-1 tvg-id="75" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://223.10.21.36:8083/udp/239.1.1.53:8053$LR•125•IPV4『线路75』
+http://124.128.73.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路75』
 #EXTINF:-1 tvg-id="76" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=ugxuj7$LR•125•IPV4『线路76』
+http://223.10.39.207:8082/rtp/239.1.1.53:8053$LR•122•IPV4『线路76』
 #EXTINF:-1 tvg-id="77" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://221.221.153.193:8888/rtp/239.3.1.44:8184$LR•125•IPV4『线路77』
+http://123.113.183.117:9000/rtp/239.3.1.44:8184$LR•122•IPV4『线路77』
 #EXTINF:-1 tvg-id="78" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://124.128.73.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路78』
+http://wouu.net:9977/udp/239.93.0.192:5140$LR•122•IPV4『线路78』
 #EXTINF:-1 tvg-id="79" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://223.10.39.207:8082/rtp/239.1.1.53:8053$LR•125•IPV4『线路79』
+http://223.10.24.65:8083/udp/239.1.1.53:8053$LR•122•IPV4『线路79』
 #EXTINF:-1 tvg-id="80" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://123.113.183.117:9000/rtp/239.3.1.44:8184$LR•125•IPV4『线路80』
+http://180.141.133.145:4200/udp/239.81.0.53:4056$LR•122•IPV4『线路80』
 #EXTINF:-1 tvg-id="81" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://wouu.net:9977/udp/239.93.0.192:5140$LR•125•IPV4『线路81』
+http://112.234.23.81:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路81』
 #EXTINF:-1 tvg-id="82" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://223.10.24.65:8083/udp/239.1.1.53:8053$LR•125•IPV4『线路82』
+http://202.100.46.58:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路82』
 #EXTINF:-1 tvg-id="83" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://180.141.133.145:4200/udp/239.81.0.53:4056$LR•125•IPV4『线路83』
+http://202.103.213.43:8888/udp/239.81.0.53:4056$LR•122•IPV4『线路83』
 #EXTINF:-1 tvg-id="84" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://112.234.23.81:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路84』
+http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路84』
 #EXTINF:-1 tvg-id="85" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://202.100.46.58:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路85』
+http://123.113.237.160:8888/rtp/239.3.1.44:8184$LR•122•IPV4『线路85』
 #EXTINF:-1 tvg-id="86" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://202.103.213.43:8888/udp/239.81.0.53:4056$LR•125•IPV4『线路86』
+http://111.123.105.133:8881/rtp/238.255.2.51:5999$LR•122•IPV4『线路86』
 #EXTINF:-1 tvg-id="87" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路87』
+http://117.72.68.25:9930/migu.php?id=qhws$LR•122•IPV4『线路87』
 #EXTINF:-1 tvg-id="88" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://123.113.237.160:8888/rtp/239.3.1.44:8184$LR•125•IPV4『线路88』
+https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=ugxuj7$LR•122•IPV4『线路88』
 #EXTINF:-1 tvg-id="89" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://111.123.105.133:8881/rtp/238.255.2.51:5999$LR•125•IPV4『线路89』
+http://222.129.34.164:9001/rtp/239.3.1.44:8184$LR•122•IPV4『线路89』
 #EXTINF:-1 tvg-id="90" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://117.72.68.25:9930/migu.php?id=qhws$LR•125•IPV4『线路90』
+http://116.226.30.31:4022/udp/239.45.1.230:5140$LR•122•IPV4『线路90』
 #EXTINF:-1 tvg-id="91" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=ugxuj7$LR•125•IPV4『线路91』
+http://220.164.192.48:50085/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0$LR•122•IPV4『线路91』
 #EXTINF:-1 tvg-id="92" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://222.129.34.164:9001/rtp/239.3.1.44:8184$LR•125•IPV4『线路92』
+http://123.112.240.21:5555/rtp/239.3.1.44:8184$LR•122•IPV4『线路92』
 #EXTINF:-1 tvg-id="93" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://116.226.30.31:4022/udp/239.45.1.230:5140$LR•125•IPV4『线路93』
+http://222.68.48.77:4022/rtp/239.45.1.230:5140$LR•122•IPV4『线路93』
 #EXTINF:-1 tvg-id="94" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://220.164.192.48:50085/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0$LR•125•IPV4『线路94』
+http://183.191.180.63:8002/rtp/226.0.2.59:8384$LR•122•IPV4『线路94』
 #EXTINF:-1 tvg-id="95" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://123.112.240.21:5555/rtp/239.3.1.44:8184$LR•125•IPV4『线路95』
+http://119.164.81.193:9901/tsfile/live/0140_1.m3u8?key=txiptv$LR•122•IPV4『线路95』
 #EXTINF:-1 tvg-id="96" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://222.68.48.77:4022/rtp/239.45.1.230:5140$LR•125•IPV4『线路96』
+http://110.53.218.182:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路96』
 #EXTINF:-1 tvg-id="97" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://183.191.180.63:8002/rtp/226.0.2.59:8384$LR•125•IPV4『线路97』
+http://58.57.21.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路97』
 #EXTINF:-1 tvg-id="98" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://119.164.81.193:9901/tsfile/live/0140_1.m3u8?key=txiptv$LR•125•IPV4『线路98』
+http://113.120.46.204:8123/udp/239.21.1.43:5002$LR•122•IPV4『线路98』
 #EXTINF:-1 tvg-id="99" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://110.53.218.182:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路99』
+http://117.114.153.18:8180/TV00000000000000000034@HHZT$LR•122•IPV4『线路99』
 #EXTINF:-1 tvg-id="100" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://58.57.21.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路100』
+http://1.82.144.44:4022/rtp/239.112.205.53:5140$LR•122•IPV4『线路100』
 #EXTINF:-1 tvg-id="101" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://113.120.46.204:8123/udp/239.21.1.43:5002$LR•125•IPV4『线路101』
+http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=06zcwd$LR•122•IPV4『线路101』
 #EXTINF:-1 tvg-id="102" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://117.114.153.18:8180/TV00000000000000000034@HHZT$LR•125•IPV4『线路102』
+http://rihou.cc:567/dd.php?id=qhws$LR•122•IPV4『线路102』
 #EXTINF:-1 tvg-id="103" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://1.82.144.44:4022/rtp/239.112.205.53:5140$LR•125•IPV4『线路103』
+http://101.81.119.90:8888/udp/239.45.1.230:5140$LR•122•IPV4『线路103』
 #EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://114.55.117.163:8081/iptv/itv.php?id=青海卫视.m3u8&sign=06zcwd$LR•125•IPV4『线路104』
+http://218.78.180.91:9999/rtp/239.45.1.230:5140$LR•122•IPV4『线路104』
 #EXTINF:-1 tvg-id="105" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://rihou.cc:567/dd.php?id=qhws$LR•125•IPV4『线路105』
+http://223.10.115.195:8082/rtp/239.1.1.53:8053$LR•122•IPV4『线路105』
 #EXTINF:-1 tvg-id="106" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://101.81.119.90:8888/udp/239.45.1.230:5140$LR•125•IPV4『线路106』
+http://115.171.80.169:8888/udp/225.1.8.157:8184$LR•122•IPV4『线路106』
 #EXTINF:-1 tvg-id="107" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://218.78.180.91:9999/rtp/239.45.1.230:5140$LR•125•IPV4『线路107』
+http://124.128.73.58:9901/tsfile/live/0140_1.m3u8$LR•122•IPV4『线路107』
 #EXTINF:-1 tvg-id="108" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://223.10.115.195:8082/rtp/239.1.1.53:8053$LR•125•IPV4『线路108』
+http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000042$LR•122•IPV4『线路108』
 #EXTINF:-1 tvg-id="109" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://115.171.80.169:8888/udp/225.1.8.157:8184$LR•125•IPV4『线路109』
+http://114.55.117.163:8081/iptv/jsyd.php?id=G_QINGHAI.m3u8&sign=fk3aks$LR•122•IPV4『线路109』
 #EXTINF:-1 tvg-id="110" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://124.128.73.58:9901/tsfile/live/0140_1.m3u8$LR•125•IPV4『线路110』
+http://110.178.77.222:8084/rtp/239.1.1.53:8053$LR•122•IPV4『线路110』
 #EXTINF:-1 tvg-id="111" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000042$LR•125•IPV4『线路111』
+http://115.171.216.56:4000/udp/225.1.8.157:8184$LR•122•IPV4『线路111』
 #EXTINF:-1 tvg-id="112" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://114.55.117.163:8081/iptv/jsyd.php?id=G_QINGHAI.m3u8&sign=fk3aks$LR•125•IPV4『线路112』
+http://113.57.20.158:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR•122•IPV4『线路112』
 #EXTINF:-1 tvg-id="113" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://110.178.77.222:8084/rtp/239.1.1.53:8053$LR•125•IPV4『线路113』
+http://111.167.49.238:5002/udp/225.1.1.54:5002$LR•122•IPV4『线路113』
 #EXTINF:-1 tvg-id="114" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://115.171.216.56:4000/udp/225.1.8.157:8184$LR•125•IPV4『线路114』
+http://27.184.66.142:1024/rtp/239.254.200.85:8184$LR•122•IPV4『线路114』
 #EXTINF:-1 tvg-id="115" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://113.57.20.158:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR•125•IPV4『线路115』
+http://144.123.220.44:80/wh7f454c46tw3668958560_-1590177523/2/00/CHANNEL00000042/2540800/1.m3u8$LR•122•IPV4『线路115』
 #EXTINF:-1 tvg-id="116" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://111.167.49.238:5002/udp/225.1.1.54:5002$LR•125•IPV4『线路116』
+http://114.253.253.97:4001/rtp/239.3.1.44:8184$LR•122•IPV4『线路116』
 #EXTINF:-1 tvg-id="117" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://27.184.66.142:1024/rtp/239.254.200.85:8184$LR•125•IPV4『线路117』
+http://117.32.85.15:8021/rtp/239.112.205.53:5140$LR•122•IPV4『线路117』
 #EXTINF:-1 tvg-id="118" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://144.123.220.44:80/wh7f454c46tw3668958560_-1590177523/2/00/CHANNEL00000042/2540800/1.m3u8$LR•125•IPV4『线路118』
+http://tvbox6.icu/tv/migu.php?id=qhws$LR•122•IPV4『线路118』
 #EXTINF:-1 tvg-id="119" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://114.253.253.97:4001/rtp/239.3.1.44:8184$LR•125•IPV4『线路119』
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.60:8354$LR•122•IPV4『线路119』
 #EXTINF:-1 tvg-id="120" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://117.32.85.15:8021/rtp/239.112.205.53:5140$LR•125•IPV4『线路120』
+http://180.188.45.80:1665/migu.php?id=qhws$LR•122•IPV4『线路120』
 #EXTINF:-1 tvg-id="121" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://tvbox6.icu/tv/migu.php?id=qhws$LR•125•IPV4『线路121』
+http://223.10.39.207:8083/rtp/239.1.1.53:8053$LR•122•IPV4『线路121』
 #EXTINF:-1 tvg-id="122" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://e1.woc.iiiya.cn:8888/rtp/239.61.2.60:8354$LR•125•IPV4『线路122』
-#EXTINF:-1 tvg-id="123" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://180.188.45.80:1665/migu.php?id=qhws$LR•125•IPV4『线路123』
-#EXTINF:-1 tvg-id="124" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://223.10.39.207:8083/rtp/239.1.1.53:8053$LR•125•IPV4『线路124』
-#EXTINF:-1 tvg-id="125" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://121.24.98.230:8090/hls/51/index.m3u8$LR•125•IPV4『线路125』
+http://121.24.98.230:8090/hls/51/index.m3u8$LR•122•IPV4『线路122』
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8$LR•198•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
@@ -24062,145 +24058,147 @@ https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-5.m3u8$LR•6•IPV4『�
 #EXTINF:-1 tvg-id="6" tvg-name="浙江钱江" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江钱江.png" group-title="浙江频道",浙江钱江
 http://61.163.58.195:1718/zhejiang.php?id=zjqj$LR•6•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$LR•70•IPV4『线路1』
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$LR•71•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8$LR•70•IPV4『线路2』
+http://pi.0472.org/tv/cbn.php?id=xfjcHD$LR•71•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•70•IPV4『线路3』
+https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8$LR•71•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$LR•70•IPV4『线路4』
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•71•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$LR•70•IPV4『线路5』
+http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$LR•71•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•70•IPV4『线路6』
+http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$LR•71•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhchinese5s.m3u8&sign=h51x7y$LR•70•IPV4『线路7』
+http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•71•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8?sign=h51x7y$LR•70•IPV4『线路8』
+https://vip.taoiptv.cn/source/jsyd.php?id=HD-10000k-1080P-fhchinese5s.m3u8&sign=h51x7y$LR•71•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$LR•70•IPV4『线路9』
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8?sign=h51x7y$LR•71•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://www.erbao1981.top:8188/udp/239.76.246.135:1234$LR•70•IPV4『线路10』
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$LR•71•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://122.224.232.226:8888/udp/233.50.200.191:5140$LR•70•IPV4『线路11』
+http://www.erbao1981.top:8188/udp/239.76.246.135:1234$LR•71•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://117.28.177.45:8605/rtp/239.61.2.183:9086$LR•70•IPV4『线路12』
+http://122.224.232.226:8888/udp/233.50.200.191:5140$LR•71•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://dms.yryyj.site:8188/udp/239.76.246.135:1234$LR•70•IPV4『线路13』
+http://117.28.177.45:8605/rtp/239.61.2.183:9086$LR•71•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://dms.yryyj.site:8188/udp/239.76.253.135:9000$LR•70•IPV4『线路14』
+http://dms.yryyj.site:8188/udp/239.76.246.135:1234$LR•71•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$LR•70•IPV4『线路15』
+http://dms.yryyj.site:8188/udp/239.76.253.135:9000$LR•71•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://ayolee.com:5253/udp/239.93.0.162:2192$LR•70•IPV4『线路16』
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$LR•71•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://ayolee.com:5253/udp/239.93.1.9:2192$LR•70•IPV4『线路17』
+http://ayolee.com:5253/udp/239.93.0.162:2192$LR•71•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://www.yao87.com:4022/udp/239.76.246.7:1234$LR•70•IPV4『线路18』
+http://ayolee.com:5253/udp/239.93.1.9:2192$LR•71•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$LR•70•IPV4『线路19』
+http://www.yao87.com:4022/udp/239.76.246.7:1234$LR•71•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$LR•70•IPV4『线路20』
+http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$LR•71•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://182.104.192.98:8180/TV00000000000000000008@HHZT$LR•70•IPV4『线路21』
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$LR•71•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://171.213.211.209:8088/rtp/239.93.1.9:2192$LR•70•IPV4『线路22』
+http://182.104.192.98:8180/TV00000000000000000008@HHZT$LR•71•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://146.56.153.245:20121/bysid/258$LR•70•IPV4『线路23』
+http://171.213.211.209:8088/rtp/239.93.1.9:2192$LR•71•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.210.135.74:9999/rtp/233.50.200.191:5140$LR•70•IPV4『线路24』
+http://146.56.153.245:20121/bysid/258$LR•71•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.123.147.237:8888/udp/233.50.200.42:5140$LR•70•IPV4『线路25』
+http://115.210.135.74:9999/rtp/233.50.200.191:5140$LR•71•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://60.164.128.167:8029/rtp/239.255.30.50:8231$LR•70•IPV4『线路26』
+http://125.123.147.237:8888/udp/233.50.200.42:5140$LR•71•IPV4『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$LR•70•IPV4『线路27』
+http://60.164.128.167:8029/rtp/239.255.30.50:8231$LR•71•IPV4『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://dl.zhoujie218.top/new/fhx.php?id=fhzw$LR•70•IPV4『线路28』
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$LR•71•IPV4『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$LR•70•IPV4『线路29』
+https://dl.zhoujie218.top/new/fhx.php?id=fhzw$LR•71•IPV4『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://tv.sd.cn/sichuan?id=239.93.0.162:2192$LR•70•IPV4『线路30』
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$LR•71•IPV4『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://122.234.254.49:4000/rtp/233.50.200.191:5140$LR•70•IPV4『线路31』
+http://tv.sd.cn/sichuan?id=239.93.0.162:2192$LR•71•IPV4『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.230.250.238:9999/rtp/233.50.200.191:5140$LR•70•IPV4『线路32』
+http://122.234.254.49:4000/rtp/233.50.200.191:5140$LR•71•IPV4『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://wouu.net:9977/udp/239.93.0.162:2192$LR•70•IPV4『线路33』
+http://115.230.250.238:9999/rtp/233.50.200.191:5140$LR•71•IPV4『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.239.107.168:9999/rtp/233.50.200.191:5140$LR•70•IPV4『线路34』
+http://wouu.net:9977/udp/239.93.0.162:2192$LR•71•IPV4『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.123.147.237:8888/rtp/233.50.200.191:5140$LR•70•IPV4『线路35』
+http://115.239.107.168:9999/rtp/233.50.200.191:5140$LR•71•IPV4『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$LR•70•IPV4『线路36』
+http://125.123.147.237:8888/rtp/233.50.200.191:5140$LR•71•IPV4『线路36』
 #EXTINF:-1 tvg-id="37" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$LR•70•IPV4『线路37』
+http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$LR•71•IPV4『线路37』
 #EXTINF:-1 tvg-id="38" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$LR•70•IPV4『线路38』
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$LR•71•IPV4『线路38』
 #EXTINF:-1 tvg-id="39" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://171.213.196.59:5555/rtp/239.93.1.9:2192$LR•70•IPV4『线路39』
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$LR•71•IPV4『线路39』
 #EXTINF:-1 tvg-id="40" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.109.62.72:9999/rtp/233.50.200.191:5140$LR•70•IPV4『线路40』
+http://171.213.196.59:5555/rtp/239.93.1.9:2192$LR•71•IPV4『线路40』
 #EXTINF:-1 tvg-id="41" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://183.158.25.53:4022/rtp/233.50.200.191:5140$LR•70•IPV4『线路41』
+http://125.109.62.72:9999/rtp/233.50.200.191:5140$LR•71•IPV4『线路41』
 #EXTINF:-1 tvg-id="42" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$LR•70•IPV4『线路42』
+http://183.158.25.53:4022/rtp/233.50.200.191:5140$LR•71•IPV4『线路42』
 #EXTINF:-1 tvg-id="43" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.113.131.173:8888/rtp/233.50.200.191:5140$LR•70•IPV4『线路43』
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$LR•71•IPV4『线路43』
 #EXTINF:-1 tvg-id="44" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://www.lebaobei.top:6868/rtp/239.255.30.50:8231$LR•70•IPV4『线路44』
+http://125.113.131.173:8888/rtp/233.50.200.191:5140$LR•71•IPV4『线路44』
 #EXTINF:-1 tvg-id="45" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.114.125.208:9999/rtp/233.50.200.191:5140$LR•70•IPV4『线路45』
+http://www.lebaobei.top:6868/rtp/239.255.30.50:8231$LR•71•IPV4『线路45』
 #EXTINF:-1 tvg-id="46" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://125.71.159.29:6666/rtp/239.93.1.9:2192$LR•70•IPV4『线路46』
+http://125.114.125.208:9999/rtp/233.50.200.191:5140$LR•71•IPV4『线路46』
 #EXTINF:-1 tvg-id="47" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://60.189.43.82:9999/rtp/233.50.200.191:5140$LR•70•IPV4『线路47』
+http://125.71.159.29:6666/rtp/239.93.1.9:2192$LR•71•IPV4『线路47』
 #EXTINF:-1 tvg-id="48" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$LR•70•IPV4『线路48』
+http://60.189.43.82:9999/rtp/233.50.200.191:5140$LR•71•IPV4『线路48』
 #EXTINF:-1 tvg-id="49" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://wouu.net:9977/udp/239.93.1.9:2192$LR•70•IPV4『线路49』
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$LR•71•IPV4『线路49』
 #EXTINF:-1 tvg-id="50" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://120.55.49.231:3095/rtp/233.50.200.191:5140$LR•70•IPV4『线路50』
+http://wouu.net:9977/udp/239.93.1.9:2192$LR•71•IPV4『线路50』
 #EXTINF:-1 tvg-id="51" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.208.88.27:4000/rtp/233.50.200.191:5140$LR•70•IPV4『线路51』
+http://120.55.49.231:3095/rtp/233.50.200.191:5140$LR•71•IPV4『线路51』
 #EXTINF:-1 tvg-id="52" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://171.213.145.170:9999/rtp/239.93.1.9:2192$LR•70•IPV4『线路52』
+http://115.208.88.27:4000/rtp/233.50.200.191:5140$LR•71•IPV4『线路52』
 #EXTINF:-1 tvg-id="53" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1213$LR•70•IPV4『线路53』
+http://171.213.145.170:9999/rtp/239.93.1.9:2192$LR•71•IPV4『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://171.213.196.179:8000/rtp/239.93.1.9:2192$LR•70•IPV4『线路54』
+https://free.weidu.filegear-sg.me/45b84ac6.php?id=live1213$LR•71•IPV4『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$LR•70•IPV4『线路55』
+http://171.213.196.179:8000/rtp/239.93.1.9:2192$LR•71•IPV4『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://42.92.117.243:8888/rtp/239.255.30.50:8231$LR•70•IPV4『线路56』
+https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$LR•71•IPV4『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://183.234.238.18:8927/live1129.m3u8$LR•70•IPV4『线路57』
+http://42.92.117.243:8888/rtp/239.255.30.50:8231$LR•71•IPV4『线路57』
 #EXTINF:-1 tvg-id="58" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://115.195.172.36:9999/rtp/233.50.200.191:5140$LR•70•IPV4『线路58』
+http://183.234.238.18:8927/live1129.m3u8$LR•71•IPV4『线路58』
 #EXTINF:-1 tvg-id="59" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•70•IPV4『线路59』
+http://115.195.172.36:9999/rtp/233.50.200.191:5140$LR•71•IPV4『线路59』
 #EXTINF:-1 tvg-id="60" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://www.91dos.cn:4022/udp/239.61.5.48:1025$LR•70•IPV4『线路60』
+https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•71•IPV4『线路60』
 #EXTINF:-1 tvg-id="61" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•70•IPV4『线路61』
+http://www.91dos.cn:4022/udp/239.61.5.48:1025$LR•71•IPV4『线路61』
 #EXTINF:-1 tvg-id="62" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$LR•70•IPV4『线路62』
+https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•71•IPV4『线路62』
 #EXTINF:-1 tvg-id="63" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$LR•70•IPV4『线路63』
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$LR•71•IPV4『线路63』
 #EXTINF:-1 tvg-id="64" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$LR•70•IPV4『线路64』
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$LR•71•IPV4『线路64』
 #EXTINF:-1 tvg-id="65" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://146.56.153.245:20121/bysid/258$LR•70•IPV4『线路65』
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$LR•71•IPV4『线路65』
 #EXTINF:-1 tvg-id="66" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192$LR•70•IPV4『线路66』
+http://146.56.153.245:20121/bysid/258$LR•71•IPV4『线路66』
 #EXTINF:-1 tvg-id="67" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192$LR•70•IPV4『线路67』
+http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192$LR•71•IPV4『线路67』
 #EXTINF:-1 tvg-id="68" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092$LR•70•IPV4『线路68』
+http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192$LR•71•IPV4『线路68』
 #EXTINF:-1 tvg-id="69" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$LR•70•IPV4『线路69』
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092$LR•71•IPV4『线路69』
 #EXTINF:-1 tvg-id="70" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://118.112.148.249:4022/rtp/239.93.1.9:2192$LR•70•IPV4『线路70』
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$LR•71•IPV4『线路70』
+#EXTINF:-1 tvg-id="71" tvg-name="凤凰中文" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
+http://118.112.148.249:4022/rtp/239.93.1.9:2192$LR•71•IPV4『线路71』
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8$LR•69•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
