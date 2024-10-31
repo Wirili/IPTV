@@ -39,6 +39,7 @@ jobs:
 
     - name: Run Python script
       run: python main.py
+      run: python main2.py
 
     - name: Commit and push if changed
       run: |
