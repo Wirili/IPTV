@@ -339,7 +339,7 @@ def getHotelSearch(key):
                 if test_ip_port_connectivity(ip, int(port)):
                     ips.append(item.parent.parent.a.get_text().strip())
 
-        ips.append("jt.zorua.cn:8787")
+        # ips.append("jt.zorua.cn:8787")
         result = []
         # 去重复
         for item in ips:
@@ -364,12 +364,12 @@ def getHotelList(ip):
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
             },
         )
-        url = f"http://www.foodieguide.com/iptvsearch/alllist.php?s={ip}&y=y"
+        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
             headers={
                 "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&y=false"
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
             },
         )
 
@@ -379,8 +379,8 @@ def getHotelList(ip):
             for i in els:
                 name = i.parent.select(".channel")[0].get_text().strip()
                 ip = i.get_text().strip()
-                if "高清" in name:
-                    lines.append("{0},{1}".format(name.replace("高清", ""), ip))
+                # if "高清" in name:
+                lines.append("{0},{1}".format(name.replace("高清", ""), ip))
         if len(lines)>0:
             logging.info(url)
         return lines
