@@ -313,47 +313,7 @@ def getHotelSearch(key):
             pass
 
         hotel = "http://tonkiang.us/hoteliptv.php"
-        json_data = {
-                        "header": {
-                            "aid": 586864,
-                            "user_unique_id": "318318972383777116",
-                            "user_is_login": "false",
-                            "web_id": "7432728504205608498",
-                            "app_id": "586864",
-                            "os_name": "windows",
-                            "os_version": "10",
-                            "device_model": "Windows NT 10.0",
-                            "language": "zh-CN",
-                            "platform": "web",
-                            "sdk_version": "5.1.19",
-                            "sdk_lib": "js",
-                            "timezone": "8",
-                            "tz_offset": "-28800",
-                            "resolution": "1920x1080",
-                            "browser": "Microsoft Edge",
-                            "browser_version": "130.0.0.0",
-                            "referrer": "http://tonkiang.us/",
-                            "referrer_host": "tonkiang.us",
-                            "width": "1920",
-                            "height": "1080",
-                            "screen_width": "1920",
-                            "screen_height": "1080",
-                            "tracer_data": "{\"$utm_from_url\":1}",
-                            "custom": {
-                                "extension_version": "1.13.4"
-                            },
-                            "ab_sdk_version": "",
-                            "ab_url": "http://tonkiang.us/hoteliptv.php"
-                        }
-                    }
-        rsp = requests.post(
-            url="https://abtestvm.bytedance.com/service/2/abtest_config/",
-            json=json_data,
-            headers={
-                "Origin": "http://tonkiang.us",
-                "Referer": "http://tonkiang.us/",
-            },
-        )
+
         rsp = requests.get(
             url="http://tonkiang.us/ck.php?s=ai&c=ch",
             headers={
