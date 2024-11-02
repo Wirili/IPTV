@@ -358,6 +358,7 @@ def getHotelSearch(key):
             url="http://tonkiang.us/ck.php?s=ai&c=ch",
             headers={
                 "Host": "tonkiang.us",
+                "referer": "http://tonkiang.us/hoteliptv.php"
             },
         )
 
