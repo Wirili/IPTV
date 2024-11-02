@@ -312,7 +312,7 @@ def getHotelSearch(key):
         except:
             pass
 
-        hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
+        hotel = "http://tonkiang.us/iptvsearch/hoteliptv.php"
 
         rsp = requests.post(
             url=hotel,
@@ -324,9 +324,9 @@ def getHotelSearch(key):
                 "address": "Ca94122",
             },
             headers={
-                "Host": "www.foodieguide.com",
-                "Origin": "http://www.foodieguide.com",
-                "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
+                "Host": "tonkiang.us",
+                "Origin": "http://tonkiang.us",
+                "Referer": "http://tonkiang.us/iptvsearch/hoteliptv.php",
             },
         )
         rsp.encoding = "utf-8"
@@ -356,20 +356,20 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
-        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
+        url = f"http://tonkiang.us/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
         rsp = requests.get(
             url,
             headers={
-                "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
+                "Host": "tonkiang.us",
+                "Referer": f"http://tonkiang.us/iptvsearch/hotellist.html?s={ip}"
             },
         )
-        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
+        url = f"http://tonkiang.us/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
             headers={
-                "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
+                "Host": "tonkiang.us",
+                "Referer": f"http://tonkiang.us/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
             },
         )
 
