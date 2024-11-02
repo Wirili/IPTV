@@ -327,7 +327,7 @@ def getHotelSearch(key):
             },
             headers={
                 "Host": "tonkiang.us",
-                "referer": "http://tonkiang.us/hoteliptv.php"
+                "referer": "http://tonkiang.us/?"
             },
         )
 
