@@ -314,14 +314,19 @@ def getHotelSearch(key):
 
         hotel = "http://tonkiang.us/hoteliptv.php"
 
+        rsp = requests.get(
+            url="http://tonkiang.us/ck.php?s=ai&c=ch",
+            headers={
+                "Host": "tonkiang.us",
+                "Referer": "http://tonkiang.us/hoteliptv.php",
+            },
+        )
         rsp = requests.post(
             url=hotel,
             data={
                 "saerch": key,
                 "Submit": "",
-                "names": "Tom",
-                "city": "HeZhou",
-                "address": "Ca94122",
+                "town": rsp.text
             },
             headers={
                 "Host": "tonkiang.us",
@@ -356,7 +361,7 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
-        url = f"http://tonkiang.us/hotellist.html?s={ip}&Submit=+&y=y"
+        url = f"http://tonkiang.us/hotellist.html?s={ip}"
         rsp = requests.get(
             url,
             headers={
@@ -364,12 +369,12 @@ def getHotelList(ip):
                 "Referer": f"http://tonkiang.us/hotellist.html?s={ip}"
             },
         )
-        url = f"http://tonkiang.us/allllist.php?s={ip}&y=false"
+        url = f"http://tonkiang.us/allllist.php?s={ip}&c=false"
         rsp = requests.get(
             url,
             headers={
                 "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}&Submit=+&y=y"
+                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}"
             },
         )
 
