@@ -315,6 +315,13 @@ def getHotelSearch(key):
         hotel = "http://tonkiang.us/hoteliptv.php"
 
         rsp = requests.get(
+            url="http://tonkiang.us/hoteliptv.php",
+            headers={
+                "Host": "tonkiang.us"
+            },
+        )
+
+        rsp = requests.get(
             url="http://tonkiang.us/ck.php?s=ai&c=ch",
             headers={
                 "Host": "tonkiang.us",

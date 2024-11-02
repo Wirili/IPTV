@@ -6,8 +6,8 @@ on:
 
   workflow_dispatch:
 
-# env:
-#   TZ: Asia/Shanghai
+env:
+  TZ: Asia/Shanghai
 
 jobs:
   run_script:
