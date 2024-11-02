@@ -328,6 +328,8 @@ def getHotelSearch(key):
                 "Referer": "http://tonkiang.us/hoteliptv.php",
             },
         )
+
+        logging.info(f"\ntown：{rsp.text}\n")
         rsp = requests.post(
             url=hotel,
             data={
