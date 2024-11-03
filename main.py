@@ -368,16 +368,18 @@ def getHotelList(ip):
         rsp = requests.get(
             url,
             headers={
+                "Cookie":"REFERER=Gameover",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
                 "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
             },
         )
         logging.info(f"url：{url} {rsp.text}")
-        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&c=false"
+        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
             headers={
+                "Cookie":"REFERER=Gameover",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y",
                 "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
