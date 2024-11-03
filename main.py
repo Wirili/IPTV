@@ -312,15 +312,8 @@ def getHotelSearch(key):
         except:
             pass
 
-        requests.get(url="http://tonkiang.us/?")
-        rsp = requests.get(
-            url="http://tonkiang.us/ck.php?s=ai&c=ch",
-            headers={
-                "Host": "tonkiang.us",
-                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
-            },
-        )
-        logging.info(f"town:{rsp.text}\n")
+        requests.get(url="http://www.foodieguide.com/iptvsearch/")
+
         hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
         rsp = requests.post(
