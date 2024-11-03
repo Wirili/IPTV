@@ -314,15 +314,6 @@ def getHotelSearch(key):
 
         hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
-        rsp = requests.get(
-            url=hotel,
-            headers={
-                "Host": "www.foodieguide.com",
-                "Origin": "http://www.foodieguide.com",
-                "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
-            },
-        )
-
         rsp = requests.post(
             url=hotel,
             data={
@@ -392,7 +383,7 @@ def getHotelList(ip):
                 "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
             },
         )
-
+        logging.info(f"url：{url} {rsp.text}")
         if rsp.status_code == 200:
             root = BeautifulSoup(rsp.text, "lxml")
             els = root.select("div.m3u8")
