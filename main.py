@@ -356,7 +356,7 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
-        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+"
+        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
         rsp = requests.get(
             url,
             headers={
@@ -364,15 +364,22 @@ def getHotelList(ip):
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
             },
         )
+        url = f"http://www.foodieguide.com/iptvsearch/testgo.php?s={ip}"
+        rsp = requests.get(
+            url,
+            headers={
+                "Host": "www.foodieguide.com",
+            },
+        )
         url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
             headers={
                 "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+"
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
             },
         )
-
+        logging.info(f"url：{url} {rsp.text}")
         if rsp.status_code == 200:
             root = BeautifulSoup(rsp.text, "lxml")
             els = root.select("div.m3u8")
