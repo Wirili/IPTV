@@ -356,15 +356,7 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
-        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
-        rsp = requests.get(
-            url,
-            headers={
-                "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
-            },
-        )
-        url = f"http://www.foodieguide.com/iptvsearch/testgo.php?s={ip}"
+        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+"
         rsp = requests.get(
             url,
             headers={
@@ -377,7 +369,7 @@ def getHotelList(ip):
             url,
             headers={
                 "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+"
             },
         )
 
