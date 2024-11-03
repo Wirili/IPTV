@@ -390,6 +390,7 @@ def getHotelList(ip):
                 "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
             },
         )
+        logging.info(url + ":" + rsp.text)
 
         url = f"http://tonkiang.us/testgo.php?s={ip}&c=false"
         rsp = requests.get(
@@ -400,6 +401,8 @@ def getHotelList(ip):
                 "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
             },
         )
+
+        logging.info(url + ":" + rsp.text)
         url = f"http://tonkiang.us/allllist.php?s={ip}&c=false"
         rsp = requests.get(
             url,
@@ -409,6 +412,8 @@ def getHotelList(ip):
                 "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
             },
         )
+
+        logging.info(url + ":" + rsp.text)
 
         if rsp.status_code == 200:
             root = BeautifulSoup(rsp.text, "lxml")
