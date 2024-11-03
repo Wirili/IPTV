@@ -368,6 +368,7 @@ def getHotelList(ip):
         rsp = requests.get(
             url,
             headers={
+                "x-requested-with":"XMLHttpRequest",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
             },
@@ -377,6 +378,7 @@ def getHotelList(ip):
         rsp = requests.get(
             url,
             headers={
+                "x-requested-with":"XMLHttpRequest",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y",
             },
