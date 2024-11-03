@@ -371,14 +371,12 @@ def getHotelList(ip):
     url = ""
     try:
         session = requests.Session()
-        rsp = session.get(
-            f"http://taipandimsum.com"
-        )
         lines = []
         url = f"http://www.foodieguide.com/iptvsearch/hoteliptv.php"
         rsp = session.get(
             url,
             headers={
+                "Orgin":"www.foodieguide.com",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hoteliptv.php",
             },
@@ -387,6 +385,7 @@ def getHotelList(ip):
         rsp = session.get(
             url,
             headers={
+                "Orgin":"www.foodieguide.com",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
             },
@@ -395,6 +394,7 @@ def getHotelList(ip):
         rsp = session.get(
             url,
             headers={
+                "Orgin":"www.foodieguide.com",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
             },
@@ -404,6 +404,7 @@ def getHotelList(ip):
         rsp = session.get(
             url,
             headers={
+                "Orgin":"www.foodieguide.com",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
             },
