@@ -372,7 +372,7 @@ def getHotelList(ip):
     try:
         session = requests.Session()
         rsp = session.get(
-            f"http://www.foodieguide.com/"
+            f"http://taipandimsum.com"
         )
         lines = []
         url = f"http://www.foodieguide.com/iptvsearch/hoteliptv.php"
@@ -400,7 +400,7 @@ def getHotelList(ip):
             },
         )
         logging.info(f"url：{url} {rsp.text}")
-        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&c=false"
+        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = session.get(
             url,
             headers={
