@@ -370,9 +370,10 @@ def getHotelSearch(key):
 def getHotelList(ip):
     url = ""
     try:
+        session = requests.Session()
         lines = []
         url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
-        rsp = requests.get(
+        rsp = session.get(
             url,
             headers={
                 "Host": "www.foodieguide.com",
@@ -380,18 +381,18 @@ def getHotelList(ip):
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
             },
         )
-        # url = f"http://www.foodieguide.com/iptvsearch/testgo.php?s={ip}"
-        # rsp = requests.get(
-        #     url,
-        #     headers={
-        #         "Host": "www.foodieguide.com",
-        #         "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
-        #         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-        #     },
-        # )
-        # logging.info(f"url：{url} {rsp.text}")
+        url = f"http://www.foodieguide.com/iptvsearch/testgo.php?s={ip}"
+        rsp = session.get(
+            url,
+            headers={
+                "Host": "www.foodieguide.com",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+            },
+        )
+        logging.info(f"url：{url} {rsp.text}")
         url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
-        rsp = requests.get(
+        rsp = session.get(
             url,
             headers={
                 "Host": "www.foodieguide.com",
