@@ -364,6 +364,14 @@ def getHotelList(ip):
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
             },
         )
+        url = f"http://www.foodieguide.com/iptvsearch/testgo.php?s={ip}"
+        rsp = requests.get(
+            url,
+            headers={
+                "Host": "www.foodieguide.com",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
+            },
+        )
         url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
