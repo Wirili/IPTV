@@ -371,6 +371,7 @@ def getHotelList(ip):
                 "Host": "www.foodieguide.com",
             },
         )
+        logging.info(f"url：{url} {rsp.text}")
         url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
@@ -379,7 +380,7 @@ def getHotelList(ip):
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
             },
         )
-        logging.info(f"url：{url} {rsp.text}")
+
         if rsp.status_code == 200:
             root = BeautifulSoup(rsp.text, "lxml")
             els = root.select("div.m3u8")
