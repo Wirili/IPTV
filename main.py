@@ -368,7 +368,7 @@ def getHotelList(ip):
         rsp = requests.get(
             url,
             headers={
-                "Cookie":"REFERER=Gameover",
+                "Cookie":"REFERER=Gameover; ckip1=113.64.147.7%7C1.70.15.131%7C221.201.134.197%7C116.117.106.144%7C123.10.79.114%7C180.114.60.212%7C113.201.61.98%7C116.117.105.198; ckip2=27.10.74.70%7C36.46.99.136%7C115.197.221.22%7C171.118.210.13%7C5.130.254.88%7C222.67.66.128%7C178.163.53.35%7Cbeijing_unicom_udpxy_114_254_2222_1.isus.cc; REFERER2=Over; REFERER1=OzDbgrxaObDcEO0O0O",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
                 "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
@@ -379,7 +379,7 @@ def getHotelList(ip):
         rsp = requests.get(
             url,
             headers={
-                "Cookie":"REFERER=Gameover",
+                "Cookie":"REFERER=Gameover; ckip1=113.64.147.7%7C1.70.15.131%7C221.201.134.197%7C116.117.106.144%7C123.10.79.114%7C180.114.60.212%7C113.201.61.98%7C116.117.105.198; ckip2=27.10.74.70%7C36.46.99.136%7C115.197.221.22%7C171.118.210.13%7C5.130.254.88%7C222.67.66.128%7C178.163.53.35%7Cbeijing_unicom_udpxy_114_254_2222_1.isus.cc; REFERER2=Over; REFERER1=OzDbgrxaObDcEO0O0O",
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y",
                 "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
