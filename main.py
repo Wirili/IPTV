@@ -381,6 +381,16 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
+        url = f"http://tonkiang.us/hotellist.html?s={ip}"
+        rsp = requests.get(
+            url,
+            headers={
+                "Host": "tonkiang.us",
+                "Referer": f"http://tonkiang.us/hoteliptv.php",
+                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
+            },
+        )
+
         url = f"http://tonkiang.us/testgo.php?s={ip}&c=false"
         rsp = requests.get(
             url,
