@@ -79,7 +79,7 @@ def fetch_channels(url):
                         for item in channel_url.split("#"):
                             channels[current_category].append((channel_name, item))
                     elif line:
-                            channels[current_category].append((line, ""))
+                        channels[current_category].append((line, ""))
         if channels:
             categories = ", ".join(channels.keys())
             logging.info(
@@ -231,17 +231,18 @@ def getHotel():
         #
         if len(lines) > 0:
             speed_test_results = OrderedDict()
-            for ip,list in lines.items():
+            for ip, list in lines.items():
                 with ThreadPoolExecutor(max_workers=15) as executor:
                     future_to_channel = {
-                        executor.submit(download_speed_test, ip, source): source for source in list[:15]
+                        executor.submit(download_speed_test, ip, source): source
+                        for source in list[:15]
                     }
                     for future in as_completed(future_to_channel):
                         channel = future_to_channel[future]
                         try:
-                            ip,download_rate = future.result()
+                            ip, download_rate = future.result()
 
-                            speed_test_results.setdefault(ip,[]).append(download_rate)
+                            speed_test_results.setdefault(ip, []).append(download_rate)
 
                             # if ip in speed_test_results:
                             #     if speed_test_results[ip] < download_rate:
@@ -251,20 +252,19 @@ def getHotel():
                         except Exception as exc:
                             logging.info(f"频道：{channel[0]} 测速时发生异常：{exc}")
 
-
             result = OrderedDict()
-            for key,value in speed_test_results.items():
-                if len([x for x in value if x == 0])>=10:
-                    result[key]=0
+            for key, value in speed_test_results.items():
+                if len([x for x in value if x == 0]) >= 10:
+                    result[key] = 0
                 else:
-                    result[key]=max(value)
+                    result[key] = max(value)
 
             result = OrderedDict(sorted(result.items(), key=lambda t: t[1], reverse=True))
 
-            for key,value in result.items():
+            for key, value in result.items():
                 logging.info(f"频道IP：{key}, 速度：{value}")
                 ipspeed.append(f"{key},{value}")
-                if value>0.2:
+                if value > 0.2:
                     for url in lines[key]:
                         sources.append(f"{url}")
 
@@ -281,15 +281,15 @@ def getHotel():
                 index = 1
                 channel_name_old = ""
                 for item in sources:
-                    channel_name,new_url = item.split(",")
-                    if channel_name_old!=channel_name:
-                        channel_name_old=channel_name
-                        index=1
+                    channel_name, new_url = item.split(",")
+                    if channel_name_old != channel_name:
+                        channel_name_old = channel_name
+                        index = 1
                     f_m3u.write(
                         f'#EXTINF:-1 tvg-id="{index}" tvg-name="{channel_name}" tvg-logo="https://epg.112114.free.hr/logo/{channel_name}.png" group-title="酒店组播",{channel_name}\n'
                     )
                     f_m3u.write(new_url + "\n")
-                    index+=1
+                    index += 1
         else:
             sources = getHisHotel()
 
@@ -297,6 +297,7 @@ def getHotel():
         sources = getHisHotel()
 
     return ["酒店组播,#genre#"] + sources
+
 
 def getHotelSearch(key):
     try:
@@ -306,14 +307,24 @@ def getHotelSearch(key):
             with open("hotelspeed.txt", "r", encoding="utf-8") as f_txt:
                 hips = f_txt.read().split("\n")
             for item in hips:
-                ip,speed = item.split(",")
-                if float(speed)>0.5:
+                ip, speed = item.split(",")
+                if float(speed) > 0.5:
                     ips.append(ip)
         except:
             pass
 
-        requests.get(url="http://www.foodieguide.com/iptvsearch/")
-        requests.get(url="http://tonkiang.us/")
+        requests.get(
+            url="http://www.foodieguide.com/iptvsearch/",
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+            },
+        )
+        requests.get(
+            url="http://tonkiang.us/",
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+            },
+        )
 
         hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
@@ -355,8 +366,9 @@ def getHotelSearch(key):
         logging.info(f"url：酒店组播 搜索失败❌")
         return []
 
+
 def getHotelList(ip):
-    url=""
+    url = ""
     try:
         lines = []
         url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
@@ -365,7 +377,7 @@ def getHotelList(ip):
             headers={
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
             },
         )
         url = f"http://www.foodieguide.com/iptvsearch/testgo.php?s={ip}"
@@ -374,7 +386,7 @@ def getHotelList(ip):
             headers={
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
             },
         )
         logging.info(f"url：{url} {rsp.text}")
@@ -384,7 +396,7 @@ def getHotelList(ip):
             headers={
                 "Host": "www.foodieguide.com",
                 "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y",
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
             },
         )
         logging.info(f"url：{url} {rsp.text}")
@@ -396,12 +408,13 @@ def getHotelList(ip):
                 ip = i.get_text().strip()
                 # if "高清" in name:
                 lines.append("{0},{1}".format(name.replace("高清", ""), ip))
-        if len(lines)>0:
+        if len(lines) > 0:
             logging.info(url)
         return lines
     except:
         logging.info(f"url：{url} 获取失败❌")
         return []
+
 
 def getHisHotel():
     sources = []
@@ -418,6 +431,7 @@ def getHisHotel():
 
     return sources
 
+
 def test_ip_port_connectivity(ip, port):
     """
     测试指定 IP 和端口的连通性
@@ -431,7 +445,7 @@ def test_ip_port_connectivity(ip, port):
         return False
 
 
-def download_speed_test(ip,channel):
+def download_speed_test(ip, channel):
     """
     执行下载速度测试
     """
