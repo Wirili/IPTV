@@ -313,6 +313,7 @@ def getHotelSearch(key):
             pass
 
         requests.get(url="http://www.foodieguide.com/iptvsearch/")
+        requests.get(url="http://tonkiang.us/")
 
         hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
