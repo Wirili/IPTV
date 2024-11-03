@@ -312,26 +312,21 @@ def getHotelSearch(key):
         except:
             pass
 
-        hotel = "http://tonkiang.us/hoteliptv.php"
+        hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
-        rsp = requests.get(
-            url="http://tonkiang.us/ck.php?s=ai&c=ch",
-            headers={
-                "Host": "tonkiang.us",
-                "Referer": "http://tonkiang.us/hoteliptv.php",
-            },
-        )
         rsp = requests.post(
             url=hotel,
             data={
                 "saerch": key,
                 "Submit": "",
-                "town": rsp.text
+                "names": "Tom",
+                "city": "HeZhou",
+                "address": "Ca94122",
             },
             headers={
-                "Host": "tonkiang.us",
-                "Origin": "http://tonkiang.us",
-                "Referer": "http://tonkiang.us/hoteliptv.php",
+                "Host": "www.foodieguide.com",
+                "Origin": "http://www.foodieguide.com",
+                "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
             },
         )
         rsp.encoding = "utf-8"
@@ -361,20 +356,20 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
-        url = f"http://tonkiang.us/hotellist.html?s={ip}"
+        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
         rsp = requests.get(
             url,
             headers={
-                "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}"
+                "Host": "www.foodieguide.com",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
             },
         )
-        url = f"http://tonkiang.us/allllist.php?s={ip}&c=false"
+        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
             headers={
-                "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}"
+                "Host": "www.foodieguide.com",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
             },
         )
 

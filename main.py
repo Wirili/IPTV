@@ -312,46 +312,21 @@ def getHotelSearch(key):
         except:
             pass
 
-        hotel = "http://tonkiang.us/hoteliptv.php"
+        hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
-        rsp = requests.get(
-            url=hotel,
-            headers={
-                "Host": "tonkiang.us",
-                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
-            },
-        )
-
-        rsp.encoding = "utf-8"
-        root = BeautifulSoup(rsp.text, "lxml")
-        els = root.select_one('input[id="search"]').attrs["name"]
-
-        rsp = requests.get(
-            url="http://tonkiang.us/ck.php",
-            data={
-                "s": "ai",
-                "c": "ch",
-            },
-            headers={
-                "Host": "tonkiang.us",
-                "referer": "http://tonkiang.us/hoteliptv.php",
-                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
-            },
-        )
-
-        logging.info(f"\ntown：{rsp.text}\n")
         rsp = requests.post(
             url=hotel,
             data={
-                root.select_one('input[id="search"]').attrs["name"] : key,
+                "saerch": key,
                 "Submit": "",
-                "town": rsp.text
+                "names": "Tom",
+                "city": "HeZhou",
+                "address": "Ca94122",
             },
             headers={
-                "Host": "tonkiang.us",
-                "Origin": "http://tonkiang.us",
-                "Referer": "http://tonkiang.us/hoteliptv.php",
-                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
+                "Host": "www.foodieguide.com",
+                "Origin": "http://www.foodieguide.com",
+                "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
             },
         )
         rsp.encoding = "utf-8"
@@ -381,47 +356,22 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
-        url = f"http://tonkiang.us/hotellist.html?s={ip}"
+        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
         rsp = requests.get(
             url,
             headers={
-                "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hoteliptv.php",
-                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
+                "Host": "www.foodieguide.com",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
             },
         )
-        logging.info(url + ":" + rsp.text)
-
-        url = f"http://tonkiang.us/testgo.php?s={ip}&c=false"
+        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
             headers={
-                "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}",
-                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
+                "Host": "www.foodieguide.com",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
             },
         )
-        rsp = requests.get(
-            url,
-            headers={
-                "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}",
-                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
-            },
-        )
-
-        logging.info(url + ":" + rsp.text)
-        url = f"http://tonkiang.us/allllist.php?s={ip}&c=false"
-        rsp = requests.get(
-            url,
-            headers={
-                "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}",
-                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
-            },
-        )
-
-        logging.info(url + ":" + rsp.text)
 
         if rsp.status_code == 200:
             root = BeautifulSoup(rsp.text, "lxml")
