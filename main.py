@@ -390,7 +390,7 @@ def getHotelList(ip):
         #     },
         # )
         # logging.info(f"url：{url} {rsp.text}")
-        url = f"http://www.foodieguide.com/iptvsearch/alllist.php?s={ip}&y=false"
+        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
         rsp = requests.get(
             url,
             headers={
