@@ -358,7 +358,7 @@ def getHotelList(ip):
     url=""
     try:
         lines = []
-        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
+        url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}"
         rsp = requests.get(
             url,
             headers={
@@ -382,7 +382,7 @@ def getHotelList(ip):
             headers={
                 "x-requested-with":"XMLHttpRequest",
                 "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}",
             },
         )
         logging.info(f"url：{url} {rsp.text}")
