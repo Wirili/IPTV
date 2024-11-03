@@ -375,12 +375,12 @@ def getHotelList(ip):
             f"http://www.foodieguide.com/"
         )
         lines = []
-        url = f"http://www.foodieguide.com/iptvsearch/hotellist.php?s={ip}"
+        url = f"http://www.foodieguide.com/iptvsearch/hoteliptv.php?s={ip}"
         rsp = session.get(
             url,
             headers={
                 "Host": "www.foodieguide.com",
-                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.php?s={ip}",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hoteliptv.php?s={ip}",
             },
         )
         url = f"http://www.foodieguide.com/iptvsearch/testgo.php?s={ip}"
