@@ -314,10 +314,17 @@ def getHotelSearch(key):
 
         hotel = "http://tonkiang.us/hoteliptv.php"
 
-
         rsp = requests.get(
-            url="http://tonkiang.us/?"
+            url=hotel,
+            headers={
+                "Host": "tonkiang.us",
+                "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
+            },
         )
+
+        rsp.encoding = "utf-8"
+        root = BeautifulSoup(rsp.text, "lxml")
+        els = root.select_one('input[id="search"]').attrs["name"]
 
         rsp = requests.get(
             url="http://tonkiang.us/ck.php",
@@ -336,7 +343,7 @@ def getHotelSearch(key):
         rsp = requests.post(
             url=hotel,
             data={
-                "saerch": key,
+                root.select_one('input[id="search"]').attrs["name"] : key,
                 "Submit": "",
                 "town": rsp.text
             },
