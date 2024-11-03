@@ -314,6 +314,15 @@ def getHotelSearch(key):
 
         hotel = "http://www.foodieguide.com/iptvsearch/hoteliptv.php"
 
+        rsp = requests.get(
+            url=hotel,
+            headers={
+                "Host": "www.foodieguide.com",
+                "Origin": "http://www.foodieguide.com",
+                "Referer": "http://www.foodieguide.com/iptvsearch/hoteliptv.php",
+            },
+        )
+
         rsp = requests.post(
             url=hotel,
             data={
