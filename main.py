@@ -372,11 +372,7 @@ def getHotelList(ip):
     try:
         session = requests.Session()
         rsp = session.get(
-            f"http://www.foodieguide.com/",
-            headers={
-                "Host": "www.foodieguide.com",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-            },
+            f"http://tonkiang.us/?"
         )
         lines = []
         url = f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y"
@@ -398,12 +394,12 @@ def getHotelList(ip):
             },
         )
         logging.info(f"url：{url} {rsp.text}")
-        url = f"http://tonkiang.us/allllist.php?s={ip}&c=false"
-        rsp = requests.get(
+        url = f"http://www.foodieguide.com/iptvsearch/allllist.php?s={ip}&y=false"
+        rsp = session.get(
             url,
             headers={
-                "Host": "tonkiang.us",
-                "Referer": f"http://tonkiang.us/hotellist.html?s={ip}",
+                "Host": "www.foodieguide.com",
+                "Referer": f"http://www.foodieguide.com/iptvsearch/hotellist.html?s={ip}&Submit=+&y=y",
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
             },
         )
