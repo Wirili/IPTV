@@ -44,7 +44,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4
 湖北卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8$LR•IPV6
 江西卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8$LR•IPV6
 吉林卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8$LR•IPV6
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680$LR•IPV4
+内蒙古卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8$LR•IPV6
 辽宁卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8$LR•IPV6
 宁夏卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8$LR•IPV6
 青海卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8$LR•IPV6
@@ -53,10 +53,11 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4
 海南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8$LR•IPV6
 新疆卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8$LR•IPV6
 云南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8$LR•IPV6
-西藏卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225698/index.m3u8$LR•IPV6
+西藏卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8$LR•IPV6
 兵团卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8$LR•IPV6
 安多卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000064/index.m3u8$LR•IPV6
 康巴卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8$LR•IPV6
+农林卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000060/index.m3u8$LR•IPV6
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8$LR•IPV6
 延边卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000073/index.m3u8$LR•IPV6
 CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8$LR•IPV6
@@ -81,7 +82,7 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$LR•I
 哒啵赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8$LR•IPV6
 哒啵电竞,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8$LR•IPV6
-快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8$LR•IPV6
+快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3$LR•IPV6
 纪实人文,http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8$LR•IPV6
 纪实科教,http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8$LR•IPV6
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6
@@ -117,14 +118,6 @@ CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$LR•I
 法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6
 第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6
 浙江频道,#genre#
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$LR•IPV4
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$LR•IPV4
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$LR•IPV4
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$LR•IPV4
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$LR•IPV4
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$LR•IPV4
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$LR•IPV4
 港·澳·台,#genre#
 电影轮播,#genre#
 剧集轮播,#genre#
