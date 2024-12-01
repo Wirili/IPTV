@@ -6006,261 +6006,259 @@ http://110.52.8.13:808/hls/16/index.m3u8$LR•178•IPV4『线路177』
 #EXTINF:-1 tvg-id="178" tvg-name="CCTV15音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15音乐.png" group-title="央视频道",CCTV15音乐
 http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=txiptv$LR•178•IPV4『线路178』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8$LR•128•IPV6『线路1』
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8$LR•127•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016$LR•128•IPV6『线路2』
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016$LR•127•IPV6『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/$LR•128•IPV6『线路3』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/$LR•127•IPV6『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8$LR•128•IPV6『线路4』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8$LR•127•IPV6『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8$LR•128•IPV6『线路5』
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016$LR•127•IPV6『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016$LR•128•IPV6『线路6』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8$LR•127•IPV6『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8$LR•128•IPV6『线路7』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路8』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$LR•127•IPV6『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$LR•128•IPV6『线路9』
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路10』
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010142/$LR•127•IPV6『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010142/$LR•128•IPV6『线路11』
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010142/$LR•127•IPV6『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010142/$LR•128•IPV6『线路12』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/$LR•127•IPV6『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/$LR•128•IPV6『线路13』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/main.m3u8$LR•127•IPV6『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/main.m3u8$LR•128•IPV6『线路14』
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8$LR•127•IPV6『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8$LR•128•IPV6『线路15』
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$LR•127•IPV6『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$LR•128•IPV6『线路16』
+http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路17』
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$LR•127•IPV6『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$LR•128•IPV6『线路18』
+http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路19』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路20』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路21』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8?$LR•127•IPV6『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8?$LR•128•IPV6『线路22』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8?$LR•127•IPV6『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8?$LR•128•IPV6『线路23』
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8$LR•127•IPV6『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8$LR•128•IPV6『线路24』
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路25』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$LR•127•IPV6『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$LR•128•IPV6『线路26』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路27』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路28』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路29』
+http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路30』
+http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1713968964&from=4&hms_devid=1144&online=1713968964&vqe=3$LR•127•IPV6『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1713968964&from=4&hms_devid=1144&online=1713968964&vqe=3$LR•128•IPV6『线路31』
+http://[2409:8087:74d9:21::6]/270000001128/9900000016/index.m3u8$LR•127•IPV6『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:74d9:21::6]/270000001128/9900000016/index.m3u8$LR•128•IPV6『线路32』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•127•IPV6『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•128•IPV6『线路33』
+http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715$LR•127•IPV6『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715$LR•128•IPV6『线路34』
+http://4eae7f.tv.netsite.cc/proxy/1213181202/1213181202.m3u8$LR•127•IPV4『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://4eae7f.tv.netsite.cc/proxy/1213181202/1213181202.m3u8$LR•128•IPV4『线路35』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•127•IPV4『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•128•IPV4『线路36』
+http://124.231.213.16:9999/tsfile/live/1084_1.m3u8$LR•127•IPV4『线路36』
 #EXTINF:-1 tvg-id="37" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://124.231.213.16:9999/tsfile/live/1084_1.m3u8$LR•128•IPV4『线路37』
+http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$LR•127•IPV4『线路37』
 #EXTINF:-1 tvg-id="38" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$LR•128•IPV4『线路38』
+http://119.98.143.13:8888/rtp/239.69.1.247:11124$LR•127•IPV4『线路38』
 #EXTINF:-1 tvg-id="39" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://119.98.143.13:8888/rtp/239.69.1.247:11124$LR•128•IPV4『线路39』
+http://123.121.73.105:8686/rtp/239.3.1.184:8001$LR•127•IPV4『线路39』
 #EXTINF:-1 tvg-id="40" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.121.73.105:8686/rtp/239.3.1.184:8001$LR•128•IPV4『线路40』
+http://123.166.61.70:8003/hls/16/index.m3u8$LR•127•IPV4『线路40』
 #EXTINF:-1 tvg-id="41" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.166.61.70:8003/hls/16/index.m3u8$LR•128•IPV4『线路41』
+http://219.159.194.143:8181/tsfile/live/1021_1.m3u8$LR•127•IPV4『线路41』
 #EXTINF:-1 tvg-id="42" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://219.159.194.143:8181/tsfile/live/1021_1.m3u8$LR•128•IPV4『线路42』
+http://222.218.158.198:8181/tsfile/live/1021_1.m3u8$LR•127•IPV4『线路42』
 #EXTINF:-1 tvg-id="43" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.218.158.198:8181/tsfile/live/1021_1.m3u8$LR•128•IPV4『线路43』
+http://220.164.192.48:50085/tsfile/live/0017_1.m3u8$LR•127•IPV4『线路43』
 #EXTINF:-1 tvg-id="44" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://220.164.192.48:50085/tsfile/live/0017_1.m3u8$LR•128•IPV4『线路44』
+http://60.255.240.247:8090/live/CCTV-16.m3u8$LR•127•IPV4『线路44』
 #EXTINF:-1 tvg-id="45" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://60.255.240.247:8090/live/CCTV-16.m3u8$LR•128•IPV4『线路45』
+http://219.159.194.122:8181/tsfile/live/1021_1.m3u8$LR•127•IPV4『线路45』
 #EXTINF:-1 tvg-id="46" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://219.159.194.122:8181/tsfile/live/1021_1.m3u8$LR•128•IPV4『线路46』
+http://122.9.151.210:6209/rtp/238.255.2.219:5999$LR•127•IPV4『线路46』
 #EXTINF:-1 tvg-id="47" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://122.9.151.210:6209/rtp/238.255.2.219:5999$LR•128•IPV4『线路47』
+http://122.9.151.210:2669/rtp/238.255.2.219:5999$LR•127•IPV4『线路47』
 #EXTINF:-1 tvg-id="48" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://122.9.151.210:2669/rtp/238.255.2.219:5999$LR•128•IPV4『线路48』
+http://60.164.128.167:8029/rtp/239.255.30.88:8231$LR•127•IPV4『线路48』
 #EXTINF:-1 tvg-id="49" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://60.164.128.167:8029/rtp/239.255.30.88:8231$LR•128•IPV4『线路49』
+http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540$LR•127•IPV4『线路49』
 #EXTINF:-1 tvg-id="50" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540$LR•128•IPV4『线路50』
+http://58.17.48.228:808/hls/25/index.m3u8$LR•127•IPV4『线路50』
 #EXTINF:-1 tvg-id="51" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://58.17.48.228:808/hls/25/index.m3u8$LR•128•IPV4『线路51』
+http://222.241.154.37:9901/tsfile/live/23016_1.m3u8$LR•127•IPV4『线路51』
 #EXTINF:-1 tvg-id="52" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.241.154.37:9901/tsfile/live/23016_1.m3u8$LR•128•IPV4『线路52』
+http://www.furymax.top:85/rtp/239.69.1.247:11124$LR•127•IPV4『线路52』
 #EXTINF:-1 tvg-id="53" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://www.furymax.top:85/rtp/239.69.1.247:11124$LR•128•IPV4『线路53』
+http://221.221.167.14:8888/rtp/239.3.1.184:8001$LR•127•IPV4『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://221.221.167.14:8888/rtp/239.3.1.184:8001$LR•128•IPV4『线路54』
+http://222.129.139.91:8888/rtp/239.3.1.184:8001$LR•127•IPV4『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.129.139.91:8888/rtp/239.3.1.184:8001$LR•128•IPV4『线路55』
+http://43.138.11.122/cq/yh.php?id=G_CCTV-16-CQ$LR•127•IPV4『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://43.138.11.122/cq/yh.php?id=G_CCTV-16-CQ$LR•128•IPV4『线路56』
+http://zisong2014.oicp.net:4022/udp/225.1.2.237:5002$LR•127•IPV4『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://zisong2014.oicp.net:4022/udp/225.1.2.237:5002$LR•128•IPV4『线路57』
+http://124.231.215.5:9999/tsfile/live/1084_1.m3u8$LR•127•IPV4『线路57』
 #EXTINF:-1 tvg-id="58" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://124.231.215.5:9999/tsfile/live/1084_1.m3u8$LR•128•IPV4『线路58』
+http://124.231.213.72:9999/tsfile/live/1084_1.m3u8$LR•127•IPV4『线路58』
 #EXTINF:-1 tvg-id="59" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://124.231.213.72:9999/tsfile/live/1084_1.m3u8$LR•128•IPV4『线路59』
+http://202.100.46.58:9901/tsfile/live/1016_1.m3u8$LR•127•IPV4『线路59』
 #EXTINF:-1 tvg-id="60" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://202.100.46.58:9901/tsfile/live/1016_1.m3u8$LR•128•IPV4『线路60』
+http://58.221.214.82:9901/tsfile/live/0002_2.m3u8$LR•127•IPV4『线路60』
 #EXTINF:-1 tvg-id="61" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://58.221.214.82:9901/tsfile/live/0002_2.m3u8$LR•128•IPV4『线路61』
+http://117.27.190.42:9998/tsfile/live/23249_1.m3u8$LR•127•IPV4『线路61』
 #EXTINF:-1 tvg-id="62" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://117.27.190.42:9998/tsfile/live/23249_1.m3u8$LR•128•IPV4『线路62』
+http://223.166.234.215:7777/tsfile/live/1038_1.m3u8$LR•127•IPV4『线路62』
 #EXTINF:-1 tvg-id="63" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://223.166.234.215:7777/tsfile/live/1038_1.m3u8$LR•128•IPV4『线路63』
+http://223.166.234.114:7777/tsfile/live/1038_1.m3u8$LR•127•IPV4『线路63』
 #EXTINF:-1 tvg-id="64" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://223.166.234.114:7777/tsfile/live/1038_1.m3u8$LR•128•IPV4『线路64』
+http://223.166.234.149:7777/tsfile/live/1038_1.m3u8$LR•127•IPV4『线路64』
 #EXTINF:-1 tvg-id="65" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://223.166.234.149:7777/tsfile/live/1038_1.m3u8$LR•128•IPV4『线路65』
+http://223.166.234.19:7777/tsfile/live/1038_1.m3u8$LR•127•IPV4『线路65』
 #EXTINF:-1 tvg-id="66" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://223.166.234.19:7777/tsfile/live/1038_1.m3u8$LR•128•IPV4『线路66』
+http://222.218.158.228:8181/tsfile/live/1021_1.m3u8$LR•127•IPV4『线路66』
 #EXTINF:-1 tvg-id="67" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.218.158.228:8181/tsfile/live/1021_1.m3u8$LR•128•IPV4『线路67』
+http://59.173.243.210:9901/tsfile/live/1036_1.m3u8$LR•127•IPV4『线路67』
 #EXTINF:-1 tvg-id="68" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://59.173.243.210:9901/tsfile/live/1036_1.m3u8$LR•128•IPV4『线路68』
+http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-16-CQ$LR•127•IPV4『线路68』
 #EXTINF:-1 tvg-id="69" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-16-CQ$LR•128•IPV4『线路69』
+https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8$LR•127•IPV4『线路69』
 #EXTINF:-1 tvg-id="70" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8$LR•128•IPV4『线路70』
+http://112.102.217.173:9003//hls/29/index.m3u8$LR•127•IPV4『线路70』
 #EXTINF:-1 tvg-id="71" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://112.102.217.173:9003//hls/29/index.m3u8$LR•128•IPV4『线路71』
+http://118.249.22.148:8989/udp/239.76.253.98:9000$LR•127•IPV4『线路71』
 #EXTINF:-1 tvg-id="72" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://118.249.22.148:8989/udp/239.76.253.98:9000$LR•128•IPV4『线路72』
+http://183.7.107.140:8088/udp/239.77.0.165:5146$LR•127•IPV4『线路72』
 #EXTINF:-1 tvg-id="73" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://183.7.107.140:8088/udp/239.77.0.165:5146$LR•128•IPV4『线路73』
+http://123.113.189.90:8001/rtp/239.3.1.183:8001$LR•127•IPV4『线路73』
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.189.90:8001/rtp/239.3.1.183:8001$LR•128•IPV4『线路74』
+http://123.113.189.90:8001/rtp/239.3.1.184:8001$LR•127•IPV4『线路74』
 #EXTINF:-1 tvg-id="75" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.189.90:8001/rtp/239.3.1.184:8001$LR•128•IPV4『线路75』
+http://183.130.30.174:8808/rtp/233.50.201.192:5140$LR•127•IPV4『线路75』
 #EXTINF:-1 tvg-id="76" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://183.130.30.174:8808/rtp/233.50.201.192:5140$LR•128•IPV4『线路76』
+http://223.12.13.231:8082/udp/239.1.1.122:8122$LR•127•IPV4『线路76』
 #EXTINF:-1 tvg-id="77" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://223.12.13.231:8082/udp/239.1.1.122:8122$LR•128•IPV4『线路77』
+http://www.furymax.top:85/rtp/239.69.1.249:11136$LR•127•IPV4『线路77』
 #EXTINF:-1 tvg-id="78" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://www.furymax.top:85/rtp/239.69.1.249:11136$LR•128•IPV4『线路78』
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•127•IPV4『线路78』
 #EXTINF:-1 tvg-id="79" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•128•IPV4『线路79』
+http://60.255.240.247:8090/live/CCTV-16_4000.m3u8$LR•127•IPV4『线路79』
 #EXTINF:-1 tvg-id="80" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://60.255.240.247:8090/live/CCTV-16_4000.m3u8$LR•128•IPV4『线路80』
+http://115.60.241.249:2000/rtp/225.1.5.46:1356$LR•127•IPV4『线路80』
 #EXTINF:-1 tvg-id="81" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://115.60.241.249:2000/rtp/225.1.5.46:1356$LR•128•IPV4『线路81』
+http://118.251.60.185:8888/udp/239.76.253.98:9000$LR•127•IPV4『线路81』
 #EXTINF:-1 tvg-id="82" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://118.251.60.185:8888/udp/239.76.253.98:9000$LR•128•IPV4『线路82』
+http://113.109.250.183:9999/udp/239.77.0.165:5146$LR•127•IPV4『线路82』
 #EXTINF:-1 tvg-id="83" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://113.109.250.183:9999/udp/239.77.0.165:5146$LR•128•IPV4『线路83』
+http://124.230.56.27:55555/udp/239.76.253.98:9000$LR•127•IPV4『线路83』
 #EXTINF:-1 tvg-id="84" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://124.230.56.27:55555/udp/239.76.253.98:9000$LR•128•IPV4『线路84』
+http://dms.yryyj.site:8188/udp/239.76.254.200:9000$LR•127•IPV4『线路84』
 #EXTINF:-1 tvg-id="85" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://dms.yryyj.site:8188/udp/239.76.254.200:9000$LR•128•IPV4『线路85』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$LR•127•IPV4『线路85』
 #EXTINF:-1 tvg-id="86" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$LR•128•IPV4『线路86』
+http://14.112.86.101:4022/udp/239.77.0.165:5146$LR•127•IPV4『线路86』
 #EXTINF:-1 tvg-id="87" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://14.112.86.101:4022/udp/239.77.0.165:5146$LR•128•IPV4『线路87』
+http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$LR•127•IPV4『线路87』
 #EXTINF:-1 tvg-id="88" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$LR•128•IPV4『线路88』
+http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000016$LR•127•IPV4『线路88』
 #EXTINF:-1 tvg-id="89" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000016$LR•128•IPV4『线路89』
+http://dms.yryyj.site:8188/udp/239.76.246.98:1234$LR•127•IPV4『线路89』
 #EXTINF:-1 tvg-id="90" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://dms.yryyj.site:8188/udp/239.76.246.98:1234$LR•128•IPV4『线路90』
+http://124.230.56.119:55555/udp/239.76.253.98:9000$LR•127•IPV4『线路90』
 #EXTINF:-1 tvg-id="91" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://124.230.56.119:55555/udp/239.76.253.98:9000$LR•128•IPV4『线路91』
+http://221.221.162.225:8888/udp/239.3.1.183:8001$LR•127•IPV4『线路91』
 #EXTINF:-1 tvg-id="92" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://221.221.162.225:8888/udp/239.3.1.183:8001$LR•128•IPV4『线路92』
+http://221.221.162.225:8888/udp/239.3.1.184:8001$LR•127•IPV4『线路92』
 #EXTINF:-1 tvg-id="93" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://221.221.162.225:8888/udp/239.3.1.184:8001$LR•128•IPV4『线路93』
+http://114.241.168.152:8888/udp/239.3.1.183:8001$LR•127•IPV4『线路93』
 #EXTINF:-1 tvg-id="94" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.241.168.152:8888/udp/239.3.1.183:8001$LR•128•IPV4『线路94』
+http://123.113.187.204:8000/udp/239.3.1.183:8001$LR•127•IPV4『线路94』
 #EXTINF:-1 tvg-id="95" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.187.204:8000/udp/239.3.1.183:8001$LR•128•IPV4『线路95』
+http://123.113.187.204:8000/udp/239.3.1.184:8001$LR•127•IPV4『线路95』
 #EXTINF:-1 tvg-id="96" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.187.204:8000/udp/239.3.1.184:8001$LR•128•IPV4『线路96』
+http://123.117.237.15:8680/udp/239.3.1.183:8001$LR•127•IPV4『线路96』
 #EXTINF:-1 tvg-id="97" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.117.237.15:8680/udp/239.3.1.183:8001$LR•128•IPV4『线路97』
+http://123.117.237.15:8680/udp/239.3.1.184:8001$LR•127•IPV4『线路97』
 #EXTINF:-1 tvg-id="98" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.117.237.15:8680/udp/239.3.1.184:8001$LR•128•IPV4『线路98』
+http://111.196.135.75:8686/udp/239.3.1.183:8001$LR•127•IPV4『线路98』
 #EXTINF:-1 tvg-id="99" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.196.135.75:8686/udp/239.3.1.183:8001$LR•128•IPV4『线路99』
+http://111.196.135.75:8686/udp/239.3.1.184:8001$LR•127•IPV4『线路99』
 #EXTINF:-1 tvg-id="100" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.196.135.75:8686/udp/239.3.1.184:8001$LR•128•IPV4『线路100』
+http://114.252.114.248:8445/udp/239.3.1.183:8001$LR•127•IPV4『线路100』
 #EXTINF:-1 tvg-id="101" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.252.114.248:8445/udp/239.3.1.183:8001$LR•128•IPV4『线路101』
+http://114.252.114.248:8445/udp/239.3.1.184:8001$LR•127•IPV4『线路101』
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.252.114.248:8445/udp/239.3.1.184:8001$LR•128•IPV4『线路102』
+http://114.254.24.139:18888/udp/239.3.1.183:8001$LR•127•IPV4『线路102』
 #EXTINF:-1 tvg-id="103" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.254.24.139:18888/udp/239.3.1.183:8001$LR•128•IPV4『线路103』
+http://114.254.24.139:18888/udp/239.3.1.184:8001$LR•127•IPV4『线路103』
 #EXTINF:-1 tvg-id="104" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.254.24.139:18888/udp/239.3.1.184:8001$LR•128•IPV4『线路104』
+http://111.199.234.10:18888/udp/239.3.1.183:8001$LR•127•IPV4『线路104』
 #EXTINF:-1 tvg-id="105" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.199.234.10:18888/udp/239.3.1.183:8001$LR•128•IPV4『线路105』
+http://111.199.234.10:18888/udp/239.3.1.184:8001$LR•127•IPV4『线路105』
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.199.234.10:18888/udp/239.3.1.184:8001$LR•128•IPV4『线路106』
+http://114.252.235.176:8000/udp/239.3.1.183:8001$LR•127•IPV4『线路106』
 #EXTINF:-1 tvg-id="107" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.252.235.176:8000/udp/239.3.1.183:8001$LR•128•IPV4『线路107』
+http://114.252.235.176:8000/udp/239.3.1.184:8001$LR•127•IPV4『线路107』
 #EXTINF:-1 tvg-id="108" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.252.235.176:8000/udp/239.3.1.184:8001$LR•128•IPV4『线路108』
+http://123.118.159.0:8686/udp/239.3.1.183:8001$LR•127•IPV4『线路108』
 #EXTINF:-1 tvg-id="109" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.118.159.0:8686/udp/239.3.1.183:8001$LR•128•IPV4『线路109』
+http://123.118.159.0:8686/udp/239.3.1.184:8001$LR•127•IPV4『线路109』
 #EXTINF:-1 tvg-id="110" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.118.159.0:8686/udp/239.3.1.184:8001$LR•128•IPV4『线路110』
+http://111.196.129.152:20000/udp/239.3.1.183:8001$LR•127•IPV4『线路110』
 #EXTINF:-1 tvg-id="111" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.196.129.152:20000/udp/239.3.1.183:8001$LR•128•IPV4『线路111』
+http://111.196.129.152:20000/udp/239.3.1.184:8001$LR•127•IPV4『线路111』
 #EXTINF:-1 tvg-id="112" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.196.129.152:20000/udp/239.3.1.184:8001$LR•128•IPV4『线路112』
+http://221.221.167.14:8888/udp/239.3.1.183:8001$LR•127•IPV4『线路112』
 #EXTINF:-1 tvg-id="113" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://221.221.167.14:8888/udp/239.3.1.183:8001$LR•128•IPV4『线路113』
+http://221.221.167.14:8888/udp/239.3.1.184:8001$LR•127•IPV4『线路113』
 #EXTINF:-1 tvg-id="114" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://221.221.167.14:8888/udp/239.3.1.184:8001$LR•128•IPV4『线路114』
+http://222.129.139.229:8888/udp/239.3.1.183:8001$LR•127•IPV4『线路114』
 #EXTINF:-1 tvg-id="115" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.129.139.229:8888/udp/239.3.1.183:8001$LR•128•IPV4『线路115』
+http://222.129.139.229:8888/udp/239.3.1.184:8001$LR•127•IPV4『线路115』
 #EXTINF:-1 tvg-id="116" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.129.139.229:8888/udp/239.3.1.184:8001$LR•128•IPV4『线路116』
+http://123.113.249.203:8888/udp/239.3.1.183:8001$LR•127•IPV4『线路116』
 #EXTINF:-1 tvg-id="117" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.249.203:8888/udp/239.3.1.183:8001$LR•128•IPV4『线路117』
+http://123.113.249.203:8888/udp/239.3.1.184:8001$LR•127•IPV4『线路117』
 #EXTINF:-1 tvg-id="118" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.249.203:8888/udp/239.3.1.184:8001$LR•128•IPV4『线路118』
+http://222.129.139.91:8888/udp/239.3.1.183:8001$LR•127•IPV4『线路118』
 #EXTINF:-1 tvg-id="119" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.129.139.91:8888/udp/239.3.1.183:8001$LR•128•IPV4『线路119』
+http://222.129.139.91:8888/udp/239.3.1.184:8001$LR•127•IPV4『线路119』
 #EXTINF:-1 tvg-id="120" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://222.129.139.91:8888/udp/239.3.1.184:8001$LR•128•IPV4『线路120』
+http://123.113.237.160:8888/udp/239.3.1.183:8001$LR•127•IPV4『线路120』
 #EXTINF:-1 tvg-id="121" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.237.160:8888/udp/239.3.1.183:8001$LR•128•IPV4『线路121』
+http://123.113.237.160:8888/udp/239.3.1.184:8001$LR•127•IPV4『线路121』
 #EXTINF:-1 tvg-id="122" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://123.113.237.160:8888/udp/239.3.1.184:8001$LR•128•IPV4『线路122』
+http://114.252.238.87:8000/udp/239.3.1.183:8001$LR•127•IPV4『线路122』
 #EXTINF:-1 tvg-id="123" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.252.238.87:8000/udp/239.3.1.183:8001$LR•128•IPV4『线路123』
+http://114.252.238.87:8000/udp/239.3.1.184:8001$LR•127•IPV4『线路123』
 #EXTINF:-1 tvg-id="124" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://114.252.238.87:8000/udp/239.3.1.184:8001$LR•128•IPV4『线路124』
+http://111.192.0.32:4022/rtp/239.3.1.184:8001$LR•127•IPV4『线路124』
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://111.192.0.32:4022/rtp/239.3.1.184:8001$LR•128•IPV4『线路125』
+http://220.164.192.48:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$LR•127•IPV4『线路125』
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-http://220.164.192.48:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$LR•128•IPV4『线路126』
+https://stream1.freetv.fun/cdd93308f8ffbb06fab05e75d7c91d7ec6d9c68d865738572b52b3e8c959cf14.m3u8$LR•127•IPV4『线路126』
 #EXTINF:-1 tvg-id="127" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-https://stream1.freetv.fun/cdd93308f8ffbb06fab05e75d7c91d7ec6d9c68d865738572b52b3e8c959cf14.m3u8$LR•128•IPV4『线路127』
-#EXTINF:-1 tvg-id="128" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
-https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$LR•128•IPV4『线路128』
+https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$LR•127•IPV4『线路127』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=$LR•140•IPV6『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
