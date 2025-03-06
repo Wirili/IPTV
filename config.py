@@ -1,4 +1,4 @@
-ip_version_priority = ""
+ip_version_priority = "ipv6"
 
 source_urls = [
     "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
