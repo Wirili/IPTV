@@ -3580,21 +3580,21 @@ http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$LR•11•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$LR•11•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil$LR•11•IPV4『线路3』
+http://124.116.183.146:9901/tsfile/live/0137_1.m3u8$LR•11•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路4』
+rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil$LR•11•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路5』
+rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路6』
+rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路7』
+rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路8』
+rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路9』
+rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
-rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路10』
+rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil$LR•11•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="少儿动画" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/少儿动画.png" group-title="数字频道",少儿动画
 http://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil/index.m3u8?fmt=ts2hls$LR•11•IPV4『线路11』
 #EXTINF:-1 tvg-id="1" tvg-name="新动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新动漫.png" group-title="数字频道",新动漫
@@ -4016,23 +4016,23 @@ http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8$LR•14•IPV4『�
 #EXTINF:-1 tvg-id="5" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
 http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8$LR•14•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed$LR•14•IPV4『线路6』
+http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519$LR•14•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519$LR•14•IPV4『线路7』
+http://zhfivel02.cztv.com/channel10/1080p.m3u8?auth_key=2524708799-0-0-646cad31c1d94b002a325cd75475d30f$LR•14•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-http://zhfivel02.cztv.com/channel10/1080p.m3u8?auth_key=2524708799-0-0-646cad31c1d94b002a325cd75475d30f$LR•14•IPV4『线路8』
+https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$LR•14•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$LR•14•IPV4『线路9』
+https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$LR•14•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$LR•14•IPV4『线路10』
+https://stream1.freetv.fun/zhe-jiang-guo-ji-3.ctv$LR•14•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-https://stream1.freetv.fun/zhe-jiang-guo-ji-3.ctv$LR•14•IPV4『线路11』
+https://stream1.freetv.fun/zhe-jiang-guo-ji-4.m3u8$LR•14•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-https://stream1.freetv.fun/zhe-jiang-guo-ji-4.m3u8$LR•14•IPV4『线路12』
+https://stream1.freetv.fun/zhe-jiang-guo-ji-5.ctv$LR•14•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-https://stream1.freetv.fun/zhe-jiang-guo-ji-5.ctv$LR•14•IPV4『线路13』
+https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8$LR•14•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="浙江国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江国际.png" group-title="浙江频道",浙江国际
-https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8$LR•14•IPV4『线路14』
+https://stream1.freetv.fun/zhe-jiang-guo-ji-9.m3u8$LR•14•IPV4『线路14』
 #EXTINF:-1 tvg-id="1" tvg-name="浙江少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江少儿.png" group-title="浙江频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•12•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="浙江少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江少儿.png" group-title="浙江频道",浙江少儿
