@@ -122,9 +122,9 @@ http://tvbox6.icu/tv/migu.php?id=cctv5$LR•24•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV5体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5体育.png" group-title="央视频道",CCTV5体育
 http://58.57.40.22:9901/tsfile/live/1004_1.m3u8$LR•24•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5体育.png" group-title="央视频道",CCTV5体育
-http://23.237.228.134/live5/CCTV5p.m3u8$LR•24•IPV4『线路5』
+http://23.237.228.134/live5/CCTV5.m3u8$LR•24•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5体育.png" group-title="央视频道",CCTV5体育
-http://23.237.228.134/live5/CCTV5.m3u8$LR•24•IPV4『线路6』
+http://23.237.228.134/live5/CCTV5p.m3u8$LR•24•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5体育.png" group-title="央视频道",CCTV5体育
 http://27.41.245.32:801/hls/5/index.m3u8$LR•24•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5体育.png" group-title="央视频道",CCTV5体育
@@ -216,11 +216,11 @@ http://58.57.40.22:9901/tsfile/live/1006_1.m3u8$LR•15•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
 http://27.41.245.32:801/hls/6/index.m3u8$LR•15•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
-http://222.169.85.8:9901/tsfile/live/0006_1.m3u8$LR•15•IPV4『线路6』
+http://61.156.228.12:8154/tsfile/live/0006_1.m3u8$LR•15•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
-http://182.150.23.74:808/hls/6/index.m3u8$LR•15•IPV4『线路7』
+http://222.169.85.8:9901/tsfile/live/0006_1.m3u8$LR•15•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
-http://218.3.138.25:1111/tsfile/live/1005_1.m3u8$LR•15•IPV4『线路8』
+http://182.150.23.74:808/hls/6/index.m3u8$LR•15•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$LR•15•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
@@ -230,7 +230,7 @@ http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authi
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
 http://112.27.235.94:8000/hls/7/index.m3u8$LR•15•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
-http://61.156.228.12:8154/tsfile/live/0006_1.m3u8$LR•15•IPV4『线路13』
+http://218.3.138.25:1111/tsfile/live/1005_1.m3u8$LR•15•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
 http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0$LR•15•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6电影.png" group-title="央视频道",CCTV6电影
@@ -528,11 +528,11 @@ http://tvbox6.icu/tv/migu.php?id=cctv14$LR•14•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14少儿.png" group-title="央视频道",CCTV14少儿
 http://58.57.40.22:9901/tsfile/live/1014_1.m3u8$LR•14•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14少儿.png" group-title="央视频道",CCTV14少儿
-http://69.30.246.194/live/cctv14.m3u8$LR•14•IPV4『线路4』
+http://23.237.228.134/live3/CCTV14.m3u8$LR•14•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14少儿.png" group-title="央视频道",CCTV14少儿
-http://27.41.245.32:801/hls/14/index.m3u8$LR•14•IPV4『线路5』
+http://69.30.246.194/live/cctv14.m3u8$LR•14•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14少儿.png" group-title="央视频道",CCTV14少儿
-http://23.237.228.134/live3/CCTV14.m3u8$LR•14•IPV4『线路6』
+http://27.41.245.32:801/hls/14/index.m3u8$LR•14•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14少儿.png" group-title="央视频道",CCTV14少儿
 http://61.136.172.236:9901/tsfile/live/0014_1.m3u8$LR•14•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14少儿.png" group-title="央视频道",CCTV14少儿
@@ -622,43 +622,41 @@ https://hls-gateway.vpstv.net/streams/709089.m3u8$LR•12•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16奥林匹克.png" group-title="央视频道",CCTV16奥林匹克
 http://fm1077.serv00.net/Smart.php?id=cctv16$LR•12•IPV4『线路12』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://43.251.226.89:8080/play/17.m3u8$LR•14•IPV4『线路1』
+http://43.251.226.89:8080/play/17.m3u8$LR•15•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://tvbox6.icu/tv/migu.php?id=cctv17$LR•14•IPV4『线路2』
+http://tvbox6.icu/tv/migu.php?id=cctv17$LR•15•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://58.57.40.22:9901/tsfile/live/0019_1.m3u8$LR•14•IPV4『线路3』
+http://58.57.40.22:9901/tsfile/live/0019_1.m3u8$LR•15•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://23.237.228.134/live3/CCTV17.m3u8$LR•14•IPV4『线路4』
+http://120.238.94.10:9901/tsfile/live/1048_1.m3u8$LR•15•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://120.238.94.10:9901/tsfile/live/1048_1.m3u8$LR•14•IPV4『线路5』
+http://120.211.62.180:8000/hls/17/index.m3u8$LR•15•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://120.211.62.180:8000/hls/17/index.m3u8$LR•14•IPV4『线路6』
+http://183.11.239.36:808/hls/35/index.m3u8$LR•15•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://183.11.239.36:808/hls/35/index.m3u8$LR•14•IPV4『线路7』
+http://120.76.248.139/live/bfgd/4200000204.m3u8$LR•15•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$LR•14•IPV4『线路8』
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub$LR•15•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$LR•14•IPV4『线路9』
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$LR•15•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://61.156.228.12:8154/tsfile/live/0019_1.m3u8$LR•14•IPV4『线路10』
+http://23.237.228.134/live3/CCTV17.m3u8$LR•15•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$LR•14•IPV4『线路11』
+http://61.156.228.12:8154/tsfile/live/0019_1.m3u8$LR•15•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-https://migu.188766.xyz/?migutoken=59cdab67dbc355f0546a7a38abe13a4d&id=CCTV17&type=yy$LR•14•IPV4『线路12』
+http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$LR•15•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://fm1077.serv00.net/Smart.php?id=cctv17$LR•14•IPV4『线路13』
+https://migu.188766.xyz/?migutoken=59cdab67dbc355f0546a7a38abe13a4d&id=CCTV17&type=yy$LR•15•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$LR•14•IPV6『线路14』
+http://fm1077.serv00.net/Smart.php?id=cctv17$LR•15•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17农业农村.png" group-title="央视频道",CCTV17农业农村
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$LR•15•IPV6『线路15』
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN英语" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN英语.png" group-title="央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8$LR•3•IPV4『线路1』
+https://0472.org/hls/cgtn.m3u8$LR•2•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN英语" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN英语.png" group-title="央视频道",CGTN英语
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$LR•3•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CGTN英语" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN英语.png" group-title="央视频道",CGTN英语
-http://fm1077.serv00.net/Smart.php?id=CGTN$LR•3•IPV4『线路3』
+http://fm1077.serv00.net/Smart.php?id=CGTN$LR•2•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN纪录" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN纪录.png" group-title="央视频道",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8$LR•2•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CGTN纪录" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN纪录.png" group-title="央视频道",CGTN纪录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8$LR•2•IPV4『线路2』
+https://0472.org/hls/cgtnd.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN俄语" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8$LR•2•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN俄语" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CGTN俄语.png" group-title="央视频道",CGTN俄语
@@ -684,9 +682,9 @@ http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authi
 #EXTINF:-1 tvg-id="6" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://58.57.40.22:9901/tsfile/live/1028_1.m3u8$LR•13•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://69.30.246.194/live/hnws.m3u8$LR•13•IPV4『线路7』
+http://23.237.228.134/live6/hunan.m3u8$LR•13•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://23.237.228.134/live6/hunan.m3u8$LR•13•IPV4『线路8』
+http://69.30.246.194/live/hnws.m3u8$LR•13•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$LR•13•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -722,9 +720,9 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•19•IPV4『
 #EXTINF:-1 tvg-id="12" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•19•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://23.237.228.134/live6/zhejiang.m3u8$LR•19•IPV4『线路13』
+http://69.30.246.194/live/zjws.m3u8$LR•19•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://69.30.246.194/live/zjws.m3u8$LR•19•IPV4『线路14』
+http://23.237.228.134/live6/zhejiang.m3u8$LR•19•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://cssbyd.imwork.net:8082/hls/22/index.m3u8$LR•19•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -768,19 +766,19 @@ https://www.freetv.top/migu/651632648.m3u8?migutoken=d403039fa45cf7d529b6d60f201
 #EXTINF:-1 tvg-id="16" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
 http://125.42.150.12:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$LR•26•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$LR•26•IPV4『线路17』
+http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8$LR•26•IPV4『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
 http://58.57.40.22:9901/tsfile/live/1030_1.m3u8$LR•26•IPV4『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://23.237.228.134/live6/dongnan.m3u8$LR•26•IPV4『线路19』
+http://69.30.246.194/live/dfws.m3u8$LR•26•IPV4『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://69.30.246.194/live/dfws.m3u8$LR•26•IPV4『线路20』
+http://23.237.228.134/live6/dongnan.m3u8$LR•26•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8$LR•26•IPV4『线路21』
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$LR•26•IPV4『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$LR•26•IPV4『线路22』
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009$LR•26•IPV4『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009$LR•26•IPV4『线路23』
+http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8$LR•26•IPV4『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
 http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$LR•26•IPV4『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
@@ -788,55 +786,59 @@ http://iptv.huuc.edu.cn/hls/dfhd.m3u8$LR•26•IPV4『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
 https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8$LR•26•IPV4『线路26』
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$LR•11•IPV4『线路1』
+http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$LR•12•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$LR•11•IPV4『线路2』
+http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8$LR•12•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://23.237.228.134/live3/beijing.m3u8$LR•11•IPV4『线路3』
+http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$LR•12•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$LR•11•IPV4『线路4』
+http://23.237.228.134/live3/beijing.m3u8$LR•12•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://222.169.85.8:9901/tsfile/live/0017_1.m3u8$LR•11•IPV4『线路5』
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$LR•12•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://218.3.138.25:1111/tsfile/live/1021_1.m3u8$LR•11•IPV4『线路6』
+http://222.169.85.8:9901/tsfile/live/0017_1.m3u8$LR•12•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub$LR•11•IPV4『线路7』
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub$LR•12•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86$LR•11•IPV4『线路8』
+https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86$LR•12•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$LR•11•IPV4『线路9』
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$LR•12•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8$LR•11•IPV4『线路10』
+http://112.27.235.94:8000/hls/27/index.m3u8$LR•12•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://61.156.228.12:8154/tsfile/live/0122_1.m3u8$LR•11•IPV4『线路11』
+http://218.3.138.25:1111/tsfile/live/1021_1.m3u8$LR•12•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
+http://61.156.228.12:8154/tsfile/live/0122_1.m3u8$LR•12•IPV4『线路12』
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://tvbox6.icu/tv/migu.php?id=jsws$LR•12•IPV4『线路1』
+http://tvbox6.icu/tv/migu.php?id=jsws$LR•13•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://58.57.40.22:9901/tsfile/live/1031_1.m3u8$LR•12•IPV4『线路2』
+http://223.105.252.8/PLTV/4/224/3221228099/index.m3u8$LR•13•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://69.30.246.194/live/jsws.m3u8$LR•12•IPV4『线路3』
+http://58.57.40.22:9901/tsfile/live/1031_1.m3u8$LR•13•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://222.214.208.34:59901/tsfile/live/0127_1.m3u8$LR•12•IPV4『线路4』
+http://69.30.246.194/live/jsws.m3u8$LR•13•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://27.41.245.32:801/hls/42/index.m3u8$LR•12•IPV4『线路5』
+http://222.214.208.34:59901/tsfile/live/0127_1.m3u8$LR•13•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://222.169.85.8:9901/tsfile/live/0127_1.m3u8$LR•12•IPV4『线路6』
+http://27.41.245.32:801/hls/42/index.m3u8$LR•13•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub$LR•12•IPV4『线路7』
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub$LR•13•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://112.27.235.94:8000/hls/32/index.m3u8$LR•12•IPV4『线路8』
+http://222.169.85.8:9901/tsfile/live/0127_1.m3u8$LR•13•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://60.16.0.216:5757/hls/24/index.m3u8$LR•12•IPV4『线路9』
+http://112.27.235.94:8000/hls/32/index.m3u8$LR•13•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://61.156.228.12:8154/tsfile/live/0127_1.m3u8$LR•12•IPV4『线路10』
+http://60.16.0.216:5757/hls/24/index.m3u8$LR•13•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://112.46.85.60:8009/hls/33/index.m3u8$LR•12•IPV4『线路11』
+http://61.156.228.12:8154/tsfile/live/0127_1.m3u8$LR•13•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://218.3.138.25:1111/tsfile/live/1017_1.m3u8$LR•12•IPV4『线路12』
+http://112.46.85.60:8009/hls/33/index.m3u8$LR•13•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://218.3.138.25:1111/tsfile/live/1017_1.m3u8$LR•13•IPV4『线路13』
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://23.237.228.134/live8/anhui.m3u8$LR•12•IPV4『线路1』
+http://58.57.40.22:9901/tsfile/live/1033_1.m3u8$LR•12•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://58.57.40.22:9901/tsfile/live/1033_1.m3u8$LR•12•IPV4『线路2』
+http://23.237.228.134/live8/anhui.m3u8$LR•12•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://222.169.85.8:9901/tsfile/live/0130_1.m3u8$LR•12•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -946,15 +948,15 @@ http://61.184.46.85:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-id="10" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$LR•21•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$LR•21•IPV4『线路11』
+http://221.2.148.205:8154/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$LR•21•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
-https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86$LR•21•IPV4『线路12』
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$LR•21•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$LR•21•IPV4『线路13』
+https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86$LR•21•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://120.238.94.82:9901/tsfile/live/1065_1.m3u8$LR•21•IPV4『线路14』
+http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$LR•21•IPV4『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://221.2.148.205:8154/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$LR•21•IPV4『线路15』
+http://120.238.94.82:9901/tsfile/live/1065_1.m3u8$LR•21•IPV4『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://iptv.huuc.edu.cn/hls/szhd.m3u8$LR•21•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -1170,29 +1172,31 @@ https://hls-gateway.vpstv.net/streams/708854.m3u8$LR•13•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•13•IPV6『线路13』
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://tvbox6.icu/tv/migu.php?id=hubws$LR•12•IPV4『线路1』
+http://tvbox6.icu/tv/migu.php?id=hubws$LR•13•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://60.16.0.216:5757/hls/33/index.m3u8$LR•12•IPV4『线路2』
+http://60.16.0.216:5757/hls/33/index.m3u8$LR•13•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://58.57.40.22:9901/tsfile/live/1038_1.m3u8$LR•12•IPV4『线路3』
+http://58.57.40.22:9901/tsfile/live/1038_1.m3u8$LR•13•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://23.237.228.134/live6/hubei.m3u8$LR•12•IPV4『线路4』
+http://222.169.85.8:9901/tsfile/live/0132_1.m3u8$LR•13•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://222.169.85.8:9901/tsfile/live/0132_1.m3u8$LR•12•IPV4『线路5』
+http://120.238.94.10:9901/tsfile/live/1055_1.m3u8$LR•13•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://120.238.94.10:9901/tsfile/live/1055_1.m3u8$LR•12•IPV4『线路6』
+http://124.116.183.146:9901/tsfile/live/0132_1.m3u8$LR•13•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86$LR•12•IPV4『线路7』
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86$LR•13•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://112.27.235.94:8000/hls/41/index.m3u8$LR•12•IPV4『线路8』
+http://23.237.228.134/live6/hubei.m3u8$LR•13•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://61.156.228.12:8154/tsfile/live/0132_1.m3u8$LR•12•IPV4『线路9』
+http://112.27.235.94:8000/hls/41/index.m3u8$LR•13•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://iptv.huuc.edu.cn/hls/hbhd.m3u8$LR•12•IPV4『线路10』
+http://61.156.228.12:8154/tsfile/live/0132_1.m3u8$LR•13•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8$LR•12•IPV4『线路11』
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8$LR•13•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://migu.188766.xyz/?migutoken=113ab9c895c1921cf6e77bf26ea0823a&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$LR•12•IPV4『线路12』
+https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8$LR•13•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://migu.188766.xyz/?migutoken=113ab9c895c1921cf6e77bf26ea0823a&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$LR•13•IPV4『线路13』
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
 http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$LR•14•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
@@ -1204,29 +1208,29 @@ http://125.42.150.12:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="5" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
 http://58.57.40.22:9901/tsfile/live/1043_1.m3u8$LR•14•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://23.237.228.134/live8/jiangxi.m3u8$LR•14•IPV4『线路6』
+http://222.214.208.34:59901/tsfile/live/0138_1.m3u8$LR•14•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://222.214.208.34:59901/tsfile/live/0138_1.m3u8$LR•14•IPV4『线路7』
+http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8$LR•14•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8$LR•14•IPV4『线路8』
+http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8$LR•14•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8$LR•14•IPV4『线路9』
+http://222.169.85.8:9901/tsfile/live/0138_1.m3u8$LR•14•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
 http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub$LR•14•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://112.27.235.94:8000/hls/44/index.m3u8$LR•14•IPV4『线路11』
+http://23.237.228.134/live8/jiangxi.m3u8$LR•14•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$LR•14•IPV4『线路12』
+http://112.27.235.94:8000/hls/44/index.m3u8$LR•14•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://222.169.85.8:9901/tsfile/live/0138_1.m3u8$LR•14•IPV4『线路13』
+http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$LR•14•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
 http://iptv.huuc.edu.cn/hls/jxhd.m3u8$LR•14•IPV4『线路14』
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://tvbox6.icu/tv/migu.php?id=jlws$LR•13•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://58.57.40.22:9901/tsfile/live/1050_1.m3u8$LR•13•IPV4『线路2』
+http://23.237.228.134/live8/jilin.m3u8$LR•13•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://23.237.228.134/live8/jilin.m3u8$LR•13•IPV4『线路3』
+http://58.57.40.22:9901/tsfile/live/1050_1.m3u8$LR•13•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://111.61.236.247:9081/hls/45/index.m3u8$LR•13•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
@@ -1452,43 +1456,41 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="15" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8$LR•15•IPV6『线路15』
 #EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://tvbox6.icu/tv/migu.php?id=xjws$LR•19•IPV4『线路1』
+http://tvbox6.icu/tv/migu.php?id=xjws$LR•18•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$LR•19•IPV4『线路2』
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$LR•18•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://58.57.40.22:9901/tsfile/live/1055_1.m3u8$LR•19•IPV4『线路3』
+http://58.57.40.22:9901/tsfile/live/1055_1.m3u8$LR•18•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://live.wjyanghu.com/live/CH1.m3u8$LR•19•IPV4『线路4』
+http://live.wjyanghu.com/live/CH1.m3u8$LR•18•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8$LR•19•IPV4『线路5』
+http://221.2.148.205:8154/tsfile/live/0110_1.m3u8$LR•18•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://183.11.239.36:808/hls/65/index.m3u8$LR•19•IPV4『线路6』
+http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8$LR•18•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://120.76.248.139/live/bfgd/4200000150.m3u8$LR•19•IPV4『线路7』
+http://183.11.239.36:808/hls/65/index.m3u8$LR•18•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86$LR•19•IPV4『线路8』
+http://61.156.228.12:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$LR•18•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$LR•19•IPV4『线路9』
+https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86$LR•18•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://61.156.228.12:8154/tsfile/live/0110_1.m3u8$LR•19•IPV4『线路10』
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$LR•18•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://221.2.148.205:8154/tsfile/live/0110_1.m3u8$LR•19•IPV4『线路11』
+http://61.156.228.12:8154/tsfile/live/0110_1.m3u8$LR•18•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://221.2.148.205:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$LR•19•IPV4『线路12』
+http://221.2.148.205:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$LR•18•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://goo.bkpcp.top/mg/xjws$LR•19•IPV4『线路13』
+http://goo.bkpcp.top/mg/xjws$LR•18•IPV4『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://61.156.228.12:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$LR•19•IPV4『线路14』
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8$LR•18•IPV6『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8$LR•19•IPV6『线路15』
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$LR•18•IPV6『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$LR•19•IPV6『线路16』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8$LR•18•IPV6『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8$LR•19•IPV6『线路17』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$LR•18•IPV6『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$LR•19•IPV6『线路18』
-#EXTINF:-1 tvg-id="19" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•19•IPV6『线路19』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•18•IPV6『线路18』
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
 http://tvbox6.icu/tv/migu.php?id=ynws$LR•13•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
@@ -1859,10 +1861,6 @@ https://stream1.freetv.fun/jiang-men-zong-he-9.ctv$LR•8•IPV4『线路6』
 https://stream1.freetv.fun/jiang-men-zong-he-8.ctv$LR•8•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="江门综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江门综合.png" group-title="广东频道",江门综合
 https://stream1.freetv.fun/jiang-men-zong-he-5.ctv$LR•8•IPV4『线路8』
-#EXTINF:-1 tvg-id="1" tvg-name="河源综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河源综合.png" group-title="广东频道",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="河源公共" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河源公共.png" group-title="广东频道",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="佛山综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/佛山综合.png" group-title="广东频道",佛山综合
 https://stream1.freetv.fun/fo-shan-zong-he-7.ctv$LR•7•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="佛山综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/佛山综合.png" group-title="广东频道",佛山综合
@@ -1900,17 +1898,19 @@ https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8$LR•9•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$LR•9•IPV6『线路9』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://43.251.226.89:8080/play/225.m3u8$LR•6•IPV4『线路1』
+http://43.251.226.89:8080/play/225.m3u8$LR•7•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$LR•6•IPV4『线路2』
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$LR•7•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv$LR•6•IPV4『线路3』
+http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$LR•7•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv$LR•6•IPV4『线路4』
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv$LR•7•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$LR•6•IPV4『线路5』
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv$LR•7•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8$LR•6•IPV4『线路6』
+https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$LR•7•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8$LR•7•IPV4『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/卡酷少儿.png" group-title="数字频道",卡酷少儿
 http://58.57.40.22:9901/tsfile/live/1060_1.m3u8$LR•10•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/卡酷少儿.png" group-title="数字频道",卡酷少儿
@@ -2002,27 +2002,29 @@ https://tv.iill.top/migu/xdm&token=ad73153cdea1fbd107ecb21f633c449542412c1ff26b1
 #EXTINF:-1 tvg-id="10" tvg-name="新动漫" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新动漫.png" group-title="数字频道",新动漫
 https://migu.188766.xyz/?migutoken=abd1a1662fd490eaf341cf605e2737d7&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy$LR•10•IPV4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•11•IPV4『线路1』
+http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•12•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•11•IPV4『线路2』
+http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$LR•12•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•11•IPV4『线路3』
+https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•12•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8$LR•11•IPV4『线路4』
+https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•12•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8$LR•11•IPV4『线路5』
+https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8$LR•12•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8$LR•11•IPV4『线路6』
+https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8$LR•12•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•11•IPV4『线路7』
+https://stream1.freetv.fun/jin-ying-qia-tong-19.m3u8$LR•12•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8$LR•11•IPV4『线路8』
+https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•12•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-gao-qing-1.m3u8$LR•11•IPV4『线路9』
+https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8$LR•12•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•11•IPV4『线路10』
+https://stream1.freetv.fun/jin-ying-qia-tong-gao-qing-1.m3u8$LR•12•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-32.ctv$LR•11•IPV4『线路11』
+https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•12•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰卡通.png" group-title="数字频道",金鹰卡通
+https://stream1.freetv.fun/jin-ying-qia-tong-32.ctv$LR•12•IPV4『线路12』
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://iptv.huuc.edu.cn/hls/gedocu.m3u8$LR•10•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金鹰纪实.png" group-title="数字频道",金鹰纪实
@@ -2166,11 +2168,11 @@ https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8$LR•10•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="上海都市" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/上海都市.png" group-title="上海频道",上海都市
 https://migu.188766.xyz/?migutoken=eab1784005f39dbf37190ac7e43d6d51&id=shds&type=sz$LR•10•IPV4『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="五星体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/五星体育.png" group-title="上海频道",五星体育
-https://other.ottiptv.cc/wxty.m3u8$LR•10•IPV4『线路1』
+https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8$LR•10•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="五星体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/五星体育.png" group-title="上海频道",五星体育
-https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8$LR•10•IPV4『线路2』
+https://migu.188766.xyz/?migutoken=ed5a02a3b87f3dcc808d4b733daf5cf9&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$LR•10•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="五星体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/五星体育.png" group-title="上海频道",五星体育
-https://migu.188766.xyz/?migutoken=ed5a02a3b87f3dcc808d4b733daf5cf9&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1$LR•10•IPV4『线路3』
+https://other.ottiptv.cc/wxty.m3u8$LR•10•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="五星体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/五星体育.png" group-title="上海频道",五星体育
 https://hls-gateway.vpstv.net/streams/636980.m3u8$LR•10•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="五星体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/五星体育.png" group-title="上海频道",五星体育
@@ -2483,8 +2485,6 @@ http://fm1077.serv00.net/Smart.php?id=ttv_taiwan$LR•IPV4
 http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="民视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻.png" group-title="港·澳·台",民视新闻
 http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="邵氏影院" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/邵氏影院.png" group-title="电影轮播",邵氏影院
-http://www.douzhicloud.site:35455/douyu/4246519$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="水浒传" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/水浒传.png" group-title="剧集轮播",水浒传
 http://43.251.226.89:8080/play/1562.m3u8$LR•2•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="水浒传" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/水浒传.png" group-title="剧集轮播",水浒传
@@ -2492,30 +2492,8 @@ http://www.clmy.cc:35455/yy/1353873252$LR•2•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="三国演义" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三国演义.png" group-title="剧集轮播",三国演义
 https://live.iill.top/huya/11602081$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="猫和老鼠" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/猫和老鼠.png" group-title="剧集轮播",猫和老鼠
-http://www.douzhicloud.site:35455/huya/11352879$LR•3•IPV4『线路1』
+https://live.iill.top/huya/11352879$LR•2•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="猫和老鼠" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/猫和老鼠.png" group-title="剧集轮播",猫和老鼠
-https://live.iill.top/huya/11352879$LR•3•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="猫和老鼠" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/猫和老鼠.png" group-title="剧集轮播",猫和老鼠
-http://live.iill.top/huya.php?id=11352879$LR•3•IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="刑事侦缉档案" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/刑事侦缉档案.png" group-title="剧集轮播",刑事侦缉档案
-http://www.douzhicloud.site:35455/huya/29465856$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="寻秦记" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寻秦记.png" group-title="剧集轮播",寻秦记
-http://www.douzhicloud.site:35455/huya/29465848$LR•IPV4
+http://live.iill.top/huya.php?id=11352879$LR•2•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="笑傲江湖" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/笑傲江湖.png" group-title="剧集轮播",笑傲江湖
 https://live.iill.top/huya/23865142$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="倚天屠龙记" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/倚天屠龙记.png" group-title="剧集轮播",倚天屠龙记
-http://www.douzhicloud.site:35455/huya/23734246$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="创世纪" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/创世纪.png" group-title="剧集轮播",创世纪
-http://www.douzhicloud.site:35455/huya/29465852$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="使徒行者" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/使徒行者.png" group-title="剧集轮播",使徒行者
-http://www.douzhicloud.site:35455/huya/23734256$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="金枝欲孽" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/金枝欲孽.png" group-title="剧集轮播",金枝欲孽
-http://www.douzhicloud.site:35455/huya/29465847$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="大唐双龙传" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/大唐双龙传.png" group-title="剧集轮播",大唐双龙传
-http://www.douzhicloud.site:35455/huya/29465850$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="妙手仁心" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/妙手仁心.png" group-title="剧集轮播",妙手仁心
-http://www.douzhicloud.site:35455/huya/29465853$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="笑看风云" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/笑看风云.png" group-title="剧集轮播",笑看风云
-http://www.douzhicloud.site:35455/huya/29465858$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="大时代" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/大时代.png" group-title="剧集轮播",大时代
-http://www.douzhicloud.site:35455/huya/23865161$LR•IPV4
